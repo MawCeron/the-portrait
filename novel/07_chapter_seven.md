@@ -102,34 +102,150 @@ I kept the accounts. I saw the numbers. We weren't in danger—our business was 
 
 Each time he returned—a little thinner from the journey, a little dustier from the roads, a little more enchanted with whatever he'd witnessed—I wondered how long the chase could continue before he realized he didn't actually want it to end.
 
-Because an ended chase meant no more visits. No more conversations. No more moments of being treated as Leonardo's friend rather than his patron. No more standing close enough to genius to feel its warmth.
+He came back late one evening after nearly a month away—Rome this time, chasing another rumor of Leonardo's whereabouts. I heard the gate before I saw him, the familiar rhythm of his return: boots scraped thin by roads, cloak smelling of smoke and other people's hearths, leather bag heavy with things that weren't the portrait. His eyes were bright with whatever brilliance he'd brushed up against this time.
 
-As long as the portrait remained unfinished, Francesco had a reason to keep going back. A legitimate reason, one he could defend to me, to himself, to anyone who questioned why a sensible merchant kept traveling across Italy to visit an artist who clearly had no intention of delivering his commission any time soon.
+He was halfway through unpacking when I spoke—setting small, useless objects on the table one by one like treasures: scraps of paper covered in sketches he'd bought from an apprentice, a length of specially twisted cord Leonardo had "found interesting" for some engineering purpose, a pressed flower from a garden Leonardo had praised for its geometry.
 
-Meanwhile, our children grew from toddlers into small, observant people with opinions about everything. They learned their father's pattern as thoroughly as I had, absorbed it as simply part of the natural rhythm of our household.
+"Do you know what happened while you were gone?"
 
-"Where is Papa?" they'd ask the servants when Francesco's place at the table was empty for dinner.
+Something in my voice made him stop. Not turn around. Just stop, his hand frozen halfway to setting down a small bronze gear.
+
+"What?" he asked, and I could hear him trying to gauge whether this would be minor or significant, whether he needed to brace himself.
+
+"Piero fell from the horse." My voice came out flat, deliberately so. "The mare you promised to teach him to ride before you left."
+
+He turned then. Slowly. His face already beginning to pale.
+
+"He was trying to show his brother he could do it," I went on, because once the words start, they don't much care whether you're ready for them. "He remembered what you'd told him about keeping his heels down, about sitting straight. He remembered everything you said in those ten minutes you spent with him before Leonardo's name came up again."
+
+Francesco opened his mouth but I kept going.
+
+"The mare startled at a dog. He slipped. Hit the ground headfirst." I pressed my fingers together without realizing it, remembering. "There was blood everywhere, Francesco. So much blood. All down his face, soaking into his shirt. Bartolomeo had to carry him inside because I couldn't—my hands were shaking too badly."
+
+"Lisa—"
+
+"I thought—" My voice betrayed me then, cracked open like old plaster that's been holding together longer than it should. "I thought he was dying. He wasn't moving at first, and there was so much blood, and I thought—"
+
+Francesco crossed the room in two strides, reached for me, but I stepped back. Not dramatically. Just enough.
+
+"Is he—" His voice was raw.
+
+"He's fine," I said quickly. Too quickly, like I needed to get the relief out before the anger could follow. "The physician came. Stitched him. Eight stitches across his forehead. He'll have a scar. A bad one." I turned away, busying my hands with straightening things that didn't need straightening. "He was very brave. Didn't cry after the first few minutes. Asked if you'd be proud of him for being strong."
+
+The silence that followed felt like something physical in the room.
+
+Francesco stood there, the color draining from his face like water from a broken vessel. All the glow from Rome, all the excitement of whatever he'd seen or heard or almost-achieved—gone. Just an aging man standing in his own home, holding a piece of cord he'd carried across Italy for no good reason.
+
+"And you were in Rome," I said, still not looking at him. Not accusing so much as stating a fact that needed stating. "Asking about a painting."
+
+"I didn't know." His voice came out barely above a whisper. "Lisa, if I'd known—I would never—"
+
+"I know," I said, and turned to face him. "I know you didn't know. I know you would have come home if there'd been any way to reach you. I know you would have been here if you could have been."
+
+I met his eyes.
+
+"But you _weren't_ here. You haven't been here. And whether that's Milan or Rome or wherever Leonardo has run to next, the result is the same, isn't it?"
+
+There were other things I could have said. Should have said, perhaps. About the nights I lay awake listening for sounds that meant disaster, learning to distinguish between normal childhood noise and the kind that meant something was wrong. About the way the children had begun to ask for me even when he was home, out of habit, because I was the one who was always there. About how our bed felt wider every time he returned, as if absence could stretch space itself. About how the house felt larger every year and lonelier, like a place designed for guests who never quite arrived.
+
+About how I'd stood in Piero's room that night after the physician left, watching our son sleep with his bandaged head, and thought: _At least if Francesco had been here, I wouldn't have been so frightened. At least I wouldn't have been alone._
+
+But I swallowed all of it. Pressed it down into whatever place I'd learned to keep such thoughts.
+
+"I managed," I said instead, my voice steady again now. Under control. "I sent for the physician. I held Piero still while he stitched. I cleaned the blood. I sat with him until he fell asleep. I calmed his brothers and sister. I explained to the servants. I paid the physician and thanked him. I managed everything, Francesco, because managing is what I do. That's what I've become, isn't it? The one who manages."
+
+"Lisa—" He reached for me again.
+
+I let him take my hand this time, but I didn't squeeze back. Just let it rest there in his grip like something neutral, neither accepting nor rejecting.
+
+"It's done," I said quietly. "He's well. You're home now. That's what matters."
+
+And just like that, with those simple words, I stepped back into myself. Back into the role. The wife. The keeper of accounts and children and household crises. The woman who absorbed absence like cloth absorbs water, who turned solitude into routine, who made one parent feel like enough even when both children and wife knew it wasn't.
+
+Francesco stood there a moment longer, his hand still holding mine, as if waiting for something else to fall. Some reckoning I refused to deliver. Some anger or tears or ultimatum that would give him something clear to respond to, something he could apologize for or promise to fix.
+
+But I gave him none of that. Just stood there, hand in his, face calm, the storm already pressed back down inside me.
+
+"Tell me about Rome," I said finally. "You must have stories."
+
+The relief in his face was painful to see. Permission to return to normalcy. Permission to believe this hadn't damaged something that couldn't be repaired.
+
+He began talking—haltingly at first, then with growing animation—about Leonardo in the Vatican, about some project with mirrors, about the Pope's brother who was apparently impossible to work for.
+
+I listened. Nodded in the right places. Asked questions that let him keep talking.
+
+And the moment passed. The almost-confrontation that never quite happened. The words that almost got said but didn't.
+
+He returned to unpacking his useless treasures, telling his stories, slowly convincing himself that everything was fine, that this was just one of those small marital tensions that arise and dissolve like summer storms.
+
+I returned to my mending, my accounts, my management of everything that needed managing.
+
+The erosion continued—quiet, invisible, thorough as water wearing stone.
+
+And neither of us acknowledged what we both knew: that something had cracked just a little more. That the foundation we'd built our marriage on had developed another small fissure. That one day, if enough of these moments accumulated, if enough almosts became actuallys, something might finally break that couldn't be managed back together.
+
+But not today. Not yet.
+
+We would pretend it was fine. That I had managed. That he was home. That this was enough.
+
+And tomorrow, or next week, or next month, he would hear another rumor of Leonardo in another city.
+
+And the choice would come again. And again. And again.
+
+Because as long as the portrait remained unfinished, Francesco had a reason to keep going back. A legitimate reason, one he could defend to me, to himself, to anyone who questioned why a sensible merchant kept traveling across Italy to visit an artist who clearly had no intention of delivering his commission any time soon.
+
+Meanwhile, our children grew from toddlers into small, observant people with opinions about everything. They learned their father's pattern as thoroughly as I had, absorbed it as simply part of the natural rhythm of our household. The rhythm of absence and return. Of stories that replaced presence. Of a father who glowed when leaving and deflated when staying.
+
+"Where is Papa?" they'd ask the servants when Francesco's place at the table was empty for dinner. Not with worry anymore—that had faded after the first few times. Just with the casual curiosity of children confirming what they already knew.
 
 And every time—without hesitation, without confusion, as if it were the most normal thing in the world—they got the same answer:
 
 "He's gone to visit Maestro Leonardo again."
 
-Sometimes they'd add details: "In Rome this time," or "Milan, I think," or "Somewhere north—your father wasn't entirely clear."
+Sometimes they'd add details, comparing notes like merchants tracking shipments: "In Rome this time," or "Milan, I think," or "Somewhere north—your father wasn't entirely clear before he left."
 
-Eventually, after the first dozen absences, the children stopped treating it like travel, like something unusual worth remarking on. It became simply where fathers went, what fathers did. Like how some fathers went to the docks to oversee shipments, or to the countryside to check on property. Their father went to chase a painter who wouldn't finish a portrait.
+Eventually, after the first dozen absences, the children stopped treating it like travel, like something unusual worth remarking on. It became simply where fathers went, what fathers did. Like how their friends' fathers went to the docks to oversee shipments, or to the countryside to check on vineyards and estates. Their father went to chase a painter who wouldn't finish a portrait.
 
-"Will Maestro Leonardo ever finish Mama's painting?" young Piero asked me once, maybe seven years old, with the devastating directness children sometimes have.
+It was normal. As normal as rain or bread or the bells marking hours.
 
-"Someday," I told him, echoing Leonardo's favorite word.
+And I had made it so. I had made his absence ordinary by managing everything in between. By never breaking. By never forcing him to choose.
+
+"Will Maestro Leonardo ever finish Mama's painting?" young Piero asked me once—this was before his fall, when he was perhaps twelve, old enough to sense the strangeness of it all even if he couldn't quite articulate why it felt strange.
+
+"Someday," I told him, echoing Leonardo's favorite word without thinking.
 
 "When is someday?"
 
-"When it arrives," I said, because I had no better answer.
+"When it arrives," I said, because I had no better answer. Because I'd stopped believing in specific timelines myself.
 
-He'd accepted this with a solemn nod, as if I'd explained something profound about the nature of time itself, and gone back to his lessons.
+He'd accepted this with a solemn nod, as if I'd explained something profound about the nature of time itself—though really I'd just admitted I had no idea, had given up trying to know, had learned to live in the permanent maybe of it all.
 
-And Francesco kept going. Kept chasing. Kept returning with empty hands and full stories.
+Then he went back to his lessons, and I went back to managing.
 
-Kept being happy in a way he'd never been happy before, even if he couldn't quite admit what was making him happy.
+---
 
-The portrait remained wherever Leonardo was, probably still unfinished, possibly still being worked on, certainly still the perfect excuse for everything my husband had come to need.
+And Francesco kept going. Kept chasing. Kept returning with empty hands and full stories, with useless treasures and useful excuses.
+
+Kept being happy in a way he'd never been happy before—the kind of happiness that had nothing to do with achievement or completion, everything to do with pursuit and possibility. The happiness of a man who'd found his purpose even if he couldn't name it, even if naming it would have revealed how little it had to do with the thing he claimed to be chasing.
+
+The portrait remained wherever Leonardo was—Milan, Rome, Florence again, always somewhere—probably still unfinished, possibly still being worked on in those rare moments when Leonardo's attention circled back to it, certainly still the perfect excuse for everything my husband had come to need.
+
+And I remained here. Managing the house, the children, the business, the spaces between Francesco's absences. Managing my own slowly accumulating resentments and griefs and the question I never quite asked myself directly: _When did I stop being a wife and become simply the woman who makes it possible for him to leave?_
+
+But I didn't ask it. Not directly. Not in ways that would require answers.
+
+Because asking would have meant choosing. And choosing would have meant either accepting this forever or forcing a confrontation I wasn't ready for, wasn't sure I could survive.
+
+So instead, I managed.
+
+And the years passed.
+
+And the pattern held.
+
+And somewhere in the space between us, in the distance that grew whether Francesco was home or away, I learned a truth I'd never wanted to know: that you can love someone completely and still feel utterly alone. That presence and absence aren't always about geography. That erosion happens so slowly you don't notice until one day you look down and see how much of yourself has worn away.
+
+But I kept that truth to myself.
+
+Just one more thing to manage.
+
+Just one more weight to carry while pretending my hands were empty.

@@ -84,7 +84,7 @@ Francesco would tell me later, his voice quiet, that it felt like walking throug
 
 But it was too late for such thoughts. They were deep in the palace now, and Francesco's sense of impending disaster was growing with each step.
 
-Swiss Guards in their colorful uniforms stood at attention. Cardinals in red robes swept past, deep in conversation about theology or politics or whatever cardinals discussed. The air smelled of incense and ambition and the peculiar mixture of sanctity and worldly power that only Rome could produce.
+Armed guards stood at attention at every turn—Swiss mercenaries mostly, serious men in practical military dress. Cardinals in red robes swept past, deep in conversation about theology or politics or whatever cardinals discussed. The air smelled of incense and ambition and the peculiar mixture of sanctity and worldly power that only Rome could produce.
 
 Leonardo seemed utterly at home, greeting people by name, making small jokes, completely relaxed.
 
@@ -92,7 +92,7 @@ Francesco felt like he might vomit.
 
 They climbed a staircase. Walked down another corridor. Turned a corner.
 
-And then a Swiss Guard was opening an ornate door, and Leonardo—his voice bright with what Francesco swears was genuine innocence, though I have my doubts—was leading him into a chamber where Pope Leo X himself sat at a desk covered in documents, his jeweled fingers holding a pen, his round face bent in concentration.
+And then a guard was opening an ornate door, and Leonardo—his voice bright with what Francesco swears was genuine innocence, though I have my doubts—was leading him into a chamber where Pope Leo X himself sat at a desk covered in documents, his jeweled fingers holding a pen, his round face bent in concentration.
 
 "Your Holiness," Leonardo said with cheerful formality, as though this were the most natural thing in the world, "may I present Francesco del Giocondo, a most distinguished merchant of Florence and a generous patron of the arts."
 
@@ -130,7 +130,7 @@ Eventually, finally, mercifully, a cardinal appeared in the doorway with an apol
 
 Francesco bowed his way out of the papal presence, his legs somehow still functioning despite feeling like they'd been replaced with rope.
 
-He stumbled through the corridors of the palace, past the glowing Raphaels, past the Swiss Guards, past the cardinals and priests and politicians, until he finally emerged into the Roman sunlight like a man escaping a shipwreck.
+He stumbled through the corridors of the palace, past the glowing Raphaels, past the armed guards, past the cardinals and priests and politicians, until he finally emerged into the Roman sunlight like a man escaping a shipwreck.
 
 He stood there on the street, dazed, humiliated, and—despite everything—impressed against his will.
 

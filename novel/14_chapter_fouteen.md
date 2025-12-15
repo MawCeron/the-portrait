@@ -38,15 +38,17 @@ The same look—surprise flickering into something else. Something that looked a
 
 Francesco didn't understand. Not yet. Not fully. He simply thought the French had peculiar habits of staring at strangers. Or perhaps news of Leonardo's famous Italian visitor had somehow preceded him—unlikely, but he'd learned that gossip traveled in strange ways.
 
-So he kept moving forward, following the directions. Leading his horse because the road climbed and he wanted to save the animal's strength, and besides, his own legs needed stretching after so many days of riding.
+So he kept moving forward, following the directions, still mounted but riding slowly through the town streets, saving his questions, saving his energy for what lay ahead.
 
 The path to the château wound gently uphill, away from the town proper, between trees heavy with new spring leaves. Birds were singing—he remembered this specifically, told me about it. The particular sweetness of their songs. The way the light filtered green through the canopy. The warmth of the sun on his shoulders after the cool morning.
 
-Francesco said it felt like walking toward a reunion. One he'd earned. One he deserved through fifteen years of stubborn, perhaps foolish, but undeniable faith.
+Francesco said it felt like riding toward a reunion. One he'd earned. One he deserved through fifteen years of stubborn, perhaps foolish, but undeniable faith.
 
-The château came into view—smaller than he'd expected for a royal gift, but elegant. Beautiful in its proportions. Red brick and white stone. Windows catching the late morning light like welcoming eyes.
+The château came into view as he rounded a curve in the tree-lined path—more elegant than imposing, he said. Beautiful in its proportions with its pale stone walls catching the light. Red brick accents and decorative chimneys rising against the blue sky. Conical tower roofs that looked almost whimsical. Windows reflecting the morning sun like welcoming eyes.
 
-He reached the gate. Dismounted. Tied his horse to a post there. Brushed the dust from his coat with careful attention, the way one does before an important meeting. Adjusted his hat. Smoothed his beard. Checked his breath—still fresh enough from the bread and cheese he'd eaten that morning.
+Not as grand as the royal château visible in the distance, but perfect in its way. A gentleman's residence fit for honoring a genius.
+
+He reached the gate, dismounted with the careful movements of a man who'd been riding for days, and tied his horse to a post there. Brushed the dust from his coat with careful attention, the way one does before an important meeting. Adjusted his hat. Smoothed his beard. Checked his breath—still fresh enough from the bread and cheese he'd eaten that morning.
 
 I imagine him straightening his posture then, pulling his shoulders back the way he used to before entering important negotiations. Preparing to greet the greatest mind of their age not as a supplicant, not as a merchant pestering an artist, but as an equal. As a friend.
 

@@ -1,6 +1,5 @@
-# CHAPTER 2 – The Maestro
-
-## 1503 – Florence
+CHAPTER 2 – The Maestro
+1503 – Florence
 
 If there is one thing my husband cannot stand, it is being ignored. It chafes him worse than cheap wool against bare skin, worse than a merchant being kept waiting in an antechamber while lesser men are received first. And Leonardo da Vinci, without ever intending cruelty—perhaps without even noticing—managed to ignore Francesco spectacularly.
 
@@ -34,7 +33,7 @@ Which meant, I would learn later, that Leonardo had stared somewhere in Francesc
 
 He replayed the entire negotiation for me, every detail, every nuance, pacing the courtyard while I pretended to focus on the accounts. In truth, I was watching my husband transform before my eyes into something I'd never quite seen before: not the careful merchant, not the ambitious social climber, but something simpler and more vulnerable. A man meeting someone he admired.
 
-"He said he'd consider a portrait," Francesco told me, chest puffed with pride. "He asked questions. About you, about the house, about our children. He said—and these were his exact words, Lisa—he said he likes to know the soul of his sitters before he paints them. The _soul_. As if painting were a form of knowing."
+"He said he'd consider a portrait," Francesco told me, chest puffed with pride. "He asked questions. About you, about the house, about our children. He said—and these were his exact words, Lisa—he said he likes to know the soul of his sitters before he paints them. The soul. As if painting were a form of knowing."
 
 "That does sound promising," I said, and meant it. There was something touching about Leonardo caring who I was beyond just another face to render.
 
@@ -82,11 +81,9 @@ And then he wandered off, already lost in whatever problem was currently consumi
 
 Francesco returned home practically glowing. Not because the portrait was underway—it wasn't—but because he had just shaken hands with genius. He might as well have been knighted.
 
-"He called me _signore_," Francesco told me that evening, still marveling. "Not as formality—really meant it. As if I were someone worth remembering."
+"He called me signore," Francesco told me that evening, still marveling. "Not as formality—really meant it. As if I were someone worth remembering."
 
 I smiled and said nothing. Already, I could see the shape of what was coming.
-
----
 
 A week later, Leonardo sent word that he was ready to begin. Would I come to his studio? Would tomorrow morning suit?
 
@@ -114,9 +111,95 @@ His eyes flicked over me, quick as a bird, not quite settling anywhere for long.
 
 He looked up, focused on me properly for the first time, and smiled—a real smile, warm and slightly mischievous. "A useful face is a genuine blessing, signora. Some people have faces that argue with you. All sharp angles and conflicting lines. Exhausting to paint. Yours is peaceful. Harmonious. It will be a pleasure to study."
 
-He meant it kindly, I realized. In Leonardo's world, being useful was perhaps the highest compliment.
+He meant it kindly, I realized. In Leonardo's world, being useful was perhaps the highest compliment. A thing that served its purpose well. A tool that fit the hand. A face that didn't fight the brush.
 
-Francesco hovered nearby, practically vibrating with pride and excitement. "Maestro, we are deeply honored that you would—"
+Still, there was something unsettling about it.
+
+I had the peculiar sensation of being unrolled, like a bolt of fabric on a merchant's table—examined for flaws, measured for worth, assessed for what it might become. Not undressed, exactly, but _revealed_. Exposed in ways that had nothing to do with modesty and everything to do with being seen as a collection of parts rather than a whole person.
+
+His gaze was not improper. Leonardo's eyes held no hunger, no desire, nothing that would have offended Francesco or made me uncomfortable in the way men's looks sometimes did in the market. But it was relentless. Clinical. He looked at me the way Francesco looked at silk: assessing weave, identifying strengths and weaknesses, calculating promise.
+
+And just as with silk, once you notice the inspection, it becomes exhausting to endure.
+
+Sitting there, holding still while his eyes moved across my face with the precision of someone solving a mathematical proof, I became acutely aware of my own features in a way I never had been before.
+
+I noticed, for the first time in my twenty-four years, that my left eye sat slightly lower than my right. Not dramatically—no one had ever mentioned it, and I'd certainly never caught it in my reflection in water or polished metal. But under Leonardo's gaze, studying the proportions and symmetries of my face as if they were architectural elements, I suddenly _felt_ the asymmetry.
+
+I had lived with this face my entire life without remark. Now I wondered how I had never seen it. How I had missed this small imbalance that Leonardo had probably noticed within moments of me sitting down.
+
+I wondered if he saw it as a problem to be corrected. Or as interest to be emphasized. Whether the painted version of me would have level eyes, or if he'd preserve—even exaggerate—the flaw.
+
+I wondered, more uncomfortably, whether the painting would capture who I actually was, or who he _thought_ I was.
+
+The distinction suddenly seemed important in a way I couldn't quite articulate. Outside that studio, my husband was chasing an idea—reputation, cultural refinement, a future version of himself standing proudly beneath a finished masterpiece, gesturing to admiring guests: "My wife. Painted by Leonardo da Vinci himself."
+
+Inside, I was the physical reality of that ambition. A woman on an uncomfortable stool. Spine already beginning to ache from holding still. Hands folded just so because he'd positioned them three times before being satisfied. Trying not to sneeze from the dust motes floating through the light. Trying not to fidget. Trying not to think about how long this would take or how many more sessions there would be.
+
+Leonardo spoke in his distracted way of mystery and essence and balance. Of capturing not just appearance but some deeper truth. Of light and shadow and the geometry of beauty.
+
+I thought about whether we had enough flour left for the week's bread. Whether our son's cough sounded worse at night than it had in the morning. Whether the light would shift soon and force me to hold this position even longer.
+
+The gap between what he was trying to capture and what I actually was yawned before me like a chasm I could fall into.
+
+Somewhere between us, I realized, a third woman was being created. One who existed only on that wooden panel, in layers of pigment and oil. She was not quite me—she would never have the concerns or irritations or small pains of my actual body. And she was not quite whatever Leonardo imagined when he studied my face—she would be limited by what his hands could actually execute, by what the paint would allow.
+
+She would never worry about bread or children. She would never fidget or need to use the privy or have her stomach growl embarrassingly during a sitting. She would never be tired or bored or wonder how much longer this would take.
+
+She would sit forever, suspended between thought and expression, caught in whatever moment Leonardo decided was worth preserving.
+
+And people would look at her—at the painted version of me—and think they were seeing Lisa Gherardini. Think they were seeing _me_.
+
+But they would be seeing someone else entirely. Some ideal. Some mystery. Some woman Leonardo had invented using my face as raw material.
+
+There were moments when I felt utterly visible and completely invisible at once. Leonardo was looking at me so intensely, studying me with such focus, that I had never been more _seen_ by anyone. And yet—he did not see Lisa. He did not see the woman who'd woken that morning and argued with the baker's daughter about the price of eggs. Who'd soothed a crying child. Who'd helped Francesco practice what he'd say when he negotiated with the Medici agents.
+
+He saw a problem to solve. A harmony to achieve. A collection of curves and shadows and proportions that either pleased him or didn't. A face that, thankfully, did not fight him.
+
+Not Lisa. Just a useful face.
+
+And yet—
+
+Sometimes—
+
+His brush would pause mid-stroke. His eyes would narrow, not critically as when he was assessing proportion, but _curiously_, as if he had stumbled upon something unexpected. Something he hadn't planned for. An expression or quality that surprised him.
+
+"You know," he said once, tilting his head to study me from a different angle, "you have a rather knowing expression."
+
+"I do?" I asked, startled both by the comment and by the break in the long silence.
+
+"Yes." He leaned back slightly, still studying me. "As if you are aware of something the rest of us have missed. Some joke we're not in on. Or perhaps some truth we're too busy to notice."
+
+I had no idea what he meant. I wasn't thinking anything particularly knowing. I was thinking about nothing at all, really. Or rather, about everything too ordinary and mundane to name. The small cascade of thoughts that fill the spaces when you're sitting still with nothing to occupy your hands: Did I remember to tell the servant about the torn hem? Was that spot on Piero's cheek just dirt or the beginning of a rash? Would Francesco remember to bring home the good olive oil or would I have to remind him again?
+
+Nothing knowing. Nothing mysterious. Just the ordinary clutter of a woman's mind during a moment of forced stillness.
+
+"Hold that," Leonardo murmured, picking up his brush again with renewed energy. "Yes—that. That is exactly it."
+
+"What is?" I asked, confused.
+
+But he didn't answer. He was already painting again, lost in whatever he'd seen that I hadn't known I was showing.
+
+He never did answer such questions. It was as if the things he saw in faces weren't things that could be explained with words. Only captured with paint, if one was skilled enough. If one looked hard enough. If one was patient enough to wait for the right expression to surface.
+
+Over subsequent sittings—and there would be many, though I didn't know that yet—he returned again and again to my mouth. To the way it rested when I wasn't thinking about it.
+
+"Don't smile," he'd say. "But don't frown either."
+
+"What should I do, then?"
+
+"Just... let it rest as it pleases. Think of something neutral."
+
+So I tried to think of nothing. Or perhaps of everything cancelling itself out—happy thoughts balanced against worrying ones, pleasant memories checked by tedious tasks ahead. I thought of the quiet between breaths. Of the moment just before sleep, when your mind hasn't quite gone dark but has stopped actively thinking. Of staring into space while waiting for water to boil, present but absent, there but elsewhere.
+
+"Not sad," he said, studying my mouth with almost painful intensity. "Not happy. Something else. Something in between."
+
+_In between what?_ I wanted to ask. Between emotions? Between thoughts? Between being and not being?
+
+But I didn't ask. I just sat there, trying to let my face do whatever it apparently did when I wasn't controlling it. Trying to achieve this impossible state of being neither one thing nor another.
+
+If the world later decided there was mystery in my expression—and I'm told they have, that people study that painting and debate what the woman in it is thinking, what secret lies behind that subtle curve of her lips—then it must have been born there, in that moment.
+
+In the simple effort of a woman trying very hard to think about nothing at all.
 
 Leonardo waved a dismissive hand without looking at him. "Yes, yes. Hold that thought."
 

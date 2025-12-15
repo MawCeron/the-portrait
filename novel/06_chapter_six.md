@@ -220,7 +220,9 @@ Francesco had felt a flush of pleasure at those words, even as he'd recognized t
 
 "I consider you a friend," Francesco had said, the wine making him brave. "If that's not presumptuous."
 
-Leonardo had reached across the table and clasped his hand briefly. "Not at all. Friends are precious. I don't have as many as I should, perhaps. Too busy chasing ideas to maintain proper friendships. But yes, Francesco. I'd be honored to call you a friend."
+Leonardo had reached across the table and clasped his hand briefly. "Not at all. Friends are precious. I don't have as many as I should, perhaps. Too busy chasing ideas to maintain proper friendships."
+
+He paused, seemed about to say more, then just smiled and refilled Francesco's wine cup instead.
 
 They'd stayed until late, until the osteria was nearly empty and the owner was giving them pointed looks. They'd talked about everything and nothing—about their childhoods, about what they'd imagined their lives would be, about the strangeness of growing older and finding yourself in places you never expected.
 

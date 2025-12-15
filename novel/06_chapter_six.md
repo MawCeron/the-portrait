@@ -84,7 +84,103 @@ My husband's heart, however, had taken up permanent residence in every room Leon
 
 And I knew, watching him glow with this secondhand light, that this was far from over.
 
-This was just the beginning.
+But the glow didn't last. It never did.
+
+Three days after returning from Milan—three days of stories told and retold, of animated conversations about flying machines and water systems, of Francesco glowing with reflected brilliance—I found him at his desk in the shop, staring at wool samples spread before him as if they were written in an ancient language he could no longer read.
+
+Marco, our senior assistant, stood nearby with the patience of a man who'd been waiting a while. He had questions about a Venetian shipment. Simple questions. The kind Francesco usually answered while barely looking up from his accounts—wool quality, price points, whether to accept this lot or negotiate for better.
+
+Questions Francesco had answered hundreds, perhaps thousands, of times over the years. Questions that required no thought, just experience.
+
+"Francesco?" I prompted gently, coming to stand beside the desk.
+
+He blinked, slowly, as if waking from a dream he'd been trying to hold onto. "What?"
+
+"Marco needs your decision about the Venetian wool. The merchant is waiting for our answer."
+
+He looked down at the samples again. Touched one piece, then another, his fingers moving mechanically. These were movements he'd made ten thousand times—feeling for quality, testing the weave, assessing value with the expertise that had made him Consul of the Silk Guild at twenty-four.
+
+But now his hands seemed uncertain, hesitant, as if they'd forgotten what they were supposed to know.
+
+"Just..." He trailed off, rubbed his face with both hands. "Whatever seems best. You decide, Marco."
+
+The silence that followed felt weighted.
+
+Marco and I exchanged glances. Brief, but enough. We both heard what Francesco had just said. What he'd never said before, not in all the years I'd known him.
+
+Francesco never said "whatever seems best." Francesco _had opinions_ about wool. Strong opinions. Specific preferences backed by years of experience about which merchants were reliable, which regions produced the best quality, what price was fair versus what was inflated by middlemen taking advantage.
+
+He'd built his reputation on those opinions. On his ability to assess quality faster and more accurately than men twice his age.
+
+"Are you certain?" Marco asked carefully. "This is a large order. If the quality isn't—"
+
+"I'm certain," Francesco said, but his voice carried no certainty at all. "You know what to look for. Handle it."
+
+Marco bowed slightly and left, taking the samples with him. Taking the decision Francesco couldn't seem to make.
+
+I stayed, watching my husband sit there with empty hands, staring at the desk as if it had betrayed him somehow.
+
+---
+
+That evening, he was quiet through dinner. Not contemplative—that was different, active. This was more like absence while present. He picked at his food, moving it around his plate without eating much. The children noticed. I saw them glancing at each other, the way they did when something felt wrong but they didn't know what.
+
+When Piero—brave, curious Piero—asked him about the journey to Milan, asked what Leonardo had shown him this time, Francesco answered in brief, flat sentences. Nothing like his usual elaborate stories with animated gestures and detailed descriptions.
+
+"He's working on some mechanical projects."
+
+"Did they work?" Piero pressed, leaning forward eagerly.
+
+"I don't know. Perhaps."
+
+That was it. No explanation of the mechanics, no excitement about the possibility, no invitation for Piero to imagine it with him. Just a wall where engagement used to be.
+
+Piero sat back, deflated, and returned to his food. My heart ached for both of them—the boy wanting his father's attention, the man unable to give it.
+
+---
+
+"Are you unwell?" I asked later that night, after the children were in bed and the house had settled into its evening quiet. We were in our bedchamber, Francesco sitting on the edge of the bed, still dressed, staring at nothing.
+
+"Just tired," he said. An answer that wasn't an answer.
+
+"You've been tired before. This seems different."
+
+He didn't respond for a long moment. Then: "The journey was long. The roads were bad. I'm not as young as I used to be."
+
+All true. None of it the truth.
+
+"Francesco—"
+
+"I'm fine, Lisa." He stood, began undressing with mechanical movements. "I just need rest. Tomorrow I'll be better."
+
+But it wasn't tiredness. I could see that clearly. This was something else, something deeper. A deflation. A dimming. As if being home, being a merchant again, being just Francesco del Giocondo who sold silk and kept accounts and negotiated with suppliers—as if that life was a costume that no longer fit properly after he'd worn something else. Something that felt more real, more important, more _him_.
+
+In Milan, he'd stood in Leonardo's workshop and felt like someone who mattered. Someone whose opinion was sought, whose presence was welcomed, whose understanding was valued by a mind that saw the world differently than anyone else.
+
+Here, he was just a merchant. A good one, successful, respected in his field. But still just a man who bought and sold cloth. Who made decisions about wool quality. Who kept books and managed inventory and worried about profit margins.
+
+How small that must have felt after standing near genius. How ordinary. How insufficient.
+
+---
+
+The next morning, true to his word, he forced himself back into it. Back into being Francesco the merchant, Francesco the father, Francesco the responsible head of household.
+
+He went to the shop early. Made decisions when asked. Greeted customers with appropriate warmth. Reviewed contracts with his usual careful attention to detail.
+
+He asked Piero about his Latin studies over breakfast. Complimented our daughter's needlework. Discussed household matters with me in measured, reasonable tones.
+
+He resumed being the careful businessman, the attentive father, the present husband.
+
+But I'd seen the seams showing. Seen what it cost him to put that costume back on and wear it convincingly. Seen the effort it took to care about things that used to matter effortlessly—things that had once been his passion, his pride, his entire world before Leonardo showed him there were other worlds, larger and more thrilling, just out of reach.
+
+And I understood, watching him work so hard to be who he used to be, that this pattern would repeat. That every return would bring this same cycle: the initial glow, then the slow deflation, then the effortful rebuilding of his ordinary life, then the growing restlessness that would drive him to leave again.
+
+He was already planning the next trip. I could see it in the way his attention drifted during conversations. In the way he'd pause mid-sentence, his mind clearly elsewhere. In the way he'd stand at windows looking out at nothing, or at everything between here and wherever Leonardo had gone next.
+
+The glow would return. But only when he was leaving.
+
+Only when he was chasing again.
+
+Never, anymore, when he was home.
 
 ---
 

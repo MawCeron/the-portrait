@@ -92,53 +92,131 @@ Francesco felt like he might vomit.
 
 They climbed a staircase. Walked down another corridor. Turned a corner.
 
-And then a guard was opening an ornate door, and Leonardo—his voice bright with what Francesco swears was genuine innocence, though I have my doubts—was leading him into a chamber where Pope Leo X himself sat at a desk covered in documents, his jeweled fingers holding a pen, his round face bent in concentration.
+And then a guard was opening an ornate door—carved oak, gilded at the edges, the kind of door that announced its own importance—and Leonardo, his voice bright with what Francesco swears was genuine innocence though I have my doubts, was leading him into a chamber where Pope Leo X himself sat at a massive desk covered in documents.
 
-"Your Holiness," Leonardo said with cheerful formality, as though this were the most natural thing in the world, "may I present Francesco del Giocondo, a most distinguished merchant of Florence and a generous patron of the arts."
+The room was magnificent. Impossibly high ceilings with frescoes of saints and angels looking down with expressions that might have been blessing or judgment. Windows that let in light but were placed too high to see anything but sky. The air smelled of incense and beeswax and something else Francesco couldn't identify—perhaps the particular scent of absolute power concentrated in one space.
 
-The Pope looked up.
+"Your Holiness," Leonardo said with cheerful formality, as though this were the most natural thing in the world, as though he brought random Florentine merchants into the Pope's private chambers every day, "may I present Francesco del Giocondo, a most distinguished merchant of Florence and a generous patron of the arts."
 
-Giovanni de' Medici—Pope Leo X, the former Giovanni, whom Francesco had probably seen a dozen times in Florence before he became Pope—his face lit up the way only a Medici recognizing another Florentine in a foreign city can light up.
+The Pope looked up from whatever document he'd been reading.
 
-"A Florentine!" The Pope actually stood, smiling warmly. "We are practically neighbors! Come, come closer. Tell me, how fares our beautiful city? I miss it terribly, you know. They tell me Rome is the center of Christendom, but Florence is the center of my heart."
+Giovanni de' Medici. Pope Leo X now, but once just Giovanni, son of Lorenzo the Magnificent, a man Francesco had probably seen a dozen times in Florence before his elevation—at church, at festivals, once at a guild function where the Medici had sent a representative. Back when he'd been merely extraordinarily wealthy and powerful rather than God's representative on Earth.
+
+His face lit up the way only a Medici recognizing another Florentine in a foreign city can light up—with genuine warmth mixed with political calculation mixed with nostalgia for a place that would always be home no matter how far power carried you from it.
+
+"A Florentine!" The Pope actually stood—the Pope, standing for a merchant, and Francesco felt his knees go weak—smiling with what appeared to be genuine pleasure. "Maestro Leonardo, you should have told me! We are practically neighbors, signore! Come, come closer. Don't hover at the door like a petitioner."
+
+Francesco found himself moving forward on legs that felt disconnected from his body. His mind was screaming a single word over and over: _Pope Pope Pope Pope_—as if the repetition might make the situation less impossible.
+
+He bowed. Deeply. The kind of bow he'd practiced for important clients but had never imagined deploying for the Vicar of Christ. His doublet pulled tight across his shoulders—his second-best doublet, he thought wildly, why hadn't he worn the good one, why hadn't he known he'd need the good one for meeting the POPE—
+
+"Your Holiness," he managed, and was grateful his voice came out relatively steady despite his heart trying to climb out of his throat.
+
+"Please, please, rise." The Pope gestured welcomingly. "Any friend of Maestro Leonardo's is most welcome here. And a Florentine doubly so! Tell me, signore, how fares our beautiful city? I miss it terribly, you know." His voice carried real longing. "They tell me Rome is the center of Christendom, the seat of Peter, the heart of the faith. But Florence—ah, Florence is the center of my heart. Always has been, always will be."
 
 And that was that.
 
-My husband, who had traveled to Rome for the specific and singular purpose of confronting a chronic procrastinator about a decade-old commission, found himself bowing deeply to the Vicar of Christ, successor to Saint Peter, the most powerful religious figure in the known world, while trying desperately not to sweat through his second-best doublet.
+My husband, who had traveled to Rome for the specific and singular purpose of confronting a chronic procrastinator about a decade-old commission, who had spent days in the saddle and a small fortune in expenses, who had rehearsed various speeches ranging from polite inquiry to barely-restrained accusation—found himself standing before the successor to Saint Peter, the most powerful religious figure in the known world, while trying desperately not to sweat through his second-best doublet in the warm Roman air.
 
-He could not be rude. Not to the Pope. Not even slightly impolite.
+He could not be rude. Not to the Pope. Not to the man who could excommunicate entire kingdoms with a word.
 
-He could not demand his painting. Not here. Not now. Not ever, possibly.
+He could not demand his painting. Not here, in this room that smelled of sanctity and power. Not now, while being treated as an honored guest rather than a petitioner.
 
-He could barely speak without his voice shaking.
+Not ever, possibly. The painting had just become impossible to ask about without seeming mercenary, grasping, small.
 
-For what felt like hours but was probably twenty or twenty-five excruciating minutes, the Pope chatted pleasantly about Florence. About governance and the challenges of running a republic versus a monarchy. About wool taxes and trade with the Levant. About mutual acquaintances—did Francesco know this family, that merchant, those bankers? About the weather in Florence versus Rome. About food, about architecture, about a dozen things that Francesco would later not remember clearly because his entire being was focused on not fainting or saying something catastrophically stupid.
+He could barely speak without his voice shaking, barely think beyond the overwhelming reality of where he was and who he was speaking to.
 
-And at some point during this conversation—Francesco isn't sure exactly when, because time had stopped making sense—he glanced sideways toward where Leonardo had been standing near a window.
+"Florence thrives, Your Holiness," Francesco heard himself say, the words coming from somewhere outside his conscious control. "The workshops are busy, trade continues well with the East, the guilds maintain good order—"
+
+"Ah, the guilds!" The Pope settled back into his chair, gesturing for Francesco to sit as well—there was a chair, when had that appeared?—"Tell me, is old Benedetto still running the Wool Guild like a military campaign? He tried to tell me once how to organize a religious procession. Can you imagine?"
+
+And Francesco found himself sitting—sitting! in the Pope's private chambers!—telling stories about Florentine guild politics. About merchants and families the Pope had known before his elevation. About the petty feuds and grand ambitions that shaped daily life in the city they both loved.
+
+The Pope laughed at the right moments, asked intelligent questions, seemed genuinely interested in these small details of home. He asked about specific families—did Francesco know the Salviati? The Tornabuoni? How was that scandal with the Pazzi cousins resolved?
+
+He asked about wool taxes. Actually asked Francesco's opinion about whether the current levy structure was fair or if adjustments might improve trade without reducing revenue. As if Francesco were a consultant rather than a merchant who'd stumbled into an audience with God's representative through the world's most elaborate ambush.
+
+"And the Arno?" the Pope asked. "Does it still flood every spring, or have they finally built proper walls?"
+
+"Still floods, Your Holiness. Though not as badly as in my father's time."
+
+"Mmm. Leonardo has ideas about that, you know. Something about redirecting the flow, channeling it more efficiently. Though he has ideas about everything." The Pope's smile was fond, almost paternal. "That's why we keep him here. His mind never rests."
+
+Francesco's mind snagged on that. "Leonardo works here? In the Vatican?"
+
+"In a manner of speaking. We give him space, materials, freedom to explore whatever captures his interest. He's produced some remarkable sketches for fortifications. Though whether they'll ever be built..." The Pope shrugged elegantly. "Genius often outpaces practicality."
+
+Francesco knew that. God, did he know that.
+
+For what felt like hours but was probably twenty or twenty-five excruciating minutes, the conversation continued. About governance and the challenges of running a republic versus a papal monarchy. About trade routes through the Ottoman territories and whether the Turks were as threatening as some claimed. About food—did Francesco know that Roman cuisine was woefully inadequate compared to Florentine? About architecture, about families, about a dozen things that Francesco would later struggle to remember clearly because his entire being was focused on not fainting, not saying something catastrophically stupid, not somehow offending the Pope and ending up excommunicated or imprisoned or worse.
+
+His collar felt too tight. His doublet too warm. He could feel sweat gathering at his temples, trickling down his spine. But he smiled, he nodded, he answered questions about wool prices and guild politics as if this were a normal conversation in a normal place with a normal person rather than THE POPE.
+
+At some point—Francesco wasn't sure exactly when because time had stopped making any sort of sense, minutes stretching like hours while simultaneously compressing into confused moments—he glanced sideways toward where Leonardo had been standing near the window when they'd entered.
 
 Leonardo was gone.
 
-Simply gone. Vanished. As though he had stepped behind a tapestry and evaporated into mist.
+Simply, completely gone. Not standing by the window anymore. Not examining the frescoes. Not anywhere in the chamber that Francesco could see without turning his head obviously, without making it clear he was looking for someone, without drawing attention to the fact that the person who'd brought him here had vanished like morning mist.
 
-Francesco's eyes darted around the room with what he hoped was subtle desperation. But no, Leonardo da Vinci was simply no longer present in the chamber. He had somehow slipped away while the Pope was discussing Florentine banking practices, and no one had noticed or cared.
+Francesco's heart, which had been racing before, somehow found another gear.
 
-The conversation with the Pope continued—His Holiness seemed in no hurry to dismiss this fellow Florentine—but Francesco's mind was reeling. Had Leonardo planned this? Surely not. Surely even Leonardo wouldn't weaponize the Pope himself as a distraction technique.
+He was alone with the Pope. The Maestro who'd led him here, who'd introduced him, who was supposed to be showing him the portrait—Leonardo had disappeared. Left him here. Abandoned him in the papal chambers with no explanation, no warning, no way to gracefully exit.
 
-And yet.
+"Signor del Giocondo?" The Pope was looking at him with mild concern. "Are you quite well? You've gone rather pale."
 
-Eventually, finally, mercifully, a cardinal appeared in the doorway with an apologetic cough, and the Pope sighed regretfully. "Duty calls, as always. It was a pleasure, Signor del Giocondo. Give my regards to Florence. And if you see our dear Leonardo, tell him I still await those designs he promised for the villa."
+"I'm—yes, Your Holiness. The honor of your presence, I think. I'm somewhat overwhelmed."
 
-Francesco bowed his way out of the papal presence, his legs somehow still functioning despite feeling like they'd been replaced with rope.
+The Pope chuckled warmly. "We forget sometimes that meeting the Pope is rather alarming for those unused to it. Would you like some wine? Water?"
 
-He stumbled through the corridors of the palace, past the glowing Raphaels, past the armed guards, past the cardinals and priests and politicians, until he finally emerged into the Roman sunlight like a man escaping a shipwreck.
+"No, thank you, Your Holiness. You're very kind."
 
-He stood there on the street, dazed, humiliated, and—despite everything—impressed against his will.
+"Not at all. It's rare these days that I have the chance to speak with someone from home. Most people here want something—a position, a dispensation, a favor. But you..." He studied Francesco with shrewd eyes. "You came to see Leonardo, didn't you? Not me."
 
-"That man," he muttered to himself, aware he probably looked like a madman talking to the air, "walked me into the papal chambers to avoid telling me he hasn't finished my portrait."
+Francesco felt his face heat. "I—Your Holiness, I wouldn't presume—"
+
+"Oh, relax." The Pope waved a be-ringed hand. "I'm not offended. Leonardo has that effect on people. They seek him out from all over Italy. All over Europe, really. Everyone wants a piece of his genius. Though between us—" he leaned forward slightly, conspiratorially, "—I think he rather enjoys being so difficult to pin down. It's part of his nature. He's allergic to completion, that one."
+
+"I've noticed," Francesco said before he could stop himself.
+
+The Pope laughed—a real laugh, delighted. "Ah! You have a commission with him, don't you? Let me guess: he's taken your money, started the work, and vanished with promises of 'soon'?"
+
+"Your Holiness is remarkably perceptive."
+
+"Your Holiness has known Leonardo da Vinci for many years. He did the same to my brother, you know. Took Giuliano's commission and then became fascinated with mirrors instead. Some project about burning things with concentrated sunlight. Nearly set fire to a tapestry." The Pope shook his head with fond exasperation. "But he's brilliant. Genuinely brilliant. So we forgive him his eccentricities."
+
+Before Francesco could formulate a response to this—was the Pope actually sympathizing with his situation? Was this permission to complain about Leonardo?—a cardinal appeared in the doorway, murmuring something about a delegation from Venice requiring urgent attention.
+
+The Pope sighed. "Duty calls, as always." He stood, and Francesco scrambled to his feet as well. "It's been a genuine pleasure, Signor del Giocondo. Give my love to Florence when you return. And if you see Maestro Leonardo before I do—though that's unlikely, he's probably halfway to Naples by now—" another warm smile, "—tell him I still await those fortification designs he promised."
+
+"I will, Your Holiness." Francesco bowed deeply again. "Thank you for your time and kindness."
+
+"Not at all. May God bless your journey home."
+
+And then guards were gently ushering him out, through the magnificent chamber, back through corridors he barely remembered entering, until suddenly he was standing in bright Roman sunlight, blinking like a man emerging from a cave.
+
+Leonardo was nowhere to be seen.
+
+Francesco stood there on the steps of the Apostolic Palace, his legs shaking now that the audience was over, his mind reeling from the sheer impossibility of what had just happened.
+
+That man, he thought dazedly. That magnificent bastard of an artist had just walked him into the Pope's private chambers—the POPE—as a distraction technique. As a way to avoid a conversation about an overdue portrait.
+
+He'd been ambushed by the Vicar of Christ.
+
+And somewhere in Rome, Leonardo da Vinci was probably painting something, or designing something, or studying something, completely unconcerned that he'd just deployed the successor to Saint Peter as a human shield against a merchant's entirely reasonable inquiry about a decade-old commission.
+
+Francesco started to laugh. He couldn't help it. It bubbled up from somewhere deep in his chest—part hysteria, part genuine amusement, part something he couldn't quite name. He stood there on the steps of the Apostolic Palace, a Florentine merchant in his second-best doublet, laughing at the sheer audacity of what had just been done to him.
+
+People passing by stared. He didn't care.
+
+He'd been dodged before. In Florence, Leonardo had claimed he needed better light. In Milan, he'd had urgent engineering consultations. In Bologna, he'd been unavoidably detained by a patron.
+
+But Rome. Rome would be the story he'd tell for the rest of his life. The time Leonardo da Vinci made him have tea with the Pope to avoid discussing a painting.
+
+You had to admire it, really. The sheer creativity of the dodge. The perfect reading of the situation—knowing that Francesco couldn't possibly be rude or pushy with the Holy Father, that courtesy and awe would keep him occupied long enough for Leonardo to slip away.
 
 It was brilliant. Infuriating and brilliant.
 
-He never found Leonardo again during that visit to Rome. Searched for two more days, but the Maestro had apparently become very busy with urgent projects that kept him away from his workshop whenever Francesco came calling.
+Francesco wiped his eyes, took a deep breath, and started down the steps. He'd try Leonardo's workshop again tomorrow. And the day after that. For as long as he remained in Rome.
 
 ---
 

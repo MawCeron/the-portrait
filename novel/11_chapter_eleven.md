@@ -126,7 +126,7 @@ The portrait was unfinished.
 
 But Francesco, in his own strange way, was complete.
 
-And I loved him for both—for the merchant he'd been and for the devotee he'd become, for the practical man who balanced accounts and the impractical dreamer who still, at sixty, wondered if he might be able to make one more journey.
+And I loved him for both—for the merchant he'd been and for the devotee he'd become, for the practical man who balanced accounts and the impractical dreamer who still, at fifty-two, wondered if he might be able to make one more journey.
 
 Even if that journey led to France.
 

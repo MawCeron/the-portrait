@@ -56,7 +56,7 @@ And still... Francesco didn't go.
 
 I tried to understand why. Tried to read the reasons in his silences, in the things he didn't say as much as the things he did.
 
-Was it age? Almost certainly that was part of it. He was past sixty now—sixty-one, or perhaps sixty-two, he'd never been entirely sure of his exact birth date. He was no longer the eager man in his forties who could spring across half of Italy on the strength of a rumor and a hope. His knees cracked audibly when he stood. His back stiffened if he sat too long in one position. His beard came in whiter with each passing season, and some mornings he needed time to work the ache out of his joints before he could move normally.
+Was it age? Almost certainly that was part of it. He was past fifty now—fifty-two, or perhaps fifty-four, I'd never been entirely sure of his exact birth date. He was no longer the eager man in his forties who could spring across half of Italy on the strength of a rumor and a hope. His knees cracked audibly when he stood. His back stiffened if he sat too long in one position. His beard came in whiter with each passing season, and some mornings he needed time to work the ache out of his joints before he could move normally.
 
 Was it cost? That seemed plausible too. France wasn't like traveling to Rome or Milan—cities we had contacts in, routes we knew, currencies we understood. France was foreign in every sense, and Leonardo served a king now. There was no pretending this chase was still a reasonable merchant's errand, a simple matter of checking on a commissioned work. It would be a pilgrimage. An expensive, difficult, possibly dangerous pilgrimage to a foreign court in search of a man who might not even remember him.
 

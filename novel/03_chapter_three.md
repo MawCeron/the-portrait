@@ -60,7 +60,77 @@ He found me in the courtyard supervising while our youngest tried to catch a chi
 
 I blinked. "He showed you designs for flying machines."
 
-"He didn't just show me—he _explained_ them. The mechanics of it. How a bird's wing isn't just flapping but creating something he calls 'lift,' how the air itself becomes solid if you push against it correctly. He says the human body could be lighter than wind if we understand its nature properly, if we build the frame right, if we calculate the ratios..." Francesco's hands were moving now, trying to sketch invisible shapes in the air. "I didn't understand half of it, but Lisa, the _possibility_ of it—"
+"He didn't just show me—he pulled me into it," Francesco said, setting down his wine cup with more force than necessary, as if he needed both hands free to contain what he was about to tell me. "I walked in with a plan, Lisa. A rehearsed speech. Very polite, very firm. 'Maestro, perhaps we might discuss when my wife's portrait will be ready.' I practiced it the entire walk there."
+
+"And?" I prompted, though I could already guess how this had gone.
+
+"I got as far as 'Maestro' before he interrupted." Francesco laughed—not his usual careful merchant's laugh, but something younger, freer. "He was at his worktable, charcoal already smudged across three fingers, barely glanced up. 'Ah! Signor Francesco,' he said, waving me in like I was expected. 'Good timing. I was just thinking about wings.'"
+
+I set down the bread knife. This was going to take a while.
+
+"I tried again," Francesco continued, standing now because apparently sitting was impossible when one had witnessed genius at work. "'About the portrait—' But he was already moving. You know how he moves, Lisa? Like water flowing around stones, like he's not walking so much as being pulled by invisible threads toward whatever thought just caught his attention."
+
+Francesco began to pace, his hands starting to move the way they always did when he was excited, sketching shapes in the air that only he could see.
+
+"He swept me over to this table—absolutely buried in papers, Lisa, weighted down with the strangest collection of objects. A stone. A cog. A length of twine. A chicken bone." He paused. "Actually, I'm not certain about the chicken bone. Might have been from a crow. Regardless—he shoved half the papers aside and there it was."
+
+"There what was?"
+
+"A machine." Francesco's eyes went distant, seeing it again. "Or a creature pretending to be one. I couldn't tell which. Two enormous wings, curved out like this—" He spread his arms wide, fingers reaching. "Ribbed like a bat's wing, stretched over some kind of frame. And underneath, this narrow body, almost skeletal, with footrests and levers and something like a tail."
+
+"A tail."
+
+"Yes! And I thought—well, naturally I thought it was a boat. Some kind of ornamental boat, perhaps for a pageant. So I said, very reasonably, 'Is that a boat?'"
+Francesco grinned at the memory, and I realized I was smiling too, caught up in his telling despite myself.
+
+"And he laughed, Lisa. Not at me, exactly, but with such delight—like a child who's just realized his father doesn't understand the marvelous secret he's discovered. 'No, no,' he said. 'Look closer.'"
+Francesco moved to our own table now, pushing aside my sewing basket to make space, miming Leonardo's movements.
+
+"He grabbed another sheet and started sketching right over it. Lines flying so fast I couldn't track them. And he's talking the whole time—'A bird does not flap. Not really. That's what everyone thinks. But flapping is crude. Inefficient. What matters is lift.'"
+
+"Lift," I repeated, just as Francesco must have.
+
+"Exactly! That's what I said. Just: 'Lift.' Completely blank. And he turned to me—so pleased that I was confused, mind you—and said, 'Yes! You push against the air, and the air pushes back. Hard enough, and it becomes almost solid. The wing is not beating the air—it is arguing with it.'"
+
+"Arguing with it."
+
+"Forcefully," Francesco added, and we both laughed.
+
+"So I tried one more time," he continued. "'About the portrait—' And he waved his hand without even looking. Just—" Francesco demonstrated, a dismissive flutter of fingers. "'Later. This is more important.'"
+
+He paused there, and something shifted in his expression. Not hurt, exactly. More like wonder at his own reaction.
+
+"And here's the thing, Lisa. I should have been annoyed. I should have insisted. I should have reminded him that I'd paid good money for a portrait, not an education in things that will never work. But instead I just... watched."
+
+Francesco sat back down, slower now, his voice quieter.
+
+"He leaned over that table like he was showing me the secrets of the universe. 'The human body could be lighter than wind,' he said. 'If we understand its nature properly. If we build the frame correctly. If we calculate the ratios just so.' And he's tapping the drawing, pointing at different parts—'Here. Here is where most people fail. They make it too heavy. Or too rigid. Birds are strong because they are light.'"
+
+"I tried to follow along. I did. But my mind kept snagging on words I half-understood. Ratios. Lift. Distribution. And then—I don't know what possessed me—I said something about balance. That a merchant knows weight isn't just about mass, it's about distribution. How you arrange it matters as much as how much there is."
+
+Francesco looked at me then, and I saw something vulnerable in his face.
+
+"He stopped, Lisa. Just froze mid-gesture and turned to look at me. Really look at me. Not as a patron. Not as an interruption. And he said, very softly, 'Yes. Exactly.' Then he asked..." Francesco's voice caught slightly. "He asked how I would do it."
+
+I waited, understanding now why he'd come home looking the way he did.
+
+"I didn't know what to say at first. But then I started thinking aloud—about the wings, how they'd need to be flexible but resilient, how you'd need material that holds shape under strain. And I told him about silk. Not common silk, but treated silk, layered, the kind we sometimes use for sails when weight matters more than durability. Over a frame of walnut, maybe. Strong grain. Flexible."
+
+Francesco's hands were moving again, but differently now. More carefully, like he was handling something precious.
+
+"And he started sketching again, Lisa. Furiously. Muttering to himself—'Yes. Yes. Silk skin. A merchant's wing. Do you see? Do you see it?' And the extraordinary thing was..." He looked at me, almost apologetic. "I did see it. Not entirely. Not precisely. But I saw the possibility."
+
+He fell silent for a moment, staring at his hands.
+
+"I forgot about the portrait completely," he said finally. "Stood there for nearly an hour, pointing at things, making suggestions, listening while he explained and corrected and contradicted himself and laughed when I admitted I didn't understand half of it. And when I finally said I was confused, he just smiled and said, 'That's all right. Understanding comes later.'"
+
+Francesco picked up his wine cup again but didn't drink, just turned it slowly in his hands.
+
+"As I was leaving, I remembered. The portrait. I turned back and said something about scheduling another sitting, and he nodded very seriously and said, 'Yes, yes, soon. Very soon. The hands are quite challenging, you know. But we'll get them right.' And then—" Francesco laughed softly. "Then he asked if I might bring him a sample of that treated silk. Just a scrap. To test how light moves through it."
+
+He looked at me then, really looked at me, and I saw in his face what this had meant to him. To be asked. To be valued. To have knowledge that mattered to someone like Leonardo da Vinci.
+
+"I told him I would," Francesco said quietly. "And I will."
 
 "And did you tell him your nature is not suited for flying?" I asked, smiling despite myself.
 

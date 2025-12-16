@@ -138,7 +138,7 @@ He looked at me then, really looked at me, and I saw in his face what this had m
 
 He pulled me over to sit on the courtyard bench, needing me to understand, needing to share what he'd witnessed.
 
-"He showed me a design for a machine that moves water uphill—uphill, Lisa, against its nature—using nothing but a screw rotating in a cylinder. And a siege weapon that looks like a giant crossbow, but hinged in a way that multiplies the force. And sketches of the human heart that were so detailed I felt like I was seeing inside a living person." He paused, shaking his head in wonder. "And then—and this is the part that..." He trailed off, searching for words.
+"He also showed me a design for a machine that moves water uphill—uphill, Lisa, against its nature—using nothing but a screw rotating in a cylinder. And a siege weapon that looks like a giant crossbow, but hinged in a way that multiplies the force. And sketches of the human heart that were so detailed I felt like I was seeing inside a living person." He paused, shaking his head in wonder. "And then—and this is the part that..." He trailed off, searching for words.
 
 "What?" I prompted.
 
@@ -146,7 +146,7 @@ He pulled me over to sit on the courtyard bench, needing me to understand, needi
 
 I waited for the rest of the sentence, but apparently that was the complete thought. "Your opinion on... the human heart?"
 
-"On the siege weapon," Francesco clarified, though this did not particularly reduce the absurdity. "On the wood, specifically. He was designing the frame and he asked which wood a merchant like myself would trust for something that needed to be both strong and flexible. I told him walnut, naturally—best grain structure, doesn't split easily under stress. And he nodded, Lisa. Very thoughtfully, very seriously, as if I'd said something genuinely wise. Then he made notes in his book."
+"On the siege weapon," Francesco clarified, though this did not particularly reduce the absurdity. "On logistics, specifically. He was designing it for a military commission and wanted to know how one would actually transport such massive components during a conflict—through hostile territory, rough roads, with armies on the move. I told him about breaking loads into manageable pieces, pre-positioning materials, the nightmare of moving anything heavier than a cart of wool through mountain passes in winter." He shook his head, still marveling. "And he nodded, Lisa. Very thoughtfully, very seriously, as if I'd said something genuinely wise. Then he made notes in his book."
 
 I could picture it exactly: Leonardo, distracted but genuinely appreciative, listening to my husband with that focused attention he gave to anything that interested him—which was nearly everything—treating Francesco's merchant knowledge as valuable, as worthy of consideration.
 

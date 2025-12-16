@@ -4,17 +4,73 @@
 
 The first delay didn't even feel like a delay. That's how these things sneak up on you—quietly, politely, the way a cat slips into a room you thought you'd closed and locked, and suddenly you turn around to find it curled on your best cushion looking perfectly innocent.
 
-A week after my first sitting, Leonardo sent word that he'd need another session "soon." The vagueness of "soon" should have warned me, but Francesco took it as encouragement. Two days later, he announced he would "casually" stop by the Maestro's workshop to inquire about scheduling.
+A week after my first sitting, a messenger arrived at our door with a note from Leonardo. Not a letter, really—more of a suggestion written down so it wouldn't be forgotten. It said only that he would need another session soon.
 
-Casual, in my husband's vocabulary, meant rehearsing a greeting at least three times while standing in front of our courtyard fountain, adjusting his doublet repeatedly, and pretending he just happened to be in that neighborhood carrying a small gift of perfectly arranged figs wrapped in linen.
+_Soon_ is one of those words that sounds reassuring until you've lived with artists long enough to know it means absolutely nothing.
 
-"You're going to intimidate him with fruit?" I asked.
+I read it once, then again, then folded it carefully and set it on the table. "He wants another sitting," I told Francesco.
 
-"I'm being gracious," Francesco replied with dignity. "Artists appreciate gestures."
+His head snapped up from his ledger. "Already?"
 
-"Artists appreciate payment," I said. "Which you've already provided. Generously."
+"Yes. Soon."
 
-But he was already halfway out the door, figs in hand, purpose in his stride.
+He smiled—the way men smile when they hear what they want to hear and stop listening immediately after. "That's excellent. It means he's making progress."
+
+"It means he's not finished," I said.
+
+"Nonsense. Great work takes time." He reached for the note as if it might contain more meaning if he held it himself, squinting at Leonardo's script. "Soon is good. Soon means it's happening."
+
+I let that go. There was no point in correcting optimism in its early stages; it only hardened into stubbornness.
+
+Two days passed. No further word arrived.
+
+On the third morning, Francesco began adjusting his doublet at breakfast.
+
+Casually.
+
+He smoothed the fabric across his shoulders, tugged at the sleeves, frowned at the collar. Then he stood and walked past me toward the courtyard—only to return moments later and adjust it all over again. He drank his wine more slowly than usual, as if he had nowhere particular to be. He checked the gate. Twice.
+
+"You're restless," I observed.
+
+"I'm not restless," he said, too quickly. "I was simply thinking I might pass by the workshop today."
+
+I looked at him over my cup. "To do what?"
+
+"Nothing in particular." He waved a hand vaguely. "Just inquire. Casually. About the schedule for the next sitting."
+
+"Casually," I repeated.
+
+"Yes. There's no harm in showing interest. It reminds him we're engaged patrons."
+
+"He has already been paid," I reminded him. "In full. Generously."
+
+"And that," Francesco said with sudden firmness, "is precisely why it's appropriate to inquire. It shows we value the work."
+
+He moved to the kitchen and selected a small basket of figs—our best ones, the ones I'd been saving for dinner with the Rucellai—and began wrapping them carefully in clean linen.
+
+"You're bringing a gift," I said.
+
+"It's polite."
+
+"You're checking on a schedule."
+
+"It's gracious."
+
+"You're nervous."
+
+He paused at the door, figs balanced in one hand, and turned to give me a wounded look. "I am being respectful of his process."
+
+"Of course you are," I said gently. "Try not to look like you're begging."
+
+"I am not—" He stopped himself, drew up his shoulders with dignity. "I am _inquiring_."
+
+"Naturally."
+
+I watched him walk away, posture carefully composed, his gift balanced like an offering to a temperamental saint. I could see his lips moving as he rehearsed words under his breath—words he would absolutely forget the moment Leonardo smiled at him.
+
+When he returned an hour later, the basket was empty. The linen folded neatly under his arm.
+
+That told me everything I needed to know.
 
 He returned an hour later—cheeks flushed from walking quickly, hair wind-tossed in a way that made him look younger, a man vibrating somewhere between pride and confusion. I recognized that particular combination. It meant Leonardo had charmed him again.
 

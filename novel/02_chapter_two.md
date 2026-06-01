@@ -1,6 +1,6 @@
 # CHAPTER 2 — The Maestro
 
-## 1503 — Florence
+### Florence, 1503
 
 If there is one thing my husband cannot stand, it is being ignored. It chafes him worse than cheap wool against bare skin, worse than a merchant being kept waiting in an antechamber while lesser men are received first. And Leonardo da Vinci, without ever intending cruelty—perhaps without even noticing—managed to ignore Francesco spectacularly.
 
@@ -66,9 +66,9 @@ I stared at him. "All of it? Before he's even begun?"
 
 "This isn't our business," he interrupted gently. "This is art. It works differently."
 
-"Art still requires delivery. What if he takes the money and simply... doesn't finish? What if he starts ten other projects and forgets about ours entirely? Everyone knows he left _The Adoration of the Magi_ unfinished for the monks. If he won't complete work for the Church—"
+"Art still requires delivery. What if he takes the money and simply... doesn't finish? What if he starts ten other projects and forgets about ours entirely? Everyone knows he left *The Adoration of the Magi* unfinished for the monks. If he won't complete work for the Church—"
 
-"He'll finish this one," Francesco said with such certainty that I almost believed him. "I'll make sure of it. I'll... I'll stay involved. Visit the workshop. Show genuine interest in the process. People finish work for patrons who care, Lisa."
+"He'll finish this one," Francesco said with such certainty that I almost believed him. "I'll make sure of it. I'll stay involved. Visit the workshop. Show genuine interest in the process. People finish work for patrons who care, Lisa."
 
 I looked at his face—lit with something I hadn't seen in years, maybe ever—and felt my resistance crumbling despite my better judgment. This wasn't about the portrait, not really. This was about Francesco believing, perhaps for the first time, that he could touch something greater than commerce. That he could matter in a way that transcended ledgers and contracts.
 
@@ -128,19 +128,15 @@ Francesco cleared his throat. "The harmony—is that something you look for in a
 
 "Your hands, signora. Let them rest naturally. Don't think about them." Leonardo moved my hands himself, positioning them just so, adjusting the angle three times before being satisfied. "There. Perfect. Don't move."
 
-He stepped back, studying me with such intensity that I felt suddenly, acutely self-conscious. Not in the way I might feel with a man looking at me in the market—this was different. Clinical. Relentless.
+He stepped back, studying me with such intensity that I felt suddenly, acutely self-conscious. Not in the way I might feel with a man looking at me in the market—this was different. Clinical. Relentless. His gaze held no hunger, nothing that would have offended Francesco or made me uncomfortable in the way men's looks sometimes did. But it was still a man who was not my husband studying me with an intimacy that felt strange. Unsettling.
 
-His gaze was not improper. Leonardo's eyes held no hunger, no desire, nothing that would have offended Francesco or made me uncomfortable in the way men's looks sometimes did. But it was still a man who was not my husband studying me with an intimacy that felt strange. Unsettling. He looked at me the way Francesco looked at silk: assessing weave, identifying strengths and weaknesses, calculating promise.
+He looked at me the way Francesco looked at silk: assessing weave, identifying strengths and weaknesses, calculating promise.
 
-My husband had looked at me on our wedding night with desire, with nervousness, with the fumbling hope of a young man. He looked at me now, after years of marriage, with affection and familiarity. He knew my face the way one knows a frequently traveled road—comfortable, unremarkable, simply there.
+My husband had looked at me on our wedding night with desire, with nervousness, with the fumbling hope of a young man. He looked at me now, after years of marriage, with affection and familiarity—he knew my face the way one knows a frequently traveled road, comfortable and unremarkable. But Leonardo looked at me as if I were a problem to solve. A puzzle to unlock. And under that gaze, I became acutely aware of my own features in a way I never had been before.
 
-But Leonardo looked at me as if I were a problem to solve. A puzzle to unlock. And under that gaze, I became acutely aware of my own features in a way I never had been before.
+I noticed, for the first time in my twenty-four years, that my left eye sat slightly lower than my right. Not dramatically—no one had ever mentioned it, and I'd certainly never caught it in my own reflection. But under Leonardo's scrutiny, I felt the asymmetry as if it were suddenly visible from across the room. I had lived with this face my entire life without remark. Now I wondered how I had never seen it.
 
-I noticed, for the first time in my twenty-four years, that my left eye sat slightly lower than my right. Not dramatically—no one had ever mentioned it, and I'd certainly never caught it in my reflection. But under Leonardo's scrutiny, studying the proportions and symmetries of my face as if they were architectural elements, I suddenly _felt_ the asymmetry.
-
-I had lived with this face my entire life without remark. Now I wondered how I had never seen it.
-
-Francesco was still trying. "Maestro, I've been reading about your work on _The Last Supper_. The technique you used—"
+Francesco was still trying. "Maestro, I've been reading about your work on *The Last Supper*. The technique you used—"
 
 "Yes, yes, experimental fresco. Terrible idea, as it turns out. The whole thing's probably falling apart as we speak." Leonardo selected a piece of charcoal and made a few quick marks on the canvas. "Have you ever considered how light behaves differently on curved surfaces versus flat ones? The way it pools and spreads... fascinating mathematics involved..."
 
@@ -148,29 +144,15 @@ Francesco was still trying. "Maestro, I've been reading about your work on _The 
 
 "Signora, think of something pleasant. Not happy—just... content. Peaceful."
 
-I tried to comply, but it was difficult with my husband hovering anxiously and Leonardo staring at me as if I were an equation.
+I tried to comply, but it was difficult with my husband hovering anxiously and Leonardo staring at me as if I were an equation he hadn't quite solved.
 
 "The expression you're trying to capture," Francesco pressed on, "is it something you decide beforehand, or does it emerge during—"
-
-"Water is also fascinating," Leonardo continued, apparently to himself. "The way it refuses to compress, always seeks its level. If we could build a proper waterway connecting the Arno directly to the sea, bypassing all those troublesome bends... the commercial implications alone would transform Florence..."
-
-Francesco shot me a helpless look. I tried not to laugh, which made my mouth twitch, which made Leonardo's eyes narrow with interest.
-
-"Hold that," he murmured. "Yes—that. Don't move."
-
-"What?" I asked, confused.
-
-"That expression. That slight... hmm. Interesting."
-
-He began sketching rapidly, and for several minutes there was blessed silence. Francesco, perhaps sensing this was his moment, tried one more time.
-
-"The pigments you chose—is the lapis lazuli for—"
 
 "Maestro!" A young man burst through the door, breathless and excited. "The crane mechanism—it worked! The pulleys distributed the weight exactly as you calculated!"
 
 Leonardo's head snapped up, all his distracted vagueness vanishing in an instant. "It did? Show me the measurements. Did you account for the rope tension? The angle of—" He was already moving toward the door, pulling off his painting smock. "Signora, I'll be back in a moment. Don't move."
 
-And he was gone, following the young man out, already deep in conversation about weights and forces and mechanical advantage.
+And he was gone, following the young man out into the street, already deep in conversation about weights and forces and mechanical advantage.
 
 Francesco and I sat there in the sudden silence, looking at each other.
 
@@ -178,13 +160,13 @@ Francesco and I sat there in the sudden silence, looking at each other.
 
 "Well," I agreed.
 
-He stood, brushing off his doublet with as much dignity as he could muster. "I should... I'll wait outside. Let you continue without distraction."
+He stood, brushing off his doublet with as much dignity as he could muster. He straightened his sleeves, smoothed his collar—the small, precise gestures of a man restoring himself to himself. "I should wait outside," he said. "Give you space to work."
 
-We both knew what he meant. He couldn't bear being invisible in that room any longer. Being ignored so thoroughly while trying so hard to engage, to understand, to be part of something he desperately wanted to witness.
+"That might be best," I said gently.
 
-"I'll be fine," I told him gently.
+He nodded, kissed my cheek, and left. I watched him go: back straight, chin level, carrying himself as though the exit had been entirely his own idea.
 
-He nodded, kissed my cheek, and left.
+---
 
 Leonardo returned a few minutes later as if nothing had happened. "Now, where were we? Ah yes. Signora, tilt your chin down slightly. Good."
 
@@ -196,41 +178,37 @@ Time took on a strange quality in that room. The light shifted incrementally acr
 
 Sitting there, holding still while his eyes moved across my face with the precision of someone solving a mathematical proof, I became hyperaware of things I'd never noticed. The way my nose cast a shadow on my cheek. The slight gap between my front teeth that showed when I wasn't thinking about keeping my lips together. The freckle near my left ear that I'd had since childhood and never considered before.
 
-I wondered if he saw these as problems to correct. Or as interest to emphasize. Whether the painted version of me would have level eyes, or if he'd preserve—even exaggerate—the flaw.
+I wondered if he saw these as problems to correct. Or as interest to emphasize. Whether the painted version of me would have level eyes, or if he'd preserve—even exaggerate—the asymmetry I'd only just discovered I had.
 
-I wondered, more uncomfortably, whether the painting would capture who I actually was, or who he _thought_ I was.
+I wondered, more uncomfortably, whether the painting would capture who I actually was, or who he *thought* I was. The distinction suddenly seemed important in a way I couldn't quite articulate.
 
-The distinction suddenly seemed important in a way I couldn't quite articulate. Outside that studio, Francesco was chasing an idea—reputation, cultural refinement, a future version of himself standing proudly beneath a finished masterpiece, gesturing to admiring guests: "My wife. Painted by Leonardo da Vinci himself."
+Outside that studio, Francesco was pacing—I could picture him precisely, hands clasped behind his back, rehearsing what he'd say when Leonardo finally acknowledged him. He was chasing an idea: reputation, cultural refinement, a future version of himself standing proudly beneath a finished masterpiece, gesturing to admiring guests: *My wife. Painted by Leonardo da Vinci himself.*
 
-Inside, I was the physical reality of that ambition. A woman on an uncomfortable stool. Spine already beginning to ache from holding still. Hands folded just so. Trying not to sneeze from the dust motes. Trying not to fidget. Trying not to think about how long this would take or how many more sessions there would be.
+Inside, I was the physical reality of that ambition. A woman on an uncomfortable stool. Spine already beginning to ache from holding still. Hands folded just so. Trying not to sneeze from the dust motes.
 
-Somewhere between us, I realized, a third woman was being created. One who existed only on that wooden panel, in layers of pigment and oil. She was not quite me—she would never have the concerns or irritations or small pains of my actual body. She would never worry about bread or children or whether her husband remembered to bring home the good olive oil. And she was not quite whatever Leonardo imagined when he studied my face—she would be limited by what his hands could actually execute, by what the paint would allow.
+Somewhere between us, a third woman was being created. One who existed only on that wooden panel, in layers of pigment and oil. She was not quite me—she would never have the concerns or irritations or small pains of my actual body. She would never worry about bread or children or whether her husband remembered to bring home the good olive oil. And she was not quite whatever Leonardo imagined when he studied my face—she would be limited by what his hands could actually execute, by what the paint would allow.
 
 She would sit forever, suspended between thought and expression, caught in whatever moment Leonardo decided was worth preserving.
 
-And people would look at her—at the painted version of me—and think they were seeing Lisa Gherardini. Think they were seeing _me_.
-
-But they would be seeing someone else entirely. Some ideal. Some woman Leonardo had invented using my face as raw material.
-
-There were moments when I felt utterly visible and completely invisible at once. Leonardo was looking at me so intensely, studying me with such focus, that I had never been more _seen_ by anyone. And yet—he did not see Lisa. He did not see the woman who'd woken that morning and argued with the baker's daughter about the price of eggs. Who'd soothed a crying child. Who'd helped Francesco practice what he'd say when he negotiated with silk suppliers.
-
-He saw a problem to solve. A harmony to achieve. A collection of curves and shadows and proportions that either pleased him or didn't. A face that, thankfully, did not fight him.
-
-Not Lisa. Just a useful face.
+And people would look at her—at the painted version of me—and think they were seeing Lisa Gherardini. Think they were seeing me. But Leonardo did not see Lisa. He did not see the woman who'd woken that morning and argued with the baker's daughter about the price of eggs, who'd soothed a crying child before breakfast, who'd helped Francesco practice his negotiating speech for the silk suppliers. He saw a problem to solve. A harmony to achieve. A face that, thankfully, did not fight him. Utterly visible, completely invisible. Not Lisa. Just a useful face.
 
 Then, after what felt like an hour of steady work, he paused mid-stroke, brush raised, staring at nothing.
 
 "Have you ever considered," he asked, apparently to no one in particular, "how a bird manages to lift off when the wind is against it? The mechanics alone are fascinating. The way the wing adjusts mid-stroke, the angle of the feathers..."
 
-He trailed off, then abruptly turned away to rummage through a stack of sketches on a nearby table, still muttering to himself.
+He trailed off, then abruptly turned away to rummage through a stack of sketches on a nearby table, still muttering to himself. He found whatever he was looking for, studied it for a moment, made a small sound of satisfaction, and set it down again.
 
-"You know," he said thoughtfully, finding whatever sketch he'd been looking for and studying it, "if we could build a proper waterway connecting the Arno directly to the sea, bypassing all those troublesome bends... the commercial implications alone would transform Florence. Have you ever thought about the mathematics of water flow? Remarkable substance, water. Refuses to compress, always seeks its level..."
+Then he returned to the canvas, as if the tangent had never happened, and continued working.
 
-And just like that, we were off the rails.
+I tried not to laugh. I was not entirely successful. My mouth moved.
 
-I tried not to laugh.
+"Hold that," he said immediately, eyes sharpening. "Yes—that. Don't move."
 
-He returned to the canvas eventually, as if the tangent had never happened, and continued working.
+"What?" I asked, confused.
+
+"That expression. That slight..." He squinted, studying my face with renewed intensity. "Interesting."
+
+He began sketching rapidly, and for several minutes there was blessed silence in the room.
 
 Over the remaining hours—and the session stretched much longer than I'd expected—he returned again and again to my mouth. To the way it rested when I wasn't thinking about it.
 
@@ -240,32 +218,60 @@ Over the remaining hours—and the session stretched much longer than I'd expect
 
 "Just... let it rest as it pleases. Think of something neutral."
 
-So I tried to think of nothing. Or perhaps of everything cancelling itself out—happy thoughts balanced against worrying ones, pleasant memories checked by tedious tasks ahead. I thought of the quiet between breaths. Of the moment just before sleep, when your mind hasn't quite gone dark but has stopped actively thinking. Of staring into space while waiting for water to boil, present but absent, there but elsewhere.
+So I tried to think of nothing. Or perhaps of everything canceling itself out—happy thoughts balanced against worrying ones, pleasant memories checked by tedious tasks ahead. I thought of the quiet between breaths. Of the moment just before sleep, when your mind hasn't quite gone dark but has stopped actively thinking.
 
-Did I remember to tell the servant about the torn hem? Was that spot on Piero's cheek just dirt or the beginning of a rash? Would Francesco remember to bring home the olive oil this time? Should I have argued harder about that payment? What if Leonardo truly never finishes this?
+Did I remember to tell the servant about the torn hem? Was that spot on Piero's cheek just dirt or the beginning of a rash? Would Francesco remember to bring home the olive oil this time? Should I have argued harder about that payment upfront? What if Leonardo truly never finishes this?
 
 Just the ordinary clutter of a woman's mind during a moment of forced stillness.
 
 "Not sad," he said once, studying my mouth with focus. "Not happy. Something else. Something in between."
 
-_In between what?_ I wanted to ask. Between emotions? Between thoughts?
+*In between what?* I wanted to ask. Between emotions? Between thoughts? Between the woman I was and the one he was inventing?
 
-But I didn't ask. I just sat there, trying to let my face do whatever it apparently did when I wasn't controlling it. Trying to achieve this impossible state of being neither one thing nor another.
+But I didn't ask. I just sat there, trying to let my face do whatever it apparently did when I wasn't controlling it. Trying to achieve this impossible state of being neither one thing nor another. Present but absent. There but elsewhere.
 
-Time crawled. My back ached. My neck grew stiff. I wanted to scratch my nose. But above all—and this would horrify Francesco if he knew—I was profoundly, spectacularly bored by genius at work.
+Time crawled. My back ached. My neck grew stiff. I wanted desperately to scratch my nose. But above all—and this would have horrified Francesco if he knew—I was profoundly, spectacularly bored by genius at work.
 
 By the time Leonardo finally declared the session finished—which seemed to be when he noticed the light had changed rather than any actual milestone in the work—my hands had fallen asleep twice.
 
-I glanced at the canvas as I stood, stretching carefully. There was almost nothing on it. A few lines. Some shadows. The ghost of a composition.
+I glanced at the canvas as I stood, stretching carefully. There was almost nothing on it. A few lines. Some shadows. The ghost of a composition that might, in another life, become a painting.
 
-"Excellent progress," Leonardo said cheerfully, already cleaning brushes with the same distracted precision he brought to everything. "Come back next week. Same time. We're making excellent progress."
+"Excellent progress," Leonardo said cheerfully, already cleaning brushes with the same distracted precision he brought to everything. "Come back next week. Same time. We're making wonderful headway."
 
-I found Francesco outside, pacing in the street. His face brightened when he saw me, but I could see the wound in his eyes—the sting of being so thoroughly dismissed.
+I found Francesco outside, pacing in the street exactly as I'd imagined him. His face brightened when he saw me, but I could see the wound in his eyes—the sting of being so thoroughly dismissed by a man he'd traveled across the city at dawn to impress.
 
-By the time we returned home, the questions came pouring out. He wanted to know every detail. Not because he wanted to know about my experience—though perhaps he thought he did—but because he needed me to confirm that something meaningful had happened in that room. That genius had been at work. That the humiliation of being ignored was worth it.
+He fell into step beside me without a word, and we walked a little way in silence. He was waiting for something, though I wasn't sure he knew exactly what.
 
-"Was he impressed? Did he say anything about the composition? How long do you think it will take?"
+"Well?" he said finally, when we'd turned the corner and the studio was behind us.
 
-I pulled off my good shawl and draped it carefully over a chair. "He didn't say. He was mostly thinking about bridges and birds and water systems."
+"He's very talented," I offered.
+
+"Yes, but did he—was he—what did he say about the composition?"
+
+"He said my face was useful."
+
+Francesco blinked. "Useful."
+
+"Harmonious, also. He seemed pleased about that."
+
+"And the portrait itself? How far along—"
+
+"There are some lines," I said. "And shadows. He called it excellent progress."
+
+My husband absorbed this in silence for half a street. Then, with the resilience of a man who has decided to believe in something regardless of evidence: "Lines and shadows," he repeated, as if tasting the words. "Yes. Yes, that makes sense. You have to begin somewhere."
+
+"Yes," I agreed. "I suppose you have to."
+
+By the time we returned home, the questions came pouring out properly—he'd been damming them up the whole walk back. He wanted to know every detail. Not because he wanted to know about my experience—though perhaps he thought he did—but because he needed me to confirm that something meaningful had happened in that room. That genius had been at work. That the humiliation of being sent outside like a restless child had been worth enduring.
+
+"Was he impressed? Did he talk about technique? What was the studio like—were there other paintings? Did he mention anything about how long it would take?"
+
+I pulled off my good shawl and draped it carefully over a chair. "He was mostly thinking about cranes and birds and the mathematics of light. In that order."
 
 My husband laughed—that delighted, indulgent sound you make when a child has done something disruptive but somehow endearing. "That's genius for you, Lisa. The mind works differently. Sees connections we can't imagine."
+
+I looked at him standing there in our doorway, glowing with secondhand wonder at a man who had not, as far as I could tell, said more than thirty words to him directly. And I understood something that would take me years to fully reckon with: Francesco hadn't come to the studio to watch me being painted.
+
+He'd come to be near Leonardo. To breathe the same air, stand in the same light, feel for an hour that he belonged in that world—the world of genius and beauty and things that outlasted commerce.
+
+The portrait, I was beginning to suspect, was entirely beside the point.

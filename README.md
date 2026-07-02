@@ -1,19 +1,28 @@
-# THE PORTRAIT - Novel Context Document
+# THE PORTRAIT / EL RETRATO
 
-## Core Concept
+Novela de ficción histórica sobre Francesco del Giocondo, quien encargó el retrato de su esposa (la *Mona Lisa*) a Leonardo da Vinci en 1503 y pasó dieciséis años persiguiéndolo por Italia sin recibirlo jamás. Narrada en primera persona por Lisa Gherardini, la mujer del retrato.
 
-A historical fiction novel about Francesco del Giocondo, who commissioned the Mona Lisa in 1503 and spent 16 years chasing Leonardo da Vinci across Italy, never receiving the painting. Told from the perspective of his wife, Lisa Gherardini (the subject of the portrait).
+> **Idioma:** el proyecto se reescribe en **español**. El borrador original (en inglés) queda archivado en `Archivo/` como referencia.
 
 ---
 
-## Narrative Structure
+## Organización del repositorio
 
-**Narrator:** Lisa del Giocondo (third person, through her observant, loving, slightly ironic perspective)
+| Carpeta | Contenido |
+|---------|-----------|
+| `biblia/` | Fuente única de verdad: canon de personajes, cronología, temas, notas históricas. Nada aquí se contradice. |
+| `planificacion/` | Estructura de la obra, esquema de capítulos, subtramas, registro de decisiones. |
+| `manuscrito/` | Los capítulos nuevos en español. Vacío por ahora. |
+| `Archivo/` | Borrador original completo (inglés) + notas viejas. **Solo lectura / referencia.** No se edita. |
 
-**Timespan:** 1503-1538 (with prologue in 1519)
+## Estado
 
-**Frame Device:**
+Fase actual: **reestructuración y definición de canon** previa a reescritura en español.
+Ver `PROGRESO.md` para el detalle.
 
-- Opens with Francesco refusing to read Leonardo's letter (1519, after returning from France)
-- Lisa narrates the story from beginning to explain how they arrived at this moment
-- Ends with epilogue from Lisa's perspective years after Francesco's death
+## Flujo de trabajo
+
+1. Fijar canon en `biblia/` (resolver conflictos heredados del borrador).
+2. Cerrar estructura y esquema de capítulos en `planificacion/`.
+3. Definir subtramas (Camilla, etc.).
+4. Escribir capítulos en `manuscrito/`, uno por archivo.

@@ -78,23 +78,17 @@
 
 ---
 
-## DIVERGENCIAS FICCIÓN ↔ HISTORIA (decidir)
+## DIVERGENCIAS FICCIÓN ↔ HISTORIA (resueltas)
 
-| Tema | Historia | Borrador/ficción | Decisión |
-|------|----------|-------------------|----------|
-| Edad de Camilla al morir | **19** (n.1499, †1518) | 23 (timeline) | ⚠️ pendiente |
-| Camilla toma votos | a los **12** (~1511), muy joven; probable razón económica (dote) | elige el convento **de adulta**, tras ver que el matrimonio la apaga (arco espejo) | ⚠️ **choca** — resolver (ver abajo) |
-| "Maria" (hija) | **no existe**; hijas = Piera, Camilla, Marietta | los caps. mencionan "Maria" | renombrar/eliminar |
-| Pago del retrato | **sin registro** de pago | Francesco paga por adelantado, completo | licencia narrativa (mantener) |
-| Encargante del retrato | versión de Beatis: **Giuliano de' Medici** | Francesco | mantener Francesco (Vasari) |
-| Nombre 1ª esposa | **Camilla** Rucellai (†1494) | no aparece | ¿usar la coincidencia de nombres a favor, o evitar confusión? |
-| Muerte de Francesco | 1538 (†); Lisa +4 → 1542 | epílogo dice "5 años tras la carta" | ⚠️ (5 vs 19) |
-| Piero | n.1496, †1569 | ok | — |
+> Todas decididas. Detalle en `planificacion/decisiones.md`.
 
-### El nudo Camilla (clave)
-La historia da votos a los 12 — demasiado joven para el arco "se casa, se decepciona, elige estudiar". Opciones:
-1. **Ficcionalizar la edad:** Camilla entra al convento más tarde (~17-19), como elección consciente. Sacrifica exactitud por el tema.
-2. **Abrazar los 12 con giro:** entra de niña por dote/costumbre, pero *dentro* del convento descubre su vida de la mente y la reivindica como propia — su "elección" es apropiarse de un destino impuesto. Menos Sor Juana, más sutil.
-3. **Híbrido:** compromiso a edad temprana + entrada al convento adolescente. Requiere ajustar fechas.
-
-> El eco de nombres (primera esposa **Camilla** ↔ hija **Camilla**) puede ser recurso (la hija lleva el nombre de una muerta) o ruido. Decidir.
+| Tema | Historia | Ficción (decidida) |
+|------|----------|--------------------|
+| Edad/arco de Camilla | votos a los 12; †19 (n.1499) | **Ficcionalizada** (Opción A): n. ~1496; comprometida a ~15; **rompe el compromiso** y entra al convento por elección ~1513 (17); †1518 (~22). Nunca se casa. |
+| Muerte de Camilla | — | **Enfermedad prolongada**; Francesco de viaje, llega tarde. Detona el viaje a Francia. |
+| "Maria" (hija) | no existe; hijas = Piera, Camilla, Marietta | **Eliminada.** La boda pasa a **Piero** (~1516). Marietta sin peso narrativo. |
+| Muerte de Francesco | 1538 (†); Lisa +4 → ~1542 | **Histórico: 1538 (19 años tras la carta).** Corregir el "5 años" del epílogo del borrador. |
+| Tres Camillas (Lisa Camilla, 1ª esposa, hija) | coincidencia real | **Omitida** como recurso. |
+| Pago del retrato | sin registro de pago | Licencia narrativa: paga por adelantado, completo. **Mantener.** |
+| Encargante del retrato | Beatis: Giuliano de' Medici | **Francesco** (versión Vasari). Mantener. |
+| Piero | n.1496, †1569 | ok |

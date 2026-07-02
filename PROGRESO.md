@@ -1,7 +1,8 @@
 # PROGRESO
 
 ## Fase actual
-**Reestructuración y definición de canon** (previa a la reescritura en español).
+**Planificación cerrada.** Listo para escribir prosa en español (`manuscrito/`).
+Falta solo validar la voz (`biblia/voz.md`: 3 micro-decisiones de taller) antes de arrancar el prólogo.
 
 ## Hecho
 - [x] Lectura y comprensión completa del borrador original (inglés).
@@ -21,6 +22,8 @@
   - [ ] Edades sueltas del borrador (Lisa "31" en 1507 → ~28; Francesco en prólogo/cap.11) — corregir al reescribir.
 - [x] Esquema capítulo por capítulo (v1) en `planificacion/esquema_capitulos.md` — 14 caps, subtramas repartidas.
 - [x] Camilla sembrada en la línea (caps 3, 4, 10, 11, 14).
+- [x] Guía de voz y estilo (`biblia/voz.md`) — con muestra para validar.
+- [x] Barrido de consistencia: sin decisiones abiertas ni datos viejos en los archivos nuevos.
 
 ## Pendiente
 - [ ] Escribir capítulos nuevos en español (`manuscrito/`).

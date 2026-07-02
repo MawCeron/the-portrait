@@ -8,7 +8,7 @@
 |---------|-----|---------|-------|
 | Francesco del Giocondo | Mercader de seda, protagonista | 1465–1538 | Cónsul del Gremio de la Seda en 1489 (24 años). Sepultado en SS. Annunziata. |
 | Lisa Gherardini | 2ª esposa, narradora | 15 jun 1479–~1542 | Nombre completo **Lisa Camilla** Gherardini. Casada mar 1495 a los 15. Sobrevive a Francesco 4 años. Sepultada en Sant'Orsola. |
-| *(Camilla Rucellai)* | **1ª esposa** de Francesco | –1494 | Hija de Mariotto Rucellai. Mismo nombre que la hija (ver ⚠️). No aparece en la narrativa salvo decisión. |
+| *(Camilla Rucellai)* | **1ª esposa** de Francesco | –1494 | Hija de Mariotto Rucellai. Mismo nombre que la hija: coincidencia **omitida** (sin uso narrativo). No aparece en la narrativa. |
 | Bartolomeo | Hijo de la 1ª esposa (hijastro de Lisa) | 1493–1561 | Se queda con el negocio. |
 | Piero | Hijo (con Lisa) | 1496–1569 | Entra al negocio; cuida a Lisa viuda. **Se casa ~1516** (evento doméstico de los años quietos; hereda la boda que el borrador daba a "Maria"). |
 | Piera | Hija (con Lisa) | —, †a los ~2 años | Muere niña. |

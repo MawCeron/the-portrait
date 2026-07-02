@@ -43,8 +43,8 @@ Ambos vislumbran, a través de Leonardo, un mundo más grande. A ambos el orden 
 
 Diverge de la historia (†19) pero conserva 1518 como año-detonante. La novela ya diverge (retrato pagado), coherente.
 
-## A resolver (aún abierto)
-- Roster: reasignar "Maria" del borrador (no existe). La boda del viejo cap.12 NO es de Camilla.
-- ¿Cómo muere? (enfermedad/peste en el convento — fijar).
-- ¿Se usa el eco con la 1ª esposa Camilla Rucellai?
-- Presupuesto: ~4-5 toques (1 por parte + escena clave + muerte). No más.
+## Cerrado
+- Roster: "Maria" eliminada; la boda pasa a **Piero**. Marietta sin peso.
+- Muerte: **enfermedad prolongada**; Francesco de viaje, llega tarde.
+- Eco con la 1ª esposa Camilla Rucellai: **no se usa** (omitido).
+- Presupuesto: **5 toques** → caps 3, 4, 10, 11, 14/epílogo (ver `esquema_capitulos.md`).

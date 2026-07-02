@@ -48,7 +48,7 @@
 - Francesco llega a Amboise el **día exacto** en que Leonardo muere.
 - Francesco **rechaza** llevarse el cuadro pudiendo hacerlo.
 - La carta de Leonardo (póstuma) revela la amistad y da vuelta al sentido: "el chase valía más que la captura".
-- Frase-ancla recurrente: **"As if I would be upsetting a King"** → traducir y fijar versión española canónica (amarga en el prólogo, en paz al final).
+- **Frase-ancla canónica (español):** **"Como si yo fuera a importunar a un rey."** Amarga en el prólogo/cap.13; en **paz** en el cap.14. Debe repetirse literal para que el eco funcione.
 
 ## Anclas históricas (no violar)
 

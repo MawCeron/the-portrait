@@ -1,5 +1,7 @@
 # ESQUEMA DE CAPÍTULOS
 
+> **Regla de reaprovechamiento.** El borrador original (`Archivo/`) es cantera. Si alguna escena, imagen, línea o giro sirve —en el mismo capítulo o en otro—, hay que **rescatarlo y reescribirlo** en español y en la voz nueva. No partir de cero por partir de cero: minar primero el borrador. Los mapeos nuevo→viejo ("fusión viejos X+Y") ya están anotados por capítulo.
+
 De 20 piezas → **14 capítulos** + prólogo + epílogo. Cronología estricta, sin solapes.
 Hilos: **[E]** espina (Francesco↔Leonardo) · **[C]** Camilla · **[M]** Marco/Lisa-negocio · **[D]** Doni (aguijón).
 

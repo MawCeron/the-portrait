@@ -27,6 +27,12 @@
 
 - **Muerte de Camilla → CONFIRMADO Opción B (enfermedad prolongada, no demasiado).** 1518. Francesco está de viaje al empeorar; le llega el aviso, vuelve a marchas forzadas y **llega tarde** → apuro + culpa. **Rima estructural** con la llegada tarde a Leonardo (1519): mismo "demasiado tarde" repetido ("¿por qué siempre estoy en el lugar equivocado?"). Súbito se descartó por perder esa ventana.
 
+## Subtramas (2026-07-02)
+- **Nueva subtrama discreta: Marco y el negocio / la Lisa invisible** (candidatas 1+2 combinadas). Marco = anti-Leonardo (entrega, llega, ignorado). Lisa se vuelve la verdadera cabeza del negocio; identidad que nadie ve. Da cuerpo y arco a la narradora. Inversión temática de la carta de Leonardo. Ver `subtramas/marco_y_lisa.md`.
+  - **Aprieto:** mal embarque **del propio Francesco**, distraído por el chase → su cacería daña su mayor logro (el negocio). Lisa + Marco reparan sin él.
+  - **Reconocimiento de Marco:** **tarde, post-carta** — Francesco lo ve en la ola de lucidez de la carta.
+- **Hilo menor: patrón rival (Agnolo Doni)** en dosis mínimas, para el sarcasmo de Lisa. Doni recibió sus retratos de Raphael (~1506); Maddalena **Strozzi** Doni conecta con la humillación del cap.1. Sin desarrollo, 3-4 pinchazos. Ver `subtramas/patron_rival.md`.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

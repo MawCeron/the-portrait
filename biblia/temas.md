@@ -17,6 +17,8 @@
 - Ganó al perder: el chase le dio lo que el retrato prometía.
 - El retrato la hace "visible e invisible" a la vez.
 - **Francesco es humillado por ser tratado como mercancía social y luego trata a su hija como activo de posicionamiento.** Se vuelve el Strozzi de su propia casa.
+- **Perseguimos lo que deslumbra, ignoramos lo fiel.** Francesco persigue al genio que nunca entrega (Leonardo) y no ve al hombre que entrega siempre (Marco) ni a la mujer que sostiene todo (Lisa). Inversión de la carta de Leonardo: *lo presente valía más que lo perseguido*. Ver `planificacion/subtramas/marco_y_lisa.md`.
+- **El rival que sí recibe su cuadro** (Agnolo Doni + Raphael): el par social de Francesco obtiene, terminado, lo que él persigue en vano — y pertenece al clan Strozzi que lo humilló. Aguijón recurrente del sarcasmo de Lisa.
 
 ## Motivos recurrentes (de `Archivo/notes/lose_ideas.md`)
 - **El retrato** — puente entre dos hombres; inacabado como todo lo de Leonardo.

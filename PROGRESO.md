@@ -8,6 +8,7 @@
 - [x] Diagnóstico estructural (repetición temática, saltos de tiempo, capítulos redundantes, pacing).
 - [x] Estructura nueva propuesta y aprobada (esqueleto ~14-15 capítulos, 4 partes).
 - [x] Subtrama de Camilla definida (espejo de Francesco).
+- [x] Subtrama discreta definida: Marco y el negocio / la Lisa invisible (+ hilo menor: patrón rival Doni).
 - [x] Reorganización del repositorio: borrador viejo → `Archivo/`; estructura nueva creada.
 
 ## En curso

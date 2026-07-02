@@ -24,6 +24,7 @@
 - Detalle completo en `planificacion/subtramas/camilla.md`.
 
 ## Secundarios
+- **Marco** — asistente principal de la tienda. **Anti-Leonardo:** ordinario, fiel, entrega, llega, nunca perseguido ni celebrado. Sostiene el negocio con Lisa en las ausencias de Francesco. Eje de la subtrama discreta (ver `planificacion/subtramas/marco_y_lisa.md`).
 - **Francesco Melzi** — discípulo/heredero de Leonardo; lo recibe en Clos Lucé.
-- **Marco** — asistente principal de la tienda.
-- **Piero, Andrea, Giocondo, Marietta** — hijos (ver `canon.md`).
+- **Agnolo Doni** — mercader-coleccionista florentino, par y rival de Francesco. Recibió sus retratos de Raphael (~1506). Aguijón menor (ver `subtramas/patron_rival.md`). Su esposa: **Maddalena Strozzi** Doni.
+- **Piero, Bartolomeo (hijastro), Andrea, Giocondo, Marietta** — hijos (ver `canon.md`).

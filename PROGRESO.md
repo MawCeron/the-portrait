@@ -11,11 +11,13 @@
 - [x] Reorganización del repositorio: borrador viejo → `Archivo/`; estructura nueva creada.
 
 ## En curso
-- [ ] Fijar canon en `biblia/` — resolver conflictos heredados:
-  - [ ] Roster de hijos: los capítulos dicen "Maria"; el canon dice **Camilla + Marietta**. No hay "Maria".
-  - [ ] Edades: prólogo/cap.11 (Francesco), cap.8 (Lisa "31" en 1507 debería ser ~28).
-  - [ ] Años que vive Francesco tras la carta: epílogo dice **5**, timeline dice **19** (†1538).
-  - [ ] Persona narrativa: documentación decía "tercera"; el texto es **primera** persona (Lisa).
+- Fijar canon en `biblia/` — conflictos heredados:
+  - [x] Roster de hijos: "Maria" eliminada; boda → Piero; Marietta sin peso. Arco Camilla ficcionalizado (Opción A).
+  - [x] Años que vive Francesco tras la carta: **19** (histórico, †1538). Corregir epílogo.
+  - [x] Tres Camillas: omitir como recurso.
+  - [x] Persona narrativa: **primera** persona (Lisa). Fijado en `canon.md`.
+  - [x] Causa de muerte de Camilla: enfermedad prolongada; Francesco llega tarde (rima con Leonardo).
+  - [ ] Edades sueltas del borrador (Lisa "31" en 1507 → ~28; Francesco en prólogo/cap.11) — corregir al reescribir.
 - [ ] Cerrar esquema capítulo por capítulo en `planificacion/esquema_capitulos.md`.
 - [ ] Sembrar Camilla en la línea temporal (necesita presencia antes de morir).
 

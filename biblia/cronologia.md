@@ -9,7 +9,7 @@
 - **1504–1510** — Patrón de viajes (Milán, Roma, Florencia). Cena en la osteria de Milán (núcleo de la amistad). Erosión del matrimonio. Reckoning de Lisa.
 - **~1508–1514** — [Arco Camilla: chispa, compromiso, convento. Ver subtrama y fijar fechas.]
 - **1513** — Roma: el esquive del Papa León X.
-- **1516** — Leonardo se marcha a Francia (Clos Lucé, patrocinio de Francisco I).
+- **1516** — Leonardo se marcha a Francia (Clos Lucé, patrocinio de Francisco I). Boda de **Piero** (evento doméstico de los años quietos).
 - **1517–1518** — Años quietos. Francesco no viaja.
 - **1518** — **Muerte de Camilla** (Suor Beatrice), 23 años. Detonante emocional del viaje final.
 - **1519 (feb–mar)** — Francesco decide ir a Francia. Parte.

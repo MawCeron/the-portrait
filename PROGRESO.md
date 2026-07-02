@@ -19,8 +19,8 @@
   - [x] Persona narrativa: **primera** persona (Lisa). Fijado en `canon.md`.
   - [x] Causa de muerte de Camilla: enfermedad prolongada; Francesco llega tarde (rima con Leonardo).
   - [ ] Edades sueltas del borrador (Lisa "31" en 1507 → ~28; Francesco en prólogo/cap.11) — corregir al reescribir.
-- [ ] Cerrar esquema capítulo por capítulo en `planificacion/esquema_capitulos.md`.
-- [ ] Sembrar Camilla en la línea temporal (necesita presencia antes de morir).
+- [x] Esquema capítulo por capítulo (v1) en `planificacion/esquema_capitulos.md` — 14 caps, subtramas repartidas.
+- [x] Camilla sembrada en la línea (caps 3, 4, 10, 11, 14).
 
 ## Pendiente
 - [ ] Escribir capítulos nuevos en español (`manuscrito/`).

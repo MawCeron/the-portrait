@@ -33,6 +33,12 @@
   - **Reconocimiento de Marco:** **tarde, post-carta** — Francesco lo ve en la ola de lucidez de la carta.
 - **Hilo menor: patrón rival (Agnolo Doni)** en dosis mínimas, para el sarcasmo de Lisa. Doni recibió sus retratos de Raphael (~1506); Maddalena **Strozzi** Doni conecta con la humillación del cap.1. Sin desarrollo, 3-4 pinchazos. Ver `subtramas/patron_rival.md`.
 
+## Voz y estilo (2026-07-02)
+- **Segunda persona:** sistema tú/vos por intimidad. Narración neutra; Lisa↔Francesco y familia = **tú**; todos los demás = **vos reverencial de época** (vos sois/tenéis, no rioplatense). Opción abierta: Francesco pasa de vos a tú con Leonardo según crece la amistad.
+- **Honoríficos en italiano** (Maestro, signore, signora, messer) para el sabor de época.
+- **Diálogo con raya (—)**, norma española.
+- **Nivel de ironía:** subir — Lisa **más pícara**, el filo cae directo (con cariño debajo), no tan dulce. Muestra recalibrada en `biblia/voz.md`.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

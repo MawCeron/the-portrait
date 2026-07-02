@@ -23,6 +23,7 @@ Guía para que todos los capítulos suenen a la misma novela. La escribe **Lisa*
 - Comedia cálida en el chase; melancolía creciente hacia el final. Agridulce, nunca melodrama.
 - Leonardo: ni villano ni místico — genio distraído y encantador que no termina nada.
 - El sarcasmo de Lisa hacia Francesco es afecto disfrazado (ver aguijón Doni).
+- **Lisa es pícara.** El filo cae directo, no siempre se lo guarda. Traviesa, algo mordaz — pero el cariño siempre asoma bajo la puya. No cruel; juguetona. Calibrar hacia el ingenio, no hacia la dulzura.
 
 ## Motivos a sostener (de `temas.md`)
 - **Manos** (de mercader / de artista / envejecidas / dobladas en el retrato).
@@ -30,38 +31,48 @@ Guía para que todos los capítulos suenen a la misma novela. La escribe **Lisa*
 - **Llegar tarde** ("algún día" que no llega; Camilla y Leonardo).
 - **Ser visto / invisible** (la cadena de miradas).
 
-## Convenciones de nombres y términos (PROVISIONAL — confirmar)
-- Nombres propios en italiano: **Francesco, Leonardo, Piero, Camilla**. Lugares en italiano/español según uso: Florencia, Milán, Roma, Amboise.
-- Tratamiento: **"Maestro"** para Leonardo (se mantiene). Para el resto, **"señor/señora"** en español (no "signore/signora"), salvo que se decida conservar el sabor italiano.
+## Convenciones de nombres y términos (FIJADO)
+- Nombres propios en italiano: **Francesco, Leonardo, Piero, Camilla**. Lugares: Florencia, Milán, Roma, Amboise.
+- **Honoríficos en italiano** (sabor de época): **Maestro, signore, signora, messer**. No traducir a "señor/señora".
 - Moneda: **florines**. Título: **Cónsul del Gremio de la Seda**.
 
-## Decisiones de taller a fijar (una sola vez, aquí)
-1. **Segunda persona:** ¿"tú/ustedes" (neutro, recomendado), "tú/vosotros" (sabor peninsular/época), o "vos"? — **Recomiendo neutro sin "vosotros"** para no marcar región; el sabor de época se logra con léxico y ritmo, no con morfología.
-2. **Honoríficos:** ¿"señora" (español) o "signora" (italiano, un toque de color)? — Recomiendo español, con "Maestro" como única excepción.
-3. **Comillas de diálogo:** ¿« » (raya española), — raya, o " "? — Recomiendo **raya de diálogo (—)**, norma española.
+## Segunda persona (FIJADO) — tú / vos según intimidad
+Sistema deliberado: la morfología marca el vínculo.
+- **Narración:** español neutro.
+- **Diálogo íntimo — Lisa ↔ Francesco, hijos, familia cercana → "tú"** (tuteo). Familiaridad.
+- **Diálogo con todos los demás — Leonardo, clientes, el Papa, desconocidos → "vos" REVERENCIAL de época.** Formalidad + sabor 1500.
+  - **Ojo con las formas:** es el **vos arcaico/cortés**, no el rioplatense. Conjuga como *vosotros*: **vos sois, vos tenéis, vuestro rostro, decidme, sois muy amable, ¿halagáis?**. NUNCA *vos tenés / sabés / vení*.
+  - **Posible recurso (opcional):** Francesco podría pasar de *vos* a *tú* con Leonardo a medida que la amistad crece — marcaría en la gramática el estrechamiento del vínculo. Evaluar al escribir la osteria.
+
+## Diálogo (FIJADO)
+- **Raya de diálogo (—)**, norma española. Incisos del narrador con raya de cierre.
 
 ---
 
-## MUESTRA (para validar la voz)
+## MUESTRA (voz calibrada: Lisa más pícara)
 
-> Dos fragmentos tentativos. No definitivos — sirven para calibrar tono, ritmo e ironía.
+> Fragmentos tentativos. Ilustran tono, ritmo, el filo que cae directo, y el sistema tú/vos.
 
-**Apertura del cap 1 (el remate seco tras la observación):**
+**Apertura del cap 1 (observación + remate; tuteo narrativo neutro):**
 
 Mi marido nació con talento para dos cosas: vender seda y querer más.
 
-Lo primero mantuvo la casa alimentada, vestida y decentemente cómoda. Tenía un ojo para la calidad que rozaba lo sobrenatural: podía tocar un paño en penumbra y decirte de qué región venía, en qué telar lo habían tejido, si el tinte aguantaría un verano florentino. Lo segundo —el querer— lo mantenía en marcha. De un lado a otro del patio, como si la oportunidad fuera un pájaro que pudiera posarse solo si él se movía rápido para atraparlo.
+Lo primero mantuvo la casa alimentada, vestida y decentemente cómoda. Tenía un ojo para la calidad que rozaba lo sobrenatural: podía tocar un paño en penumbra y decirte de qué región venía, en qué telar lo habían tejido, si el tinte aguantaría un verano florentino. Lo segundo —el querer— no lo dejaba estarse quieto. De un lado a otro del patio, como si la oportunidad fuera un pájaro que solo se posara para quien corriera lo bastante rápido detrás de él. Nunca tuve el valor de decirle que así no se cazan los pájaros.
 
-**Aparte irónico (tono con Francesco):**
+**Diálogo Lisa ↔ Francesco (tú; el filo cae directo):**
 
-—Leonardo da Vinci —repetí, despacio, porque a veces la repetición es lo único que sostiene un matrimonio—. El hombre que pinta cuando le apetece y termina cuando los astros se alinean.
+—Leonardo da Vinci —repetí despacio, porque a veces la repetición es lo único que sostiene un matrimonio—. El hombre que pinta cuando le apetece, termina cuando los astros se alinean y cobra como si mojara los pinceles en oro líquido.
 
-Francesco espantó la objeción con la mano, como a una mosca terca.
+—El genio es excéntrico —dijo Francesco, espantando la objeción como a una mosca terca—. Todo el mundo lo sabe.
 
-—El genio es excéntrico. Todo el mundo lo sabe.
+—Y todo el mundo sabe también que los Medici se permiten la excentricidad porque tienen con qué pagarla. Nosotros, querido, tenemos una tienda de sedas y tu buen humor.
 
-Que los Medici pudieran permitirse la excentricidad porque tenían el oro para absorberla, y nosotros no, me lo guardé. Algunas verdades se dicen mejor con el tiempo.
+**Diálogo con Leonardo (vos de época; ella no se deja):**
+
+—Vuestro rostro es útil, signora —dijo, sin apartar los ojos del lienzo—. Sereno. Simétrico. Un descanso, después de tantas caras que discuten con uno.
+
+—Sois muy amable, Maestro —respondí—. Nunca me habían elogiado por no estorbar.
 
 ---
 
-> Al validar: ¿este nivel de ironía es el correcto? ¿demasiado seco, demasiado suave? Ajustamos aquí antes de escribir el prólogo.
+> ¿Este nivel pícaro es el punto? Si aún falta filo, o se pasa, lo ajustamos aquí antes del prólogo.

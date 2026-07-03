@@ -84,7 +84,7 @@ Pero aquel «quizá» no se posó en la mesa entre los dos. Se quedó flotando p
 
 ---
 
-Los niños lo notaron, como notan los niños todo lo que no se les explica. Piero me preguntó por qué su padre estaba triste. Y Camilla —Camilla quiso saber si el hombre de las alas iba a volver, y si aún la llevaría a verlo volar cuando lo hiciera.
+En los días que siguieron, Francesco arrastró su desconsuelo por la casa sin molestarse siquiera en disimularlo, y los niños lo notaron, como notan los niños todo lo que no se les explica. Piero me preguntó por qué su padre estaba triste. Y Camilla —Camilla quiso saber si el hombre de las alas iba a volver, y si aún la llevaría a verlo volar cuando lo hiciera.
 
 Me quedé sin respuesta un momento más largo de la cuenta.
 
@@ -92,7 +92,7 @@ Me quedé sin respuesta un momento más largo de la cuenta.
 
 Camilla no lloró. Solo asimiló aquello con la misma seriedad con que asimilaba todo, y después preguntó, muy bajito, si eso quería decir que ya nunca iba a saber cómo terminaba lo de las alas. Le dije que no lo sabía. Fue lo más honrado que se me ocurrió, y no la consoló nada, porque a los ocho años «no lo sé» es la más cruel de las respuestas.
 
-Y así fue como reparé en que en aquella casa había ahora dos personas con el mismo agujero abierto en el pecho por el mismo hombre. Una tenía treinta y nueve años y se creía con derecho a ir a taparlo hasta Milán. La otra tenía ocho y solo podía quedarse a esperar, que es lo que se les pide a las mujeres desde muy temprano. Aún no lo pensé con esas palabras. Pero algo de eso se me sentó encima aquella noche, y pesaba.
+Y así fue como reparé en que en aquella casa había ahora dos personas con el mismo agujero abierto en el pecho por el mismo hombre. Una era un hombre de treinta y nueve años; la otra, una niña de ocho. Al hombre, tarde o temprano, el mundo le permitiría hacer algo con ese hueco: perseguirlo, llenarlo, gastarlo en lo que quisiera. A la niña solo le permitiría esperar, que es lo que se les pide a las mujeres desde muy temprano. Aún no lo pensé con esas palabras. Pero algo de eso se me sentó encima aquella noche, y pesaba.
 
 ---
 
@@ -114,13 +114,13 @@ No contestó con palabras. La cara —alivio mezclado con algo parecido a la cul
 
 Dos semanas. Tres a lo más.
 
-Los dos sabíamos que era mentira, aunque no creo que Francesco lo supiera todavía. Yo veía el futuro más claro que él, quizá porque a mí no me cegaba la devoción. Lo de Marco, en cambio, no me preocupó ni un instante, y esa fue la primera vez que lo pensé abiertamente: la tienda iría bien sin él. Iría, tal vez, mejor. Guardé también ese pensamiento, que no era momento.
+Los dos sabíamos que era mentira, aunque no creo que Francesco lo aceptara todavía. Yo veía el futuro más claro que él, quizá porque a mí no me cegaba la devoción. Lo de Marco, en cambio, no me preocupó ni un instante, y esa fue la primera vez que lo pensé abiertamente: la tienda iría bien sin él. Iría, tal vez, mejor. Guardé también ese pensamiento, que no era momento.
 
 —Está bien —dije, alcanzando el pan—. ¿Preparo algo para el viaje?
 
 Me miró con tanta gratitud que casi me sentí culpable por no haberlo detenido. Casi.
 
-No me resistí a un solo aguijón, eso sí. Que una tiene su orgullo.
+Eso sí, no me privé de una indirecta —medio en broma, medio para fastidiarlo, que a veces es la única manera de que un marido escuche—. Una tiene su orgullo.
 
 —Agnolo Doni encargará un retrato de su mujer cualquiera de estos años —dije, sin levantar la vista del pan— y lo tendrá colgado y terminado antes de que tú vuelvas de Milán. Con marco. En su pared. Pagando, imagino, contra entrega.
 
@@ -132,7 +132,7 @@ No me contestó. Cortó la fruta con mucha atención, que es lo que hacía cuand
 
 ---
 
-Se fue la semana siguiente, en una mañana gris, con una bolsa de viaje y una lista de recados que le preparé para que al menos el viaje sirviera de algo al negocio. Lo vi alejarse calle abajo, hacia la puerta norte, con ese paso resuelto suyo de hombre que va a arreglar un asunto sencillo, y sentí el impulso de llamarlo y decirle que no volviera con las manos vacías, y las ganas de no llamarlo por si acaso volvía.
+Se fue la semana siguiente, en una mañana gris, con una bolsa de viaje y una lista de recados que le preparé para que al menos el viaje sirviera de algo al negocio y a la casa —que era, al fin y al cabo, lo que yo administraba—. Lo vi alejarse calle abajo, hacia la puerta norte, con ese paso resuelto suyo de hombre que va a arreglar un asunto sencillo, y sentí el impulso de llamarlo y decirle que no volviera con las manos vacías, y las ganas de no llamarlo por si acaso volvía.
 
 No entendía qué perseguía. De verdad que no. Podía decirme a mí misma que iba a reclamar un cuadro pagado, y era cierto, y no era lo importante, y yo lo sabía sin saber todavía cómo se decía. Tardaría años en encontrarle las palabras. Por ahora solo tenía la certeza torcida de que aquello no eran dos semanas, ni tres; de que no era el final de nada, sino el principio.
 

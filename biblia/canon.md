@@ -47,6 +47,7 @@
 - El retrato **nunca se entrega**. Se queda en Francia.
 - Francesco llega a Amboise el **día exacto** en que Leonardo muere.
 - Francesco **rechaza** llevarse el cuadro pudiendo hacerlo.
+- **Leonardo entra en la casa de Lisa por PRIMERA vez en el cap 4** (escena-espejo de Camilla). Francesco cree que será la única; no lo es. En los años del chase (cap 6+), cuando Leonardo recala en Florencia, **vuelve a casa en visitas recurrentes** que fortalecen el arco de Camilla (la busca a ella: «mi ingeniera»; ella pasa de preguntar a mostrar sus propias ideas). El resto de encuentros, en su taller o relatados.
 - La carta de Leonardo (póstuma) revela la amistad y da vuelta al sentido: "el chase valía más que la captura".
 - **Frase-ancla canónica (español):** **"Como si yo fuera a importunar a un rey."** Amarga en el prólogo/cap.13; en **paz** en el cap.14. Debe repetirse literal para que el eco funcione.
 

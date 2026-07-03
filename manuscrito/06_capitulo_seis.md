@@ -26,11 +26,11 @@ Marco era, en efecto, perfectamente capaz. Esa nunca fue la cuestión. La cuesti
 
 Las temporadas en que Leonardo volvía a Florencia eran distintas. Peores, en cierto modo, porque entonces Francesco no podía disfrazar la obsesión de viaje necesario: el Maestro estaba allí mismo, y mi marido no tenía más razón para pasarse las horas en su taller prestado que las ganas de hacerlo.
 
-Y Leonardo, por deferencia genuina o por manejo maestro —nunca supe del todo cuál—, de vez en cuando venía a casa.
+Y Leonardo, por deferencia genuina o por manejo maestro —nunca supe del todo cuál—, de vez en cuando venía a casa. Aquella primera vez, años atrás, Francesco había jurado que sería la única; se equivocó, para su deleite. A partir de entonces, cada vez que el Maestro recalaba en Florencia terminaba, tarde o temprano, sentado a nuestra mesa.
 
-—Debería ver otra vez a vuestra encantadora esposa —le decía a Francesco, como si la idea se le acabara de ocurrir—. Refrescar sus rasgos. La luz de vuestra casa, el modo en que se sienta sin pensarlo… esas cosas importan para el retrato.
+—Debería ver otra vez a vuestra encantadora esposa —le decía a Francesco, como si la idea se le acabara de ocurrir—. Refrescar sus rasgos, el modo en que se sienta sin pensarlo… esas cosas importan para el retrato.
 
-Y Francesco se encendía como niño al que prometen feria, y Leonardo venía, siempre algo desaliñado, siempre cargando algo —un cuaderno, un artilugio, una vez un frasco con no sé qué cosa de sus estudios de anatomía que preferí no mirar de cerca—, y me estudiaba con aquella intensidad rara que me hacía sentir invisible y demasiado visible a la vez.
+Y venía, siempre algo desaliñado, siempre cargando algo —un cuaderno, un artilugio, una vez un frasco con no sé qué cosa de sus estudios de anatomía que preferí no mirar de cerca—, y me estudiaba un rato con aquella intensidad rara que me hacía sentir invisible y demasiado visible a la vez. Nunca traía la tabla consigo; siempre estaba «en un momento delicado». Yo empezaba a sospechar que me hacía posar más por costumbre, o por gusto, que por ninguna necesidad.
 
 —La boca —murmuraba, a veces a mí, a veces a sí mismo—. Hay algo en ella que no acabo de atrapar. No es alegría exactamente. Es algo más… sabido.
 
@@ -46,7 +46,19 @@ Porque quería a mi marido, que era un necio pero era el mío. No se lo dije. So
 
 Yo me guardaba la lengua, pero pensaba que cobrar por adelantado una sonrisa que aún andaba persiguiendo por mi cara era un modelo de negocio que ya me habría gustado a mí en la tienda.
 
-Una sola vez me atreví a decirle a Francesco lo que de veras pensaba. Fue medio en broma; que quizá él no quería en el fondo que el retrato se terminara. Que quizá la persecución se había vuelto su verdadero encargo, lo que había pagado sin darse cuenta.
+Pero no era a mí a quien Leonardo buscaba de verdad en aquellas visitas. Lo primero que hacía al entrar, después de saludar a Francesco, era barrer la sala con los ojos hasta dar con Camilla.
+
+—¿Y mi ingeniera? —preguntaba. Así la llamaba. Y a la niña se le encendía la cara igual que a su padre.
+
+Con los años, aquello cambió de forma. La que solo preguntaba empezó a traer cosas que enseñar: un dibujo de un pájaro con las alas descompuestas en partes, como le había visto hacer a él; un molinillo de papel armado ella sola para entender por qué giraba el agua de la fuente; una libreta —se la había pedido a su padre, que se la dio encantado de que su hija se pareciera al Maestro— donde copiaba con letra torcida las máquinas de los bocetos que Francesco traía de los viajes, y les añadía las suyas: disparates preciosos, imposibles, de niña que todavía no sabe qué no se puede.
+
+Y Leonardo se las miraba en serio. Le señalaba dónde caería mal el peso, le preguntaba por qué había puesto el eje aquí y no allá, la corregía sin dulzura de más, como se corrige a quien vale la pena corregir. Una vez —Camilla tendría doce— le tomó la libreta, pasó las hojas un buen rato en silencio, y luego le dijo a Francesco, sin molestarse en bajar la voz:
+
+—Esta ve las cosas. La mayoría mira; ella ve. —Y añadió, más bajo—: Es una lástima.
+
+No dijo lástima de qué. No hizo falta. Francesco lo tomó por elogio y se pavoneó una semana; no oyó la segunda mitad, porque nunca oía la segunda mitad. Yo sí la oí, y se me quedó dentro como una piedra en el zapato, porque sabía exactamente de qué era lástima.
+
+Aquellos años me enseñaron a callar casi todo lo que veía, y lo de Camilla me lo tragué como me tragué el resto. Solo una vez rompí la costumbre y le dije a Francesco lo que de veras pensaba; y no de la niña —aquel dolor no habría sabido ni por dónde empezar a nombrárselo—, sino de él y de su cacería. Fue medio en broma, que es como una dice las cosas cuando quiere que duelan menos: que quizá, en el fondo, él no quería que el retrato se terminara nunca. Que quizá la persecución se había vuelto su verdadero encargo, lo que había pagado sin darse cuenta.
 
 Lo negó tan deprisa y tan aparatosamente —de pie, la mano en el pecho como quien jura—, que supe que había tocado algo que él no estaba listo para mirar.
 

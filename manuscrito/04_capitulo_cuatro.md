@@ -2,7 +2,7 @@
 
 ## Florencia, 1504
 
-Hay una tarde de aquel invierno que he repasado más veces que ninguna otra, buscándole el instante exacto en que todo empezó a torcerse. Nunca lo encuentro, porque no lo hubo. Fue una tarde buena. La única, en todos aquellos años, en que Leonardo da Vinci cruzó el umbral de mi casa.
+Hay una tarde de aquel invierno que he repasado más veces que ninguna otra, buscándole el instante exacto en que todo empezó a torcerse. Nunca lo encuentro, porque no lo hubo. Fue una tarde buena. La primera vez que Leonardo da Vinci cruzó el umbral de mi casa —y Francesco, que había maniobrado semanas para lograrlo, estaba seguro de que sería la única, la joya que pensaba lucir el resto de su vida. En eso, como en tantas cosas, se equivocaba: el Maestro volvería, con los años, más de una vez. Pero ninguna de aquellas otras visitas se pareció a esta, porque lo que pasó aquella tarde pasó una sola vez, y no tuvo nada que ver con él.
 
 Lo trajo Francesco, cómo no, radiante como si escoltara a un cardenal. Había maniobrado semanas para conseguirlo —una sesión en casa, con el pretexto de que la luz de nuestro salón por la tarde era más mansa que la del taller—, y por una vez Leonardo había dicho que sí. Creo que a mi marido le importaba menos el retrato que el hecho en sí: poder decir, para siempre, que el Maestro había comido pan bajo su techo.
 
@@ -30,7 +30,7 @@ Yo los miraba desde mi silla, y vi con toda claridad lo que estaba pasando, aunq
 
 Francesco lo miraba también, henchido, pero él veía otra cosa. Veía al gran hombre siendo amable con su niña. No vio el espejo. Nunca lo vería. Yo, en cambio, no pude cenar tranquila el resto de la noche, y no habría sabido explicar por qué.
 
-Fue la última vez. A las pocas semanas, Leonardo se había ido.
+No volveríamos a verlo en mucho tiempo. A las pocas semanas, Leonardo se había ido.
 
 ---
 

@@ -8,9 +8,9 @@ Cruzó los Apeninos en primavera, con los caminos aún embarrados de deshielo, p
 
 El viaje le costó más de lo que jamás me confesó. Negocio perdido, posadas, comidas, un guía para los puertos de montaña. Y, lo que a un hombre como él más le dolía: la pequeña humillación de explicarle a cada mercader que se cruzaba en el camino por qué viajaba tan lejos fuera de temporada. «Mi pintor se marchó con mi retrato», dijo las primeras veces, a hombres que lo miraban con cortés desconcierto. Para la quinta o la sexta, ya en la montaña, lo había pulido: «Tengo un asunto urgente que tratar con un ingeniero al servicio del gobernador francés de Milán». Sonaba mejor. Sonaba a negocio, y no a un hombre persiguiendo a quien se había llevado su oro.
 
-Llegó a Milán después de casi dos semanas, y descubrió, con horror y con secreto deleite a partes iguales, que Leonardo no se escondía en absoluto.
+Llegó a Milán después de casi dos semanas de camino, y se pasó los primeros días buscándolo sin dar con él. Preguntaba en un taller y le decían que el Maestro acababa de salir hacia un palacio; iba al palacio y ya andaba en una obra; llegaba a la obra y lo habían reclamado de no sé qué claustro, o de una cocina donde —juraba Francesco— asesoraba sobre la mecánica de un horno nuevo. Siempre acababa de irse. Empezó a temerse que Leonardo lo esquivaba a propósito, que había sabido que el mercader florentino rondaba la ciudad y prefería no dar la cara. Se le agrió el humor, y estuvo, me confesó, a punto de dar media vuelta y volverse a casa con el rabo entre las piernas.
 
-Sencillamente estaba ocupado. Ocupadísimo. Adorado por la corte francesa, indispensable para el gobernador, reclamado por artistas, ingenieros, músicos y todo el que en Milán tuviera un problema que creyera que el genio podía resolver. Cuando Francesco por fin dio con él —tras dos días de perseguir rumores por talleres, palacios, obras y hasta, según juraba, una cocina donde Leonardo asesoraba sobre la mecánica de un horno nuevo—, el Maestro lo saludó como si se hubieran despedido la víspera.
+Y entonces dio con él, y descubrió —con horror y con secreto alivio a partes iguales— que Leonardo no lo esquivaba en absoluto. Sencillamente estaba ocupado. Ocupadísimo. Adorado por la corte francesa, indispensable para el gobernador, reclamado por artistas, ingenieros, músicos y todo el que en Milán tuviera un problema que creyera que el genio podía resolver. El Maestro lo saludó como si se hubieran despedido la víspera.
 
 —¡Oh! ¡Signor del Giocondo! —Y, según mi marido, se le iluminó la cara de gusto verdadero—. Estáis aquí. Qué maravilla. Tenéis que ver lo que construimos para el gobernador. La hidráulica os va a fascinar.
 
@@ -24,7 +24,7 @@ Y el gobernador —el gobernador— había interrumpido su conversación con dos
 
 ¿Y el retrato? Mi retrato, la causa de todo aquel viaje carísimo, estaba en algún lugar de aquel caos. Leonardo lo mencionó de pasada, señaló un rincón lejano del taller donde había tablas apoyadas contra la pared, cubiertas con paños contra el polvo.
 
-—Va tomando forma, va tomando forma —le aseguró—. Es cuestión de resolver ciertas dificultades. La boca, sobre todo, me da guerra; quiero atrapar algo… esquivo.
+—Va tomando forma, va tomando forma —le aseguró—. Es cuestión de resolver ciertas dificultades. Estoy probando un modo nuevo de fundir las sombras, sin trazo, difuminando la pintura casi con la yema del dedo, hasta que uno no vea dónde acaba la luz y empieza la sombra. Pero es lento: hay que ir dando capas finísimas, una sobre otra, y esperar a que cada una seque antes de la siguiente. La boca, sobre todo, me da guerra; quiero atrapar en ella algo… esquivo.
 
 Francesco no vio ni una esquina de la tabla. No se acercó lo bastante para comprobar siquiera que existía en Milán, no digamos ya que hubiera avanzado. Y volvió a casa sin cuadro, sin acuerdo firme, sin promesa en firme, sin una mísera disculpa por las molestias.
 
@@ -34,7 +34,7 @@ Volvió con algo mucho peor: una admiración más honda y más enredada.
 
 Hubo, sin embargo, una noche de aquel viaje que no me contó al llegar. Se la guardó, como quien esconde una moneda demasiado buena para gastarla, y me la fue dando mucho después, a pedazos, casi con vergüenza. La pongo aquí porque, aunque tardé en conocerla, es el corazón de todo lo demás. Sin esa noche no se entiende nada de los quince años que vinieron.
 
-Era su segunda noche en Milán. Leonardo había terminado no sé qué consulta urgente sobre máquinas para un festejo de la corte, y cuando el taller se vació de aprendices y aduladores, se volvió hacia Francesco con la mayor naturalidad.
+Era la segunda noche desde que había dado con Leonardo. El Maestro había terminado no sé qué consulta urgente sobre máquinas para un festejo de la corte, y cuando el taller se vació de aprendices y aduladores, se volvió hacia Francesco con la mayor naturalidad.
 
 —¿Tenéis hambre? Conozco un sitio. Nada del otro mundo, pero el vino es honrado y no os echan aunque os quedéis horas.
 
@@ -52,7 +52,7 @@ Leonardo lo miró entonces. Lo miró de veras, como rara vez miraba cuando tení
 
 —Algún día —repitió Francesco, y los dos se rieron, porque ¿qué otra cosa se puede hacer con una promesa así?
 
-—El problema —dijo Leonardo, echándose atrás en la silla— es que no dejo de ver cosas nuevas. Maneras nuevas de dar la sombra, la luz sobre la piel, el punto justo de un gesto. Cada vez que creo estar cerca, descubro algo más sutil que no he atrapado todavía. Es para volverse loco.
+—El problema —dijo Leonardo, echándose atrás en la silla— es que no dejo de ver cosas nuevas. Maneras nuevas de dar la sombra, la luz sobre la piel, el punto justo de un gesto. Le doy una capa a la mejilla, espero a que seque, vuelvo, y sobre lo ya hecho descubro un modo mejor, y lo rehago. Llevo con esa mejilla más de lo que tardé en pintar cenas enteras con doce figuras. Cada vez que creo estar cerca, aparece algo más sutil que no he atrapado todavía. Es para volverse loco.
 
 —Pues quizá deberíais terminarlo sin más —sugirió Francesco con suavidad—. Aceptar que ya está bastante bien.
 
@@ -101,6 +101,8 @@ Lo ayudé a quitarse el manto inmundo, procurando no dejar ver mi hartazgo.
 Se le borró la sonrisa exactamente tres segundos. Después se encogió de hombros —se encogió de hombros— como si el retrato fuera un detalle menor en el que nos habíamos obcecado.
 
 —Todavía no. Había unas dificultades técnicas. Pero, Lisa… tendrías que ver lo que hace. No pinta cuadros bonitos para nobles: rediseña cómo se levantan los edificios, cómo corre el agua por las ciudades. Quiere entenderlo *todo*. ¿Cuándo tratas tú a alguien así?
+
+Y ahí, mientras me preguntaba cuándo trataba yo a alguien así —como si esa fuera la cuestión, como si yo debiera darme por afortunada—, sentí algo nuevo removerse dentro de mí. Porque llevaba meses echándole toda la culpa a Leonardo: el genio que encandila, el imán que arrastra a los hombres sin que puedan evitarlo. Y de golpe caí en que el imán no obliga a nadie. Era Francesco quien se dejaba arrastrar una y otra vez —primero al taller, tarde tras tarde, y ahora hasta Milán— y olvidaba a qué había ido; el que pagaba, esperaba, volvía con las manos vacías y una sonrisa de bobo, y encima pretendía que yo me maravillara con él. Aquel día empecé a guardarle a mi marido un enfado que hasta entonces había sido solo para el pintor. No dije nada. Pero era un enfado más pesado, de los que no se pasan durmiendo, y aún no sabía yo hasta dónde iba a crecer.
 
 Camilla, que había bajado corriendo al oír su voz, se le colgó del brazo pidiendo lo suyo: si el hombre de las alas ya volaba, si lo había visto, si le había preguntado por ella. Y Francesco, para ella, sí sacó fuerzas: se sentó, se la puso enfrente y le contó lo de los ingenieros que doblaban papel, y lo del ala que se venía abajo, y lo contento que se ponía Leonardo hasta cuando la cosa fracasaba, «porque de un fracaso también se aprende, hija». Ella lo bebía todo. Los dos volvieron a ser, por una hora, aquella pareja de ilusos inclinados sobre una maravilla que no existía.
 

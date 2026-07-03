@@ -38,7 +38,7 @@
 ### Fase 3 — Sfumato por microcapas (1508–1513) · **Caps 5–8, Milán / Roma**
 - 20–40 **veladuras** de óleo finísimas (1–2 micras), casi puro aglutinante, trazas de pigmento.
 - **Pintado con los dedos y trapos de gamuza** — sin marcas de pincel en el rostro. Imagen fuerte.
-- Efecto óptico: la luz atraviesa las capas, rebota en el gesso blanco y vuelve → **la sonrisa cambia según dónde mires** (miras los ojos y la comisura "sonríe más"). La sonrisa "viva", enigmática, **nace aquí**, no en Florencia.
+- Efecto óptico: la luz atraviesa las capas, rebota en el gesso blanco y vuelve → **la sonrisa cambia según dónde mires** (miras los ojos y la comisura "sonríe más"). Es un **efecto físico de las capas**, no magia. Esa sonrisa cambiante **nace aquí**, no en Florencia. *(Recordar la regla de desmitificación: describir el efecto como oficio y óptica, nunca como misterio.)*
 - Empieza a **tapar la horquilla**, gira el cuerpo, difumina las manos, borra la sonrisa corriente.
 - **Narrativa:** Francesco, en las visitas del chase, ve el cuadro cambiar — "ya no es del todo la cara de mi mujer" / "la sonrisa que ella no puso". El retrato se aleja de la Lisa real y se vuelve otra. Refuerza *ser visto / invisible* y *la tercera mujer*.
 
@@ -53,7 +53,7 @@
 
 ## Ganchos temáticos que abre
 - **El proceso justifica los 16 años** sin inventar nada: la demora es real.
-- **La sonrisa** (motivo): en Florencia es corriente → en el chase se vuelve enigma → paga en el final ("sé de qué sonreía").
-- **La tercera mujer / ser visto:** el cuadro se aleja de la Lisa real capa a capa; para cuando es inmortal, ya no es ella. Ella queda invisible bajo la Gioconda.
+- **La sonrisa** (motivo): en Florencia es una sonrisa corriente → el chase la difumina (efecto de capas) → paga en el final ("sé de qué sonreía"). Mundana, no mística.
+- **La tercera mujer / ser visto:** el cuadro se aleja de la Lisa real capa a capa; para cuando es "otra cosa", ya no es ella. Ella queda invisible detrás del retrato. (Sin llamarlo célebre ni inmortal — la voz no valida la leyenda.)
 - **Manos** (motivo): rígidas al principio → difuminadas con los dedos después. Las manos de Leonardo, literalmente, sobre la tabla.
 - **Pequeño soporte, enorme obsesión:** dos palmos de álamo que se comen una vida.

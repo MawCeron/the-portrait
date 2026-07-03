@@ -144,7 +144,7 @@ Francesco se aclaró la garganta.
 
 —Esa armonía, ¿es algo que buscáis en todos vuestros motivos, o…?
 
-—Vuestras manos, signora. Dejadlas reposar naturalmente. No penséis en ellas. —Y me colocó él mismo las manos, acomodándolas justo así, corrigiendo el ángulo tres veces antes de quedar satisfecho—. Ahí. Perfecto. No os mováis.
+—Vuestras manos, signora. Dejadlas reposar naturalmente. No penséis en ellas. —Y me colocó él mismo las manos, corrigiendo el ángulo tres veces antes de quedar satisfecho—. Ahí. Justo así. No os mováis.
 
 Retrocedió y me estudió con tal intensidad que de pronto me sentí violentamente cohibida. No como me sentiría con un hombre mirándome en el mercado; esto era distinto. Clínico. Implacable. En su mirada no había hambre, nada que hubiera ofendido a Francesco ni que me incomodara del modo en que a veces incomodan las miradas de los hombres. Pero seguía siendo un hombre que no era mi marido estudiándome con una intimidad extraña.
 
@@ -184,11 +184,13 @@ Francesco y yo nos quedamos allí, en el silencio repentino, mirándonos.
 
 Se puso de pie, sacudiéndose el jubón con toda la dignidad que pudo reunir. Se estiró las mangas, se alisó el cuello: los gestos pequeños y precisos de un hombre que se recompone a sí mismo.
 
-—Esperaré fuera —dijo—. Para dejarte espacio de trabajo.
+—Un hombre así no puede andar perdiendo el tiempo en cortesías —dijo, y no supe si trataba de convencerme a mí o a él—. Va a lo suyo. Es lo que tiene el genio. —Miró hacia la puerta por la que Leonardo se había ido, como esperando que volviera y esta vez reparara en él—. Yo aquí no hago más que estorbar. Quitar luz.
 
-—Quizá sea lo mejor —dije con dulzura.
+—Nadie ha dicho que estorbes —dije, aunque los dos sabíamos que un poco sí.
 
-Asintió, me besó la mejilla y salió. Lo vi irse: la espalda recta, la barbilla a nivel, portándose como si la salida hubiera sido enteramente idea suya.
+—Te dejo espacio para trabajar. —Y casi lo dijo aliviado, como si marcharse por voluntad propia fuera mejor negocio que quedarse a que no lo mirasen—. Estaré cerca, por si el Maestro pregunta por mí.
+
+No preguntaría. Pero asentí, y él me besó la mejilla y salió. Lo vi irse: la espalda recta, la barbilla a nivel, portándose como si la salida hubiera sido enteramente idea suya.
 
 ---
 
@@ -200,7 +202,7 @@ Trabajó un rato en silencio, puntuado por el rasgueo del carbón sobre la tabla
 
 Y yo estuve sentada. Y sentada. Y sentada.
 
-El tiempo tomaba una cualidad extraña en aquel cuarto. La luz se corría a pasos mínimos por el suelo. La espalda empezó a dolerme de tanta quietud. Las manos, puestas justo así, se me acalambraban. Quería rascarme la nariz. Cambiar el peso. Hacer cualquier cosa que no fuera seguir congelada en ese instante que Leonardo había decidido que valía la pena capturar.
+El tiempo tomaba una cualidad extraña en aquel cuarto. La luz se corría a pasos mínimos por el suelo. La espalda empezó a dolerme de tanta quietud. Las manos, puestas «justo así», se me acalambraban. Quería rascarme la nariz. Cambiar el peso. Hacer cualquier cosa que no fuera seguir congelada en ese instante que Leonardo había decidido que valía la pena capturar.
 
 Y allí sentada, mientras sus ojos me recorrían la cara con la precisión de quien resuelve una demostración, caí en la cuenta de cosas en las que nunca había reparado. La sombra que mi nariz echaba sobre la mejilla. La pequeña separación entre los dientes de delante, que asomaba cuando no pensaba en mantener los labios juntos. Me pregunté si él las veía como defectos que corregir, o como interés que subrayar. Si la versión pintada de mí tendría los ojos parejos, o si conservaría —incluso exageraría— la asimetría que yo acababa de descubrirme.
 
@@ -208,13 +210,13 @@ Me pregunté, más incómoda aún, si el cuadro recogería quién era yo en real
 
 Afuera, Francesco paseaba —lo veía con toda nitidez, las manos cruzadas a la espalda, ensayando lo que diría cuando Leonardo por fin lo reconociera—. Perseguía una idea: renombre, refinamiento, una versión futura de sí mismo de pie con orgullo bajo una obra maestra terminada, señalándola ante invitados admirados. *Mi esposa. Pintada por el propio Leonardo da Vinci.*
 
-Dentro, yo era la realidad física de esa ambición. Una mujer en un escabel incómodo. La espalda ya dolorida de tanta quietud. Las manos plegadas justo así. Tratando de no estornudar por el polvo.
+Dentro, yo era la realidad física de esa ambición. Una mujer en un escabel incómodo. La espalda ya dolorida de tanta quietud. Las manos plegadas «justo así», en esa postura que ni yo misma acababa de entender. Tratando de no estornudar por el polvo.
 
-Y en algún punto entre los dos, se estaba creando una tercera mujer. Una que solo existía en aquella tabla, en capas de pigmento y aceite. No era del todo yo —nunca tendría las preocupaciones ni las molestias ni los pequeños dolores de mi cuerpo real; nunca se inquietaría por el pan, por los hijos, por si su marido se acordó de traer el buen aceite—. Y tampoco era del todo lo que Leonardo imaginaba al estudiarme, porque estaría limitada por lo que sus manos alcanzaran a ejecutar.
+Y sin embargo, ni la idea que Francesco perseguía en la calle ni la mujer entumecida que la sostenía en el escabel eran, del todo, lo que estaba naciendo en aquel cuarto. Entre las dos, sobre la tabla, se iba creando una tercera mujer. Una que solo existía en aquella tabla, en capas de pigmento y aceite. No era del todo yo —nunca tendría las preocupaciones ni las molestias ni los pequeños dolores de mi cuerpo real; nunca se inquietaría por el pan, por los hijos, por si su marido se acordó de traer el buen aceite—. Y tampoco era del todo lo que Leonardo imaginaba al estudiarme, porque estaría limitada por lo que sus manos alcanzaran a ejecutar.
 
 Y la gente la miraría —a la versión pintada de mí— y creería estar viendo a Lisa Gherardini. Creería verme a mí. Pero Leonardo no veía a Lisa. No veía a la mujer que esa mañana había discutido con la hija del panadero el precio de los huevos, que había calmado a un niño lloroso antes del desayuno, que había ayudado a su marido a ensayar el discurso para los proveedores de seda. Veía un problema por resolver. Una armonía por lograr. Una cara que, por fortuna, no le llevaba la contraria. Enteramente visible, del todo invisible. No Lisa. Solo un rostro útil.
 
-En algún momento, tras lo que se sintió como una hora de trabajo constante, se detuvo a media pincelada, el carbón en alto, mirando la nada.
+En algún momento, tras lo que se sintió como una hora de trabajo constante, se detuvo a medio trazo, el carbón en alto, mirando la nada.
 
 —¿Habéis pensado alguna vez —preguntó, al parecer a nadie— cómo se las arregla un pájaro para alzar el vuelo con el viento en contra? Solo la mecánica ya es fascinante. El modo en que el ala se ajusta a media batida…
 
@@ -252,7 +254,7 @@ Cuando Leonardo declaró por fin terminada la sesión —lo cual pareció coinci
 
 Eché un vistazo a la tabla al levantarme, estirándome con cuidado. No había casi nada en ella. Unas líneas. Unas sombras. El fantasma de una composición que en otra vida podría, quizá, llegar a ser un cuadro.
 
-No podía saberlo entonces, pero en aquellos primeros meses la mujer que iba asomando a la tabla se parecía a mí más de lo que se parecería nunca después. Era una mujer corriente y reconocible: una horquilla en el pelo, a la moda de aquel año; dos columnas enmarcándola; las manos posadas sin misterio en el brazo de la silla; y en la boca una sonrisa cualquiera, de las que se le piden a quien posa. La cosa extraña y eterna por la que el mundo entero la miraría un día no estaba todavía ahí. Esa la pintaría más tarde, capa sobre capa, en ciudades a las que yo no fui, con las yemas de los dedos, borrándome poco a poco la cara para ponerle otra. Pero eso, como tantas cosas, lo entendí demasiado tarde.
+En aquellos primeros meses, la mujer que iba asomando a la tabla se parecía a mí bastante más de lo que se parecería después. Era una mujer corriente: una horquilla en el pelo, a la moda de aquel año; dos columnas enmarcándola; las manos posadas sin más en el brazo de la silla; y en la boca una sonrisa cualquiera, de las que se le piden a quien posa. Un retrato normal, de esos que se terminan. Con los años lo cambiaría entero —el peinado, las columnas, las manos, la boca—, capa sobre capa, en ciudades a las que yo no fui. Pero aquella mañana no era más que una tabla con cuatro líneas y una mujer aburrida delante.
 
 —Excelente avance —dijo Leonardo, alegre, ya limpiando pinceles con la misma precisión distraída que ponía en todo—. Volved la semana que viene. A la misma hora. Vamos a las mil maravillas.
 

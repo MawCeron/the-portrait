@@ -39,6 +39,10 @@
 - **Diálogo con raya (—)**, norma española.
 - **Nivel de ironía:** subir — Lisa **más pícara**, el filo cae directo (con cariño debajo), no tan dulce. Muestra recalibrada en `biblia/voz.md`.
 
+## Desmitificación (2026-07-03)
+- **Regla nueva: nada de mitificar el cuadro ni a Leonardo.** La novela busca **desmitificar** y volver mundano tanto la pintura como a Leonardo. Fuera las referencias a fama, misterio, «eterno/inmortal», «el mundo la miraría». Leonardo = genio distraído y humano, no oráculo. La *hype* solo vive en la boca de Francesco (su delirio), nunca en la voz narradora. Ver `biblia/voz.md` › Desmitificación. **Motivo:** el desengaño final necesita que la obra haya sido siempre una tabla y un oficio, no una reliquia.
+- Se añadió `biblia/proceso_pintura.md`: el proceso real (4 fases, 16 años) da continuidad visual y justifica la demora **sin** inventar magia. El proceso ES la cacería.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

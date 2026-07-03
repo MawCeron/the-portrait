@@ -25,6 +25,13 @@ Guía para que todos los capítulos suenen a la misma novela. La escribe **Lisa*
 - El sarcasmo de Lisa hacia Francesco es afecto disfrazado (ver aguijón Doni).
 - **Lisa es pícara.** El filo cae directo, no siempre se lo guarda. Traviesa, algo mordaz — pero el cariño siempre asoma bajo la puya. No cruel; juguetona. Calibrar hacia el ingenio, no hacia la dulzura.
 
+## Desmitificación (FIJADO)
+Una intención central de la novela es **desmitificar** el cuadro y a Leonardo: volverlos **mundanos**. La voz narradora NO valida la leyenda. Prohibido:
+- Referencias a la **fama** de la obra, a que «el mundo la miraría», a su carácter **eterno/inmortal**, o al **misterio** detrás de ella.
+- Presentar a Leonardo como místico, profético u oráculo. Es un genio **distraído, encantador y humano**; termina poco, se distrae con grúas y pájaros.
+- La pintura es una **tabla pequeña**, un oficio, un trabajo lento y físico (dedos, trapos, capas). Nada sagrado.
+- **Excepción:** la *hype del propio Francesco* (su ambición delirante: «obra maestra», «legado») sí aparece —es su fantasía, no la voz que la confirma—. Lisa la mira con ironía; nunca la refrenda. El desengaño final desinfla esa hype, no la corona.
+
 ## Motivos a sostener (de `temas.md`)
 - **Manos** (de mercader / de artista / envejecidas / dobladas en el retrato).
 - **La sonrisa** (exclusión → misterio → paz).

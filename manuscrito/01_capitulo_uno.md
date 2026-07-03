@@ -80,7 +80,7 @@ Nuestra casa era cómoda. Cálida. Con buenos muebles y telas finas y las señal
 
 Ese año Francesco tenía treinta y ocho, y todo lo que he contado —el consulado ganado tan joven, los años de construir y demostrarse, el respeto de hombres que le doblaban la edad— no valía nada allí dentro. Entre familias cuya riqueza venía de heredar y no de sudar, cuyos nombres pesaban más que cualquier mérito, mi marido era, simplemente, un mercader. Dinero nuevo. Un hombre que trabaja.
 
-Los demás invitados ya conversaban cuando entramos, y lo primero que me golpeó fue su soltura. Se movían por la sala con la gracia distraída de quien ha estado en salas así toda la vida. Formaban corros que se conocían desde hacía generaciones: esta familia se había casado con aquella tres veces en el último siglo, estas dos eran aliadas desde antes de la memoria, aquellas se habían enemistado y reconciliado tantas veces que ya era una costumbre.
+Los demás invitados ya conversaban cuando entramos, y lo primero que me golpeó fue su soltura. Se movían por la sala con la gracia distraída de quien ha estado en salas así toda la vida. Formaban corros que se conocían desde hacía generaciones: esta familia se había casado con aquella tres veces en el último siglo, estas dos eran aliadas desde antes de la memoria, aquellas se habían enemistado y reconciliado tantas veces que ya era una costumbre. Nada, en todo caso, comparado con aquello que se murmuraba de dos casas de más al norte, cuyo pleito, dicen, se cobró a un par de jóvenes. Haría una buena historia, si alguien se molestara en escribirla. O al menos es lo que había escuchado.
 
 La risa pasaba entre ellos con facilidad, como plata de familia que se saca y se lustra y se hereda. Nadie se esforzaba. Ese era precisamente el punto.
 

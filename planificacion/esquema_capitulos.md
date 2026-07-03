@@ -90,16 +90,18 @@ Hilos: **[E]** espina (Francesco↔Leonardo) · **[C]** Camilla · **[M]** Marco
 - **Objetivo:** vuelve deshecho; "desperdicié mi vida". Aflora el paralelo con Camilla (llegar tarde, no hablar). Llega la carta; la rechaza. (Empalma con el prólogo.)
 
 ### Cap 14 — La carta *(fusión viejos 18+19)*
-- **Objetivo:** Lisa la lee sola (llora: Leonardo la vio a ella también). Luego Francesco la lee → **paz**. Frase-ancla ahora en **calma**.
-- **Convergencia:** la misma ola de lucidez le abre los ojos a más de una deuda — **[C]** entiende a Camilla; **[M]** ve por fin a Marco y a Lisa (reconocimiento **tarde, post-carta**, pero a tiempo de saberlo).
+- **Objetivo:** Lisa la lee sola. Luego Francesco la lee → **paz**. Frase-ancla ahora en **calma**.
+- **Convergencia:** la misma ola de lucidez le abre los ojos a más de una deuda — **[C]** entiende a Camilla; **[M]** ve por fin a **Marco** (beat aparte). **[Lisa]** empieza a **verla a ella** —una mirada, una palabra torpe que en 16 años no había dicho—: **semilla** de la conclusión exclusiva de Lisa (no resolver del todo aquí; pleno en el epílogo). Ver `arco_lisa.md`.
 
 ---
 
 ## EPÍLOGO — El retrato *(años después)*
 - Francesco vive **19 años** más (histórico), sereno; cuenta las historias de Leonardo con calidez.
-- **[M pago]** sucesión: el negocio **real** heredado (Bartolomeo/Piero) vs. el retrato (legado imaginado) en Francia. Lisa: lo sostuvo todo, invisible; el cuadro la hace eterna como **enigma**, no como quien llevó las cuentas.
-- **[D #4]** cierre irónico: el rival tuvo su retrato terminado; el de Lisa, inacabado, se volvió inmortal.
-- Cierra con Lisa: "sé de qué sonreía".
+- **[M pago]** sucesión: el negocio **real** heredado (Bartolomeo/Piero) vs. el retrato (legado imaginado) en Francia.
+- **[Lisa — conclusión exclusiva]** (ver `arco_lisa.md`), dos pilares:
+  1. **La sonrisa es suya:** el mundo inventará misterios (desmit: la voz se ríe de ello); ella es la única que sabe. **Sonreía porque veía a los dos hombres —Leonardo y Francesco— necesitarse y no darse cuenta.** La más invisible es la cara más mirada, y la única dueña de la respuesta. → **"Sé de qué sonreía."**
+  2. **El que sí la vio:** muerte serena de Francesco (1538) + **testamento con peso** (*"beloved wife… noble spirit… faithful"*): contra todo lo que pareció, **solo él la vio por quien era**, todo post-carta. Paga el cap 7 (renunció a ser vista → lo era, por quien menos creía).
+- **[D #4]** cierre irónico: el rival tuvo su retrato terminado; el de Lisa, inacabado, quedó para siempre.
 
 ---
 

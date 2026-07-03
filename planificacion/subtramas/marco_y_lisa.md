@@ -1,6 +1,8 @@
 # SUBTRAMA — Marco y el negocio / la Lisa invisible
 
-> Subtrama discreta principal (combinación de las candidatas 1+2). Corre de fondo los 16 años, en los huecos de la espina. Da cuerpo a la novela y **arco a la narradora**.
+> Subtrama discreta principal (combinación de las candidatas 1+2). Corre de fondo los 16 años, en los huecos de la espina.
+
+> **OJO (decisión 2026-07-03):** esta es la subtrama **de Marco**, no de Lisa. Lisa es aquí **personaje de apoyo** (la cabeza invisible del negocio), pero su **arco personal se concluye aparte y en exclusiva** (ver `arco_lisa.md` / epílogo): ver-y-ser-vista → "sé de qué sonreía" + el testamento. No colgar el cierre de Lisa de este hilo.
 
 ## Concepto
 Mientras Francesco persigue a Leonardo, **Lisa se vuelve la verdadera cabeza** del negocio y la casa, apoyada en **Marco** (asistente principal, ya en el borrador). Marco es el **anti-Leonardo**: ordinario, fiel, entrega todo, llega siempre, y nadie lo persigue ni lo celebra. El negocio —lo que Francesco desdeña— es lo que sostiene y **sobrevive** a la familia. Lisa gana competencia e identidad, pero una identidad **que nadie ve**.
@@ -32,8 +34,7 @@ Mientras Francesco persigue a Leonardo, **Lisa se vuelve la verdadera cabeza** d
   - **El aprieto (clave):** **un mal embarque decidido por el propio Francesco**, con la cabeza en Leonardo. El hombre cuyo don era el juicio comercial —el que tocaba una tela en penumbra y sabía su origen— falla porque ya no está presente. El chase empieza a **corroer su mayor logro**. Lisa y Marco reparan el daño **sin** él (y en parte a pesar de él). Semilla ya en el borrador: tras Milán no puede concentrarse en las muestras de lana, delega "lo que mejor te parezca". Aquí esa distracción cuesta dinero real.
 - **Giro (Parte 3):** el negocio prospera —irónicamente por las conexiones que el chase le dio (Medici) *y* por la gestión de Lisa/Marco—, no por Francesco. Lo que él perseguía en el retrato ya lo tenía en casa, hecho por otras manos.
 - **Pago (Parte 4 / epílogo):** sucesión — Bartolomeo/Piero heredan el negocio **real**; el retrato (legado imaginado) se queda en Francia.
-  - **Reconocimiento de Marco: tarde, post-carta.** En la misma ola de lucidez que trae la carta de Leonardo, Francesco por fin **ve** a Marco (y a Lisa): entiende quién sostuvo su vida mientras él perseguía. Otro "demasiado tarde", en clave menor, pero esta vez **a tiempo de saberlo** (como con Leonardo). La carta le abre los ojos a más de una deuda.
-  - Lisa en el epílogo: sostuvo todo, invisible; el cuadro la hace eterna como **enigma**, no como la mujer que llevó las cuentas.
+  - **Reconocimiento de Marco: tarde, post-carta.** En la misma ola de lucidez que trae la carta de Leonardo, Francesco por fin **ve** a Marco: entiende quién sostuvo el negocio mientras él perseguía. Otro "demasiado tarde", en clave menor, pero **a tiempo de saberlo**. Beat **de Marco/Francesco**, breve; NO es el cierre de Lisa.
 
 ## Reglas / cuidados
 - **Discreto:** pasa en los huecos, no en set-pieces. Marco es presencia constante, no protagonista.

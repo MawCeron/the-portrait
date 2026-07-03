@@ -16,7 +16,7 @@ Y yo asentía como si el discurso fuera nuevo, como si no hubiera oído sus vari
 
 Y a los dos días de pasearse por la casa ensayando cosas cada vez más severas que le diría a Leonardo, hacía la bolsa —con la faltriquera más llena de lo que exige una simple reclamación— y se marchaba otra vez, a recuperar un cuadro de manos de un hombre que trataba el terminar una obra como una interesante cuestión filosófica y no como una obligación de contrato.
 
-Leonardo, entretanto, se movía como un pájaro migratorio con cuaderno de dibujo: sin nido fijo, solo una serie de ramas escogidas por razones oscuras que a él le cuadraban de maravilla y a nadie más. Un año regresaba a Florencia, llamado por la Señoría para no sé qué encargo, y Francesco corría tras él con la urgencia de quien persigue el último barco antes del invierno. Al siguiente se escurría a Roma, tentado por el mecenazgo de la casa del Papa, y Francesco lo seguía a las pocas semanas jurando que el negocio se llevaría solo.
+Leonardo, entretanto, se movía como un pájaro migratorio con cuaderno de dibujo: sin nido fijo, solo una serie de ramas escogidas por razones oscuras que a él le cuadraban de maravilla y a nadie más. Un año regresaba a Florencia, llamado por la Señoría para no sé qué encargo, y Francesco corría tras él con la urgencia de quien persigue el último barco antes del invierno. Al siguiente se escurría a Pavía —a abrir cadáveres con un médico de la universidad, según Francesco, cosa que preferí no imaginar demasiado—, y Francesco lo seguía a las pocas semanas jurando que el negocio se llevaría solo.
 
 —Marco es perfectamente capaz —decía—. Y son dos semanas. Tres a lo más.
 
@@ -78,7 +78,7 @@ Y en algún punto de aquellos años dejé de llevar las cuentas para pasar a lle
 
 Pero hubo un día que sí importó. Y conviene que lo cuente, porque fue la primera vez que la caza no solo nos costó oro en caminos, sino que estuvo a punto de costarnos lo único que Francesco había construido de verdad.
 
-Llegó una partida grande de seda que él mismo había comprado, unas semanas antes de marcharse otra vez tras el rastro de Leonardo. Y aquí está lo que aún me cuesta creer, después de tantos años: la había comprado *mal*. Mi marido. El hombre que tocaba un paño en penumbra y te decía de qué región venía y en qué telar lo habían tejido, el que sabía con solo mirarlo si un tinte aguantaría el verano florentino —aquel don que lo había hecho Cónsul del Gremio a los veinticuatro—, había aceptado una partida cuyo tinte se corría con solo mirarlo mal, y la había pagado, y había firmado, y se había ido a Roma con la cabeza en otra parte antes de que llegara.
+Llegó una partida grande de seda que él mismo había comprado, unas semanas antes de marcharse otra vez tras el rastro de Leonardo. Y aquí está lo que aún me cuesta creer, después de tantos años: la había comprado *mal*. Mi marido. El hombre que tocaba un paño en penumbra y te decía de qué región venía y en qué telar lo habían tejido, el que sabía con solo mirarlo si un tinte aguantaría el verano florentino —aquel don que lo había hecho Cónsul del Gremio a los veinticuatro—, había aceptado una partida cuyo tinte se corría con solo mirarlo mal, y la había pagado, y había firmado, y se había ido a Pavía con la cabeza en otra parte antes de que llegara.
 
 Lo descubrió Marco, no él. Y me lo trajo a mí, no a él, porque él estaba a tres semanas de camino persiguiendo a un pintor. Extendimos las piezas en la trastienda, y no hizo falta ser Cónsul de nada para verlo: el azul se despintaba en las manos, dejaba los dedos manchados como los de un tintorero. Vendida así, aquella seda no habría durado un solo verano en la espalda de nadie; y el nombre de Del Giocondo, que valía más que el oro precisamente porque nunca había vendido gato por liebre, se habría manchado tanto como los dedos.
 
@@ -88,7 +88,7 @@ Los dos sabíamos lo que eso significaba. Si aquella seda salía por la puerta c
 
 De modo que hicimos lo que había que hacer, y lo hicimos sin él. Detuvimos el pedido de los Rucellai con una excusa de retraso en el teñido —lo cual, Dios me perdone, ni siquiera era del todo mentira—. Fui yo en persona a hablar con el mercader que nos había endilgado la partida, y descubrí, negociando, que se me daba mejor de lo que jamás sospeché; le recordé, con mucha dulzura, cuántos años llevábamos comprándole y cuántos podíamos dejar de hacerlo, y le saqué la devolución de la mitad y un buen descuento en la próxima a cambio de mi silencio. Con Marco apartamos las piezas peores, salvamos las que aún tenían remedio, y colocamos el resto lejos de Florencia, a un precio con el que perdimos, pero perdimos oro y no nombre, que es la única pérdida que a la larga se puede permitir un mercader.
 
-Cuando Francesco volvió de Roma, se lo conté por encima, ya arreglado. Frunció el ceño un momento, dijo «hiciste bien», y a los cinco minutos ya me estaba contando un experimento de Leonardo con unos espejos y la luz del sol que había estado a punto de incendiar un tapiz carísimo. Se rió tanto al contarlo que no podía respirar.
+Cuando Francesco volvió de Pavía, se lo conté por encima, ya arreglado. Frunció el ceño un momento, dijo «hiciste bien», y a los cinco minutos ya me estaba contando un experimento de Leonardo con unos espejos y la luz del sol que había estado a punto de incendiar un tapiz carísimo. Se rió tanto al contarlo que no podía respirar.
 
 Yo me reí también, porque tiene gracia un hombre que casi quema un palacio y se queda tan tranquilo. Pero por dentro guardé, junto a las demás, una cuenta nueva: la de que aquella partida podría haber sido el fin de todo, y él ni siquiera había estado en la ciudad para saberlo.
 
@@ -96,7 +96,7 @@ Yo me reí también, porque tiene gracia un hombre que casi quema un palacio y s
 
 Y luego estuvo lo de Piero, que es la parte que preferiría no escribir, y por eso mismo la escribo.
 
-Volvió una noche, tras casi un mes fuera —Roma otra vez—, y oí la cancela antes de verlo: el ritmo conocido de su regreso, las botas gastadas de los caminos, el manto oliendo a humo de hogares ajenos, la bolsa cargada de cosas que no eran el retrato. Los ojos brillantes del genio que hubiera rozado esta vez.
+Volvió una noche, tras casi un mes fuera —Pavía otra vez—, y oí la cancela antes de verlo: el ritmo conocido de su regreso, las botas gastadas de los caminos, el manto oliendo a humo de hogares ajenos, la bolsa cargada de cosas que no eran el retrato. Los ojos brillantes del genio que hubiera rozado esta vez.
 
 Iba a medio deshacer la bolsa —poniendo en la mesa, uno a uno, sus tesoros inútiles: papeles con bocetos comprados a un aprendiz, un cordel curiosamente trenzado que a Leonardo le había «parecido interesante», una flor prensada de un jardín que el Maestro había alabado por su geometría— cuando hablé.
 
@@ -124,13 +124,13 @@ Cruzó la sala en dos zancadas y me buscó, pero yo di un paso atrás. No mucho.
 
 El silencio que siguió pesaba en la sala como una cosa física.
 
-Francesco estaba allí de pie, la color yéndosele de la cara como el agua de una vasija rota. Todo el resplandor de Roma, toda la emoción de lo que hubiera visto u oído o casi logrado, evaporado. Solo un hombre que envejecía, plantado en su propia casa, con un cordel en la mano que había cargado por media Italia sin ningún motivo.
+Francesco estaba allí de pie, la color yéndosele de la cara como el agua de una vasija rota. Todo el resplandor de Pavía, toda la emoción de lo que hubiera visto u oído o casi logrado, evaporado. Solo un hombre que envejecía, plantado en su propia casa, con un cordel en la mano que había cargado por media Italia sin ningún motivo.
 
-—Y tú estabas en Roma —dije, sin mirarlo—. Preguntando por un cuadro.
+—Y tú estabas en Pavía —dije, sin mirarlo—. Preguntando por un cuadro.
 
 —No lo sabía. —Apenas un susurro—. Lisa, si lo hubiera sabido, jamás…
 
-—Lo sé —dije, y me volví hacia él—. Sé que no lo sabías. Sé que habrías venido si hubiera habido modo de avisarte. Pero no estabas. No has estado. Y que sea Milán, o Roma, o adonde Leonardo huya la próxima vez, el resultado es el mismo, ¿verdad?
+—Lo sé —dije, y me volví hacia él—. Sé que no lo sabías. Sé que habrías venido si hubiera habido modo de avisarte. Pero no estabas. No has estado. Y que sea Milán, o Pavía, o adonde Leonardo huya la próxima vez, el resultado es el mismo, ¿verdad?
 
 Había otras cosas que podría haber dicho. Sobre las noches en vela aprendiendo a distinguir el ruido normal de una casa del ruido que significa desgracia. Sobre cómo los niños habían empezado a buscarme a mí aun cuando él estaba, por costumbre, porque yo era la que siempre estaba. Sobre lo ancha que se había vuelto nuestra cama. Pero me lo tragué todo, lo prensé en el sitio donde había aprendido a guardar esas cosas.
 
@@ -144,15 +144,15 @@ Y con esas palabras sencillas volví a meterme dentro de mí misma. Otra vez el 
 
 Francesco seguía allí, mi mano en la suya, esperando quizá algún ajuste de cuentas que yo no pensaba entregarle; alguna rabia, o llanto, o ultimátum que le diera algo claro a lo que responder, algo que pudiera prometer arreglar. No le di nada de eso. Me lo tragué, como todo.
 
-—Cuéntame lo de Roma —dije al fin—. Traerás historias.
+—Cuéntame lo de Pavía —dije al fin—. Traerás historias.
 
-El alivio de su cara me dolió de mirar. Permiso para volver a la normalidad. Y habló, primero a trompicones, luego animándose: Leonardo en el Vaticano, los espejos, el hermano del Papa, imposible de contentar. Yo escuché. Asentí donde tocaba. Hice las preguntas que lo dejaban seguir.
+El alivio de su cara me dolió de mirar. Permiso para volver a la normalidad. Y habló, primero a trompicones, luego animándose: Leonardo en Pavía, los espejos, aquel noble imposible de contentar. Yo escuché. Asentí donde tocaba. Hice las preguntas que lo dejaban seguir.
 
 Y el momento pasó. El casi enfrentamiento que nunca llegó a ser. La erosión siguió, callada, invisible, minuciosa como el agua desgastando la piedra.
 
 ---
 
-Los niños, entretanto, crecían, y aprendieron el patrón de su padre tan a fondo como lo había aprendido yo. Cuando el sitio de Francesco quedaba vacío a la mesa, preguntaban a los criados «¿dónde está papá?», ya sin preocupación —eso se les había pasado tras las primeras veces—, solo con la curiosidad de quien confirma lo que ya sabe. Y la respuesta era siempre la misma: «Fue a ver otra vez al Maestro Leonardo». A veces añadían detalles, comparándolos como mercaderes que siguen embarques: «En Roma, esta vez». «En Milán, creo».
+Los niños, entretanto, crecían, y aprendieron el patrón de su padre tan a fondo como lo había aprendido yo. Cuando el sitio de Francesco quedaba vacío a la mesa, preguntaban a los criados «¿dónde está papá?», ya sin preocupación —eso se les había pasado tras las primeras veces—, solo con la curiosidad de quien confirma lo que ya sabe. Y la respuesta era siempre la misma: «Fue a ver otra vez al Maestro Leonardo». A veces añadían detalles, comparándolos como mercaderes que siguen embarques: «En Pavía, esta vez». «En Milán, creo».
 
 Camilla no preguntaba. Camilla, que cumplía años como cumplen las niñas en una casa así, sin que nadie lo celebre demasiado, había dejado hacía tiempo de esperar a que le contaran las maravillas y había empezado a buscarlas por su cuenta. La sorprendía con los papeles que su padre traía de los viajes, los bocetos comprados a aprendices, alisándolos sobre la mesa y copiando las líneas en una tablilla con un cabo de carbón. Preguntaba a su hermano mayor las letras que aún no sabía. Una tarde la encontré intentando entender, ella sola, por qué el agua de la fuente subía por un caño y no por otro, con esa arruga en la frente que era la de su padre clavada.
 

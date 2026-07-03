@@ -46,6 +46,10 @@
 ## Voz — cap 5 (2026-07-03)
 - **Vos↔tú Francesco/Leonardo: DECIDIDO, ASIMÉTRICO.** En la osteria (cap 5): **Leonardo pasa al tú de forma permanente**; **Francesco sigue de vos por defecto** y solo tutea a Leonardo en **contadísimas ocasiones-cumbre** (1ª: «te tengo por amigo»), volviendo al vos después. La asimetría da fuerza al futuro (cada tú de Francesco es un acontecimiento; Lisa los cuenta). Refuerza *ser visto* y prepara el pago de la carta final. Ver `biblia/voz.md`.
 
+## Continuidad (2026-07-03)
+- **Roma se reserva EN EXCLUSIVA para el set-piece del Papa (cap 8).** En el montaje del chase (cap 6), Leonardo va a **Pavía** (disecciones de anatomía) y a Milán/Florencia, no a Roma. Así Roma llega virgen y con peso al cap 8.
+- **Leonardo entra en la casa por primera vez en el cap 4** (no la única); vuelve en visitas recurrentes (cap 6+) que nutren el arco de Camilla («mi ingeniera»). Ver `canon.md`.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

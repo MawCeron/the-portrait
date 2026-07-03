@@ -43,6 +43,9 @@
 - **Regla nueva: nada de mitificar el cuadro ni a Leonardo.** La novela busca **desmitificar** y volver mundano tanto la pintura como a Leonardo. Fuera las referencias a fama, misterio, «eterno/inmortal», «el mundo la miraría». Leonardo = genio distraído y humano, no oráculo. La *hype* solo vive en la boca de Francesco (su delirio), nunca en la voz narradora. Ver `biblia/voz.md` › Desmitificación. **Motivo:** el desengaño final necesita que la obra haya sido siempre una tabla y un oficio, no una reliquia.
 - Se añadió `biblia/proceso_pintura.md`: el proceso real (4 fases, 16 años) da continuidad visual y justifica la demora **sin** inventar magia. El proceso ES la cacería.
 
+## Voz — cap 5 (2026-07-03)
+- **Vos→tú Francesco↔Leonardo: DECIDIDO.** El «recurso opcional» se ejecuta en la osteria de Milán (cap 5): tuteo mutuo, iniciado por Leonardo. De aquí en adelante se tutean. Lisa lo glosa (tú = «a quién dejas entrar»; ella nota que a Leonardo le costó un año y un viaje, a ella él la tuteó desde el altar). Refuerza *ser visto* y prepara el pago de la carta final ("amigo"). Ver `biblia/voz.md`.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

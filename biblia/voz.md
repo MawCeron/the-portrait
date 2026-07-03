@@ -49,7 +49,7 @@ Sistema deliberado: la morfología marca el vínculo.
 - **Diálogo íntimo — Lisa ↔ Francesco, hijos, familia cercana → "tú"** (tuteo). Familiaridad.
 - **Diálogo con todos los demás — Leonardo, clientes, el Papa, desconocidos → "vos" REVERENCIAL de época.** Formalidad + sabor 1500.
   - **Ojo con las formas:** es el **vos arcaico/cortés**, no el rioplatense. Conjuga como *vosotros*: **vos sois, vos tenéis, vuestro rostro, decidme, sois muy amable, ¿halagáis?**. NUNCA *vos tenés / sabés / vení*.
-  - **Posible recurso (opcional):** Francesco podría pasar de *vos* a *tú* con Leonardo a medida que la amistad crece — marcaría en la gramática el estrechamiento del vínculo. Evaluar al escribir la osteria.
+  - **Vos→tú Francesco↔Leonardo (DECIDIDO, cap 5):** en la osteria de Milán ambos dejan el *vos* y pasan al *tú*, primero Leonardo («me alegro de que **hayas** venido»), luego Francesco («**te** tengo por amigo»). Marca en la gramática el sello de la amistad. **De aquí en adelante Francesco y Leonardo se tutean** (no volver al vos entre ellos). Lisa, atenta al registro, lo lee como «a quién dejas entrar» — paga temáticamente en el motivo *ser visto*.
 
 ## Diálogo (FIJADO)
 - **Raya de diálogo (—)**, norma española. Incisos del narrador con raya de cierre.

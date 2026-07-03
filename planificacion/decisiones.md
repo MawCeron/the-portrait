@@ -44,7 +44,7 @@
 - Se añadió `biblia/proceso_pintura.md`: el proceso real (4 fases, 16 años) da continuidad visual y justifica la demora **sin** inventar magia. El proceso ES la cacería.
 
 ## Voz — cap 5 (2026-07-03)
-- **Vos→tú Francesco↔Leonardo: DECIDIDO.** El «recurso opcional» se ejecuta en la osteria de Milán (cap 5): tuteo mutuo, iniciado por Leonardo. De aquí en adelante se tutean. Lisa lo glosa (tú = «a quién dejas entrar»; ella nota que a Leonardo le costó un año y un viaje, a ella él la tuteó desde el altar). Refuerza *ser visto* y prepara el pago de la carta final ("amigo"). Ver `biblia/voz.md`.
+- **Vos↔tú Francesco/Leonardo: DECIDIDO, ASIMÉTRICO.** En la osteria (cap 5): **Leonardo pasa al tú de forma permanente**; **Francesco sigue de vos por defecto** y solo tutea a Leonardo en **contadísimas ocasiones-cumbre** (1ª: «te tengo por amigo»), volviendo al vos después. La asimetría da fuerza al futuro (cada tú de Francesco es un acontecimiento; Lisa los cuenta). Refuerza *ser visto* y prepara el pago de la carta final. Ver `biblia/voz.md`.
 
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*

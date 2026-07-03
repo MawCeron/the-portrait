@@ -49,7 +49,11 @@ Sistema deliberado: la morfología marca el vínculo.
 - **Diálogo íntimo — Lisa ↔ Francesco, hijos, familia cercana → "tú"** (tuteo). Familiaridad.
 - **Diálogo con todos los demás — Leonardo, clientes, el Papa, desconocidos → "vos" REVERENCIAL de época.** Formalidad + sabor 1500.
   - **Ojo con las formas:** es el **vos arcaico/cortés**, no el rioplatense. Conjuga como *vosotros*: **vos sois, vos tenéis, vuestro rostro, decidme, sois muy amable, ¿halagáis?**. NUNCA *vos tenés / sabés / vení*.
-  - **Vos→tú Francesco↔Leonardo (DECIDIDO, cap 5):** en la osteria de Milán ambos dejan el *vos* y pasan al *tú*, primero Leonardo («me alegro de que **hayas** venido»), luego Francesco («**te** tengo por amigo»). Marca en la gramática el sello de la amistad. **De aquí en adelante Francesco y Leonardo se tutean** (no volver al vos entre ellos). Lisa, atenta al registro, lo lee como «a quién dejas entrar» — paga temáticamente en el motivo *ser visto*.
+  - **Vos↔tú Francesco/Leonardo — ASIMÉTRICO (DECIDIDO, cap 5):** en la osteria de Milán se cruza el umbral, pero **no por igual**:
+    - **Leonardo → Francesco: pasa al *tú* y ya NO vuelve al vos.** Permanente de aquí en adelante («me alegro de que **hayas** venido»; «tu mujer tiene una cara interesante»).
+    - **Francesco → Leonardo: sigue de *vos* por defecto**, guardando la distancia con quien admira. El *tú* se le escapa **solo en contadísimas ocasiones-cumbre**, cuando el vínculo aprieta (primera vez: «**te** tengo por amigo», osteria, con el vino). Tras cada una, **vuelve al vos**. Esas raras veces de tú son un recurso caro: úsalas con cuentagotas para que peguen fuerte (culminan en el tramo final).
+    - Lisa **cuenta** esas veces de tú de Francesco («fueron pocas; cada una valía por un año»). Refuerza *ser visto* y prepara el pago de la carta.
+  - **REGLA DURA — show don't tell:** el sistema tú/vos es un **recurso autoral** (y el tuteo es anacrónico: una libertad que nos tomamos). Se **muestra solo en la gramática del diálogo** (Leonardo conjuga en tú, Francesco en vos). **La narración NUNCA lo nombra** — nada de «lo tuteó», «dejó el vos», señalar la palabra. Si Lisa lo comenta, habla de **formalidad / distancia / reverencia / "abrir la puerta" / hablar de igual a igual**, jamás del tú y el vos.
 
 ## Diálogo (FIJADO)
 - **Raya de diálogo (—)**, norma española. Incisos del narrador con raya de cierre.

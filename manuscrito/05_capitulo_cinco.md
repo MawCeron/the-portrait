@@ -62,11 +62,11 @@ Se quedaron un rato en silencio, un silencio cómodo, bebiendo, mirando a los ot
 
 —Me alegro de que hayas venido —dijo Leonardo al fin.
 
-Y ahí, me contó Francesco, fue donde algo cambió, aunque tardó en darse cuenta de qué. Fue una palabra. *Hayas.* Leonardo lo había tuteado. Después de tanto *vos*, tan de repente, como quien se quita el sombrero en su propia casa porque ya no hace falta guardar las formas.
+Y ahí, me contó Francesco, algo cambió, aunque tardó en darse cuenta de qué. Fue el modo en que se lo dijo: de pronto sin ceremonia, de igual a igual, como quien se quita el sombrero en su propia casa porque ya no hace falta guardar las formas con quien tiene delante.
 
 —Aquí casi todos quieren algo concreto de mí —siguió Leonardo—. Que termine esto, que resuelva aquello. Tú solo… viniste a verme. Eso es raro.
 
-Francesco sintió el rubor del gusto, aun sabiendo que era una amable mentira; él había venido por algo muy concreto, por el retrato. Pero en aquella osteria, con el vino bueno y la compañía fácil, casi era verdad que había venido solo a verlo. Y se atrevió. Dejó él también el *vos* en la silla.
+Francesco sintió el rubor del gusto, aun sabiendo que era una amable mentira; él había venido por algo muy concreto, por el retrato. Pero en aquella osteria, con el vino bueno y la compañía fácil, casi era verdad que había venido solo a verlo. Y se atrevió, por una vez, a hablarle sin la reverencia de siempre.
 
 —Te tengo por amigo —dijo—. Si no es presunción.
 
@@ -82,7 +82,9 @@ Se quedaron hasta tarde, hasta que el dueño empezó a mirarlos con intención. 
 
 Eso fue lo que se trajo a casa, con más cuidado del que se lleva ningún cuadro: no un retrato, sino el recuerdo de haber sido visto. No como mecenas, no como mercader, no como alguien de tal clase o tal ciudad. Solo como Francesco. Como un amigo.
 
-Cuando por fin me contó lo del tuteo —años después, una noche—, lo dijo bajito, como quien confiesa. Yo lo entendí mejor de lo que él creía. En mi casa, de niña, aprendí muy pronto quién merecía el *tú* y a quién había que hablarle de *vos*, y que la diferencia no era de cortesía, sino de puerta: a quién dejas entrar. A mí, mi marido me hablaba de tú desde el altar. A Leonardo tardó un año y un viaje entero en tutearlo, y le costó atreverse. Cuando lo hizo, no volvió atrás. Ahí supe —tarde, como siempre— del tamaño exacto de lo que teníamos delante.
+Cuando por fin me contó aquella cena —años después, una noche—, lo dijo bajito, como quien confiesa. Yo lo entendí mejor de lo que él creía. Toda mi vida he sabido leer esas distancias: quién le habla a quién con la cabeza gacha y quién de igual a igual, y que la diferencia no es de cortesía, sino de puerta: a quién dejas entrar. A mí, mi marido me abrió la suya el día que nos casaron, sin pensarlo siquiera.
+
+Aquella noche Leonardo le abrió la suya a Francesco, y ya no volvió a cerrarla: desde entonces le habló siempre sin ceremonia, de igual a igual. Francesco no. Se había atrevido con el vino a flor de labios, y a la mañana siguiente lo trataba otra vez con toda la reverencia, como quien vuelve a arrodillarse después de haberse permitido mirar de frente. Y así siguió todos aquellos años: guardando la distancia con el hombre al que más quería en el mundo después de los suyos, y dejándola caer solo en contadísimas ocasiones, cuando algo entre ellos apretaba tan fuerte que se le olvidaban las formas. Con el tiempo aprendí a contar esas veces. Fueron pocas. Cada una valía por un año.
 
 ---
 

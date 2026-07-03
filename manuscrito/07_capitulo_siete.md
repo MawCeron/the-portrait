@@ -34,44 +34,54 @@ Francesco reaccionó como si le hubiera propuesto cambiarle el corazón por un c
 
 —Sería un insulto —me cortó, la voz subiendo con una angustia genuina—. A Leonardo, sí, pero también a nosotros. ¿Conformarnos con lo segundo solo porque lo primero se toma su tiempo? ¿Qué diría eso de nuestro juicio? ¿De nuestro gusto?
 
-Abrí la boca para hacerle ver que esperar por siempre algo que no íbamos a recibir tampoco era un dechado de buen juicio. Pero entonces le vi la cara. Se la vi de verdad. El pánico en los ojos, la mandíbula tensa, casi desesperada.
+Abrí la boca para hacerle ver que esperar por siempre algo que no íbamos a recibir tampoco era un dechado de buen juicio. Y esta vez —por primera vez en todos aquellos años— no me contuve.
 
-Y dejé la aguja, despacio.
+—Paciencia —dije, y la palabra me salió con un filo que no me reconocí—. Me hablas a mí de paciencia.
 
-Aquel fue el momento en que lo entendí, con una claridad que ya no me abandonó: aquello no tenía nada que ver con un cuadro.
+Dejé la manga sobre la mesa. No me temblaba el pulso, y supe que era eso, justamente, lo que daba miedo.
 
-Francesco no quería un retrato. No quería *ningún* retrato. Quería el de Leonardo, y más exactamente quería a Leonardo: su atención, su conversación, que se acordara de él, que le pidiera su parecer. La ocasión de estar dentro de aquel mundo de ideas, aunque fuera desde el último rincón. Mi marido, el mercader más práctico de Florencia, se había vuelto —no hay en nuestra lengua una palabra buena para ello, pero la cosa es vieja como el mundo— un devoto. El retrato no era el fin. Era la cuerda que lo mantenía atado a la única puerta por la que le importaba entrar.
+—¿Tienes idea de cuántas noches llevo teniendo paciencia, Francesco? Te veo hacer la bolsa y salir por esa puerta con una excusa nueva y la misma cara de siempre. Tú tienes tus viajes; yo tengo la paciencia. Bonito reparto.
 
-Había encontrado su vocación, y no era la seda.
+Se quedó parado, la silla aún medio apartada. No estaba acostumbrado a que yo levantara la voz. Yo tampoco.
 
-Lo miré allí de pie, agitado, listo para defender su postura contra cualquier razón que yo le opusiera, y sentí ceder algo dentro de mí. No rabia. Ni siquiera decepción, a estas alturas. Una especie de cansada aceptación.
+—Nuestro hijo se abrió la cabeza contra el suelo mientras tú estabas en Pavía preguntando por un cuadro. Le sujeté yo la frente mientras lo cosían. Limpié yo la sangre. Y cuando volviste, te escuché contar historias de Leonardo porque era lo que necesitabas oír. Sostengo esta casa, este negocio, estos hijos, con las dos manos, para que tú puedas ir a sostenerle el sombrero a un hombre que no piensa terminar nada. Salvé la tienda de una compra tuya que nos habría hundido el nombre, y ni te enteraste. No te pido que me lo agradezcas. Te pido que, por una vez, mires quién te tiene la vida en pie mientras corres detrás de la tuya.
 
-Porque, puestos a mirarlo de frente, había peores vicios. Yo conocía maridos que dilapidaban el patrimonio en los dados; que mantenían queridas en casas mejores que la de su esposa; que se metían en tratos capaces de mandar a la familia entera al destierro o al cadalso. Al lado de aquello, Leonardo da Vinci era casi una virtud. Mi marido perseguía saber, belleza, ingenio; volvía a casa entusiasmado y no borracho, ni culpable, ni mirando por encima del hombro. Su obsesión era un hombre que, con todos sus defectos para acabar las cosas, valía de veras la pena.
+La voz se me quebró en la última palabra, y lo odié, porque quería decir todo aquello con la cabeza fría y me salió con el pecho.
 
-Los hay peores. Así que dejé de pelear.
+—No quiero un retrato. Nunca me importó el dichoso retrato. Quiero un marido que esté en la habitación cuando está en la habitación.
 
-—Tienes razón —dije, retomando el remiendo—. Raphael no vendría a cuento. No sé en qué pensaba.
+Y me callé, porque no me quedaba más, y porque decirlo en voz alta, después de años de tragármelo, me había dejado hueca y temblando como una campana después de tañer.
 
-Me miró con recelo, sin fiarse de una rendición tan súbita.
-
-—¿Me… me estás dando la razón?
-
-—Te la doy.
-
-—¿Así, sin más?
-
-—Así, sin más. —Pasé el hilo por la tela sin levantar los ojos—. Leonardo ha empezado nuestro retrato. Sería una necedad abandonarlo ahora. Hay que tener paciencia.
-
-Todavía me estudió un rato, buscando la trampa. Pero acabó por creérselo, y se le aflojaron los hombros. Volvió a sus libros con las energías renovadas, como si aquella conversación le hubiera dado la razón en todo.
+Francesco no dijo nada. Abrió la boca, la cerró. Toda la vehemencia con que un instante antes defendía a Leonardo se le había caído de golpe, y quedó solo un hombre que envejecía, mirando a su mujer como si no la viera de veras desde hacía tiempo y no supiera qué hacer con lo que veía.
 
 ---
 
-Y yo seguí remendando, pensando en lo que acababa de entender.
+Y fue entonces, con todo ya dicho y el silencio pesando entre los dos, cuando lo entendí. No mientras se lo gritaba: después, cuando ya no me quedaba nada que arrojarle y pude mirarlo con calma. Lo que le cruzaba la cara no era culpa por los viajes, ni vergüenza por la sangre de Piero, ni siquiera pena por mí. Era miedo. Un miedo muy concreto: el de que yo tuviera razón, lo obligara a elegir, y le tocara dejarlo.
 
-Que dejar de pelear no es lo mismo que estar en paz. Que había hecho, allí, la cuenta de mi matrimonio —cuánto ponía cada uno, cuánto sacaba— y que por primera vez me había salido clara, y no me había gustado. Pero era mi cuenta, y la pagaría yo, como pagaba las demás: de noche, sin que se viera.
+Y ahí estuvo por fin, claro como el agua: aquello no tenía nada que ver con un cuadro.
 
-No lo hice por resignación piadosa, que conste. Lo hice porque a esas alturas discutírselo era como querer acallar a gritos la campana de una catedral: inútil, agotador y con dolor de cabeza asegurado. Y porque —esto es lo más incómodo de confesar— él era más feliz así. Volvía de sus viajes convertido en un hombre más grande que el que se marchaba, lleno de máquinas que caminaban como hombres y de historias que a los niños les brillaban en la cara. En casa, contando aquello, era otra vez el muchacho que me había pedido en matrimonio. ¿Cómo se le quita eso a alguien?
+Francesco no quería un retrato. No quería *ningún* retrato. Quería a Leonardo: su atención, su conversación, que se acordara de él, que le pidiera su parecer. La ocasión de estar dentro de aquel mundo de ideas, aunque fuera desde el último rincón. Mi marido, el mercader más práctico de Florencia, se había vuelto —no hay en nuestra lengua una palabra buena para ello, pero la cosa es vieja como el mundo— un devoto. El retrato nunca fue el fin. Era la cuerda que lo mantenía atado a la única puerta por la que le importaba entrar.
 
-Que volviera. Que fuera feliz. ¿Quién era yo para decir que eso no bastaba?
+Había encontrado su vocación, y no era la seda. Ni era yo.
 
-Aunque —y esto me lo guardé, como todo lo demás— empezaba a sospechar que *bastar* y *bastarme* no eran la misma cuenta. Y que la segunda llevaba ya años sin cuadrar.
+---
+
+Podría haber seguido. Tenía munición para una hora. Podría haberle puesto delante la cuenta entera y exigirle que escogiera de una vez: él o Leonardo, nosotros o el camino. Pero le miré aquella cara de miedo —la de un hombre al que están a punto de quitarle lo único que le hace sentir que su vida es más ancha que un libro de cuentas— y no fui capaz. No por debilidad. Por algo más difícil de confesar: porque lo quería, y porque acababa de entender que pedirle que renunciara a Leonardo era pedirle que renunciara a ser feliz, y yo no había roto en pedazos delante de él para volverme luego su carcelera.
+
+Y, puestos a mirarlo de frente, había peores vicios. Conocía maridos que se jugaban el patrimonio a los dados, que mantenían queridas en mejores casas que sus esposas, que se metían en tratos capaces de mandar a la familia entera al destierro. Al lado de aquello, Leonardo da Vinci era casi una virtud. Los hay peores.
+
+Así que hice lo único que quedaba por hacer, que no era ganar ni perder, sino salir de la pelea. Recogí la manga. Volví a enhebrar la aguja. Y con la voz ya firme —firme de verdad esta vez— dije:
+
+—Está bien. Nada de Raphael. Quédate con tu paciencia, Francesco. —Una pausa—. Yo la mía ya la he gastado.
+
+No entendió del todo la última frase, y no se la expliqué. Me estudió un rato, receloso, sin fiarse de que la tormenta hubiera escampado tan pronto. Pero acabó por creérselo, porque quería creérselo, y se le aflojaron los hombros, y volvió a sus libros como quien vuelve a pisar tierra firme.
+
+Aquella fue la única vez que me quebré delante de él. No volví a hacerlo, y no porque aprendiera a no sentirlo, sino porque aquella tarde entendí algo que ya no desaprendí: que gritar no me lo iba a devolver, y que si quería conservar algo de mí misma tendría que dejar de pelear por que me vieran y aprender, sin más, a mirar yo. Desde aquel día dejé de ser la que discutía con Francesco y pasé a ser la que lo observaba. Testigo, y no adversaria. Salía más barato, y dolía distinto.
+
+---
+
+Y seguí remendando, que es lo que hacen las manos cuando la cabeza anda en otra parte.
+
+Había hecho, en voz alta y por una sola vez, la cuenta de mi matrimonio —cuánto ponía cada cual, cuánto sacaba—, y me había salido clara, y no me había gustado. Pero era mi cuenta, y la pagaría yo, como pagaba las demás: de noche, sin que se viera.
+
+Que volviera. Que fuera feliz. ¿Quién era yo para decir que eso no bastaba? Aunque —y esto me lo guardé, como todo lo demás— empezaba a sospechar que *bastar* y *bastarme* no eran la misma cuenta, y que la segunda llevaba ya años sin cuadrar. La diferencia fue que, desde aquella tarde, dejé de esperar que cuadrara. Y una deja de sufrir por una cuenta el día en que decide no volver a mirarla.

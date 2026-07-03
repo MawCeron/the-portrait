@@ -50,6 +50,9 @@
 - **Roma se reserva EN EXCLUSIVA para el set-piece del Papa (cap 8).** En el montaje del chase (cap 6), Leonardo va a **Pavía** (disecciones de anatomía) y a Milán/Florencia, no a Roma. Así Roma llega virgen y con peso al cap 8.
 - **Leonardo entra en la casa por primera vez en el cap 4** (no la única); vuelve en visitas recurrentes (cap 6+) que nutren el arco de Camilla («mi ingeniera»). Ver `canon.md`.
 
+## Quiebre de Lisa (2026-07-03)
+- **Definido en el cap 7 (único de la novela).** Lisa **se quiebra ante y contra Francesco** por todo lo aguantado; **de ahí** nace la realización (tesis: es Leonardo, no el retrato) y luego la aceptación. Orden fijo: **quiebre → realización → aceptación**. Es la **bisagra adversaria → testigo** del arco original ("stops fighting, becomes witness not opponent"). **No hay segundo quiebre**: la muerte de Camilla (cap 11) y lo demás se viven en modo testigo. Las siembras del cap 5 ("hasta dónde iba a crecer") y del cierre del cap 7 ("bastar/bastarme") pagan aquí. Ver `esquema_capitulos.md` cap 7 y `subtramas/marco_y_lisa.md`.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

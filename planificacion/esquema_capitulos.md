@@ -50,9 +50,11 @@ Hilos: **[E]** espina (Francesco↔Leonardo) · **[C]** Camilla · **[M]** Marco
 - **Viñetas:** la caída de Piero (Lisa sola, Francesco ausente); **[M] el mal embarque del propio Francesco**, distraído por el chase → su cacería daña su mayor logro; Lisa+Marco lo reparan sin él. Lisa toma el timón; sumas nocturnas; reservas que se erosionan.
 - *(La escena-espejo de Camilla se movió al cap 4 para aligerar este montaje.)*
 
-### Cap 7 — La cuenta de Lisa *(el giro temático, UNA vez)*
-- **Objetivo:** Lisa propone a Raphael; Francesco se niega. Ella entiende: **no es el retrato, es Leonardo.** Decide dejar de pelear.
-- **[D #2]** pinchazo con más filo.
+### Cap 7 — La cuenta de Lisa *(el giro temático + EL QUIEBRE, UNA vez)*
+- **Objetivo:** Lisa propone a Raphael; Francesco se niega. **EL QUIEBRE DE LISA:** por primera y única vez en toda la novela, Lisa **se rompe contra Francesco** y le suelta todo lo aguantado (ausencias, soledad, la sangre de Piero, sostener casa y negocio invisible, salvar el mal embarque). De ese estallido —y no antes— nace la **realización** (no es el retrato, es Leonardo) y luego la **aceptación**.
+- **Orden fijo:** quiebre → realización (tesis) → aceptación.
+- **Bisagra del arco:** el quiebre es lo que la transforma de **adversaria → testigo** (arco original: "stops fighting, becomes witness not opponent"). Después de este capítulo **no vuelve a quebrarse**; observa, sostiene, y paga en la carta (cap 14). NO repetir un segundo quiebre (p. ej. muerte de Camilla se vive ya en modo testigo).
+- **[D #2]** pinchazo con más filo (los Doni ya tienen los suyos de Raphael, colgados).
 - **Clave:** aquí, y solo aquí, se nombra la tesis. Antes se mostró; después se da por entendida.
 
 ---

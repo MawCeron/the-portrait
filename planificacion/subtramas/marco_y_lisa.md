@@ -20,6 +20,12 @@ Mientras Francesco persigue a Leonardo, **Lisa se vuelve la verdadera cabeza** d
 | promesas ("soon") | resultados |
 | deslumbra | sostiene |
 
+## El quiebre de Lisa (cap 7) — bisagra del arco
+- **Único quiebre de toda la novela.** En la escena de Raphael (cap 7), tras años de aguante, Lisa **estalla contra Francesco** y le echa en cara todo (ausencias, soledad, la sangre de Piero, sostener casa/negocio en la sombra, salvar el mal embarque sin que él se entere).
+- **Orden:** quiebre → **realización** (no es el retrato, es Leonardo) → **aceptación**.
+- Es lo que la convierte de **adversaria en testigo** (arco original de las notas). Después NO vuelve a quebrarse: vive el resto (incl. muerte de Camilla) en modo testigo. Su fuerza es no romperse otra vez.
+- Paga en la carta (cap 14): la que dejó de pelear por ser vista es, al final, vista por Leonardo (y tarde, por Francesco).
+
 ## Arco (planteo → giro → pago)
 - **Planteo (Partes 1-2):** Marco cubre la tienda en las ausencias ("Marco es perfectamente capaz"). Francesco empieza a delegar de facto ("lo que mejor te parezca, decide tú, Marco" — ya en el borrador tras Milán). Lisa toma el timón sin que nadie lo nombre.
 - **Desarrollo (Partes 2-3):** Lisa + Marco sostienen y hacen crecer la empresa pese a las ausencias y al gasto de los viajes. Ella negocia, lleva libros, decide. Su competencia crece = identidad privada e invisible. Las sumas nocturnas de Lisa (ya en el borrador).

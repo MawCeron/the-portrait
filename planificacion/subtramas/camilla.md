@@ -28,6 +28,7 @@ Ambos vislumbran, a través de Leonardo, un mundo más grande. A ambos el orden 
 ## Decisiones tomadas
 - **Una sola escena real con Leonardo** (visita a casa, Parte 2): él trata su mente en serio, justo lo que el mundo de su padre le niega. Espeja la osteria de Francesco (ambos "vistos" una vez, marcados de por vida). No gasta la escasa presencia en página de Leonardo.
 - **El espejo se gana, no se declara.** Francesco nunca dice "es como yo". Lisa lo ve; Francesco ciego hasta el final.
+- **Presencia continua (directriz del usuario, cap 3):** meter a Camilla en escena **siempre que sea posible**, no solo en sus toques marcados. Es la compañera de "club de fans" de Leonardo con su padre; su curiosidad y su entendimiento **crecen de a poco** (no es una niña genio): a los 7 hace preguntas simples, de asombro, ancladas en su realidad. El vínculo padre-hija se estrecha por la vía de Leonardo → hace más doloroso el compromiso posterior (cap 10) y su muerte (cap 11).
 - **Nombre religioso:** Suor Beatrice (eco dantesco: la guía hacia el saber superior que el padre no supo seguir).
 - **Sor Juana:** modelo interno del taller, NO se nombra en el texto (anacrónica).
 

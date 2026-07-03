@@ -12,7 +12,13 @@ No me malinterpretes. Nos iba bien. Extraordinariamente bien, si preguntabas a l
 
 El negocio no lo llevaba él solo. Estaba Marco, que había entrado de mozo casi niño y a los veinte era ya las dos manos de mi marido: llevaba los libros que Francesco no tenía paciencia de mirar, recibía los embarques al alba, sabía de memoria qué cliente pagaba a tiempo y cuál necesitaba que lo persiguieran. Cuando Francesco viajaba, la tienda no se enteraba de su ausencia, y esa era la mayor alabanza que podía hacérsele a un hombre y la que menos veces oyó. Marco entregaba. Estaba. De los dos talentos de mi marido, el de querer más nunca alcanzó a apreciar del todo esa clase de virtud callada. Yo tardé años en apreciarla también. Pero eso es adelantarme.
 
-Porque, con todo lo que teníamos, éramos mercaderes. Mercaderes siempre. Y en una ciudad como Florencia, eso quería decir algo muy concreto.
+Conviene decir de dónde venía todo esto, porque nada enorgullecía tanto a Francesco y nada le serviría menos en las salas a las que aspiraba. No lo había heredado hecho. Su padre le había dejado un negocio decente y una clientela leal —ni una fortuna ni una miseria, el punto medio honrado de un hombre que había trabajado toda su vida— y se había muerto dejándoselo en las manos siendo Francesco todavía joven. Lo que mi marido hizo con aquella herencia modesta fue, con los años, lo que me llevó a perdonarle casi todo lo demás.
+
+A los veinticuatro —cuando la mayoría de los hombres aún aprendían el oficio mirando a su padre— lo eligieron Cónsul del Gremio de la Seda, el más joven que nadie en Florencia recordaba. No por apellido, que no lo tenía; no por dinero comprado, que aún no lo había amasado. Por el ojo, por la palabra cumplida, por esa cabeza suya que preveía un embarque a tres meses vista como otros rezan el rosario. Negociaba con los Medici en persona y no cedía un palmo. Mercaderes que le doblaban la edad venían a pedirle consejo sobre contratos y rutas. Todo lo que teníamos lo había levantado él, florín a florín, empezando por debajo de donde muchos de aquellos señores habían nacido.
+
+Guardaba todavía, en un cajón del despacho, el primer libro de cuentas de su padre, con la letra apretada de quien contaba moneda a moneda. Lo sacaba las noches malas. Creo que le recordaba de dónde venía. Y creo también, aunque nunca lo dijo, que le recordaba hasta dónde no lo dejarían llegar.
+
+Porque, con todo lo que teníamos y todo lo que él había levantado, éramos mercaderes. Mercaderes siempre. Y en una ciudad como Florencia, eso quería decir algo muy concreto.
 
 Estábamos cómodamente sentados en la escalera de la sociedad: bastante arriba para ver el paisaje, no tan arriba como para ver por encima de las cabezas de las familias viejas, encaramadas en lo más alto desde antes de que nadie recordara. Los Strozzi, los Pazzi, los Medici cuando estaban en gracia. Nombres tejidos en la historia de la ciudad como hilo de oro en un brocado. No tenían solo dinero. Tenían linaje. Antepasados. Historias que se remontaban siglos.
 
@@ -72,9 +78,7 @@ Dentro, la arquitectura respondía a preguntas que aún no habíamos hecho. Tech
 
 Nuestra casa era cómoda. Cálida. Con buenos muebles y telas finas y las señales visibles de un trabajo bien hecho. Pero allí de pie, rodeada de una magnificencia que no se esforzaba, la vi con ojos nuevos: práctica, sí; próspera, cierto; pero inconfundiblemente reciente. Se le olía lo nuevo, el esfuerzo, la subida.
 
-Ese año Francesco tenía treinta y ocho. A los veinticuatro —poco más que un muchacho— lo habían elegido Cónsul del Gremio de la Seda, el más joven en hacerlo que nadie recordaba. Había tomado el éxito modesto de su padre y lo había convertido en algo sólido. Negociaba con los Medici en persona. Otros mercaderes le pedían consejo. En el mundo del comercio, Francesco del Giocondo era respetado, buscado, escuchado.
-
-Y sin embargo, allí de pie, entre familias cuya riqueza venía de heredar y no de sudar, cuyos nombres pesaban más que cualquier mérito, nada de aquello contaba. Ni el consulado ganado tan joven. Ni los años de construir y negociar y demostrar lo que valía. Aquí era, simplemente, un mercader. Dinero nuevo. Un hombre que trabaja.
+Ese año Francesco tenía treinta y ocho, y todo lo que he contado —el consulado ganado tan joven, los años de construir y demostrarse, el respeto de hombres que le doblaban la edad— no valía nada allí dentro. Entre familias cuya riqueza venía de heredar y no de sudar, cuyos nombres pesaban más que cualquier mérito, mi marido era, simplemente, un mercader. Dinero nuevo. Un hombre que trabaja.
 
 Los demás invitados ya conversaban cuando entramos, y lo primero que me golpeó fue su soltura. Se movían por la sala con la gracia distraída de quien ha estado en salas así toda la vida. Formaban corros que se conocían desde hacía generaciones: esta familia se había casado con aquella tres veces en el último siglo, estas dos eran aliadas desde antes de la memoria, aquellas se habían enemistado y reconciliado tantas veces que ya era una costumbre.
 

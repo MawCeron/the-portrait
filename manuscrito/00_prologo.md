@@ -6,11 +6,11 @@ La carta llegó poco después del alba, deslizada bajo nuestra puerta con el sig
 
 La de Leonardo.
 
-La sostuve un buen rato antes de llamar a mi marido. Le di vueltas entre las manos. El papel era grueso, caro, gastado en los bordes por el viaje. Por el sello partido asomaba la letra apretada del interior, aunque no intenté leerla. Todavía no. La casa seguía medio dormida: los criados moviéndose abajo, mi nuera tarareando algo en la cocina. Francesco había tomado la costumbre de levantarse tarde. Llevaba semanas de vuelta de Francia y aún se movía por la casa como un huésped en morada ajena.
+La sostuve un buen rato antes de llamar a mi marido. Le di vueltas entre las manos. El papel era grueso, caro, gastado en los bordes por el viaje. Por el sello partido asomaba la letra apretada del interior, aunque no intenté leerla. Todavía no. La casa seguía medio dormida: los criados moviéndose abajo, mi nuera tarareando algo en la cocina. Francesco había tomado la costumbre de levantarse tarde. Habían pasado semanas desde su regreso de Francia y todavía se movía por la casa como un huésped en casa ajena.
 
 —Francesco —lo llamé en voz baja, empujando la puerta del cuartito que había reclamado para enfurruñarse. Antes era un trastero, lo cual me pareció de lo más apropiado.
 
-Estaba donde había estado durante días: encogido en la silla junto a la ventana, mirando nada en particular, fingiendo que no envejecía a fuerza de quedarse muy quieto. La luz de la mañana le encendía la plata del cabello —¿cuándo se había vuelto tanta?— y las arrugas de la boca, hondas ya, como si la cara se le hubiera olvidado de acomodarse de cualquier otro modo.
+Estaba donde había estado durante días: encogido en la silla junto a la ventana, mirando nada en particular, como si quedándose muy quieto pudiera dejar de envejecer. La luz de la mañana le encendía la plata del cabello —¿cuándo se había vuelto tanta?— y las arrugas de la boca, hondas ya, como si su cara se hubiera olvidado de acomodarse de cualquier otro modo.
 
 —Llegó una carta para ti —dije.
 
@@ -36,7 +36,7 @@ Crucé el cuarto. Dieciséis años llevaba viendo crecer esa obsesión, ¿y ahor
 
 —He dicho que no.
 
-Se levantó de la silla con esfuerzo visible —los movimientos más rígidos que un año atrás—, con la necesidad repentina de moverse, de pasear, como si las paredes se le vinieran encima. Abría y cerraba las manos a los costados: manos de mercader, siempre lo pensé, hechas para medir paño y contar monedas, no para el duelo que fuera que estaba peleando ahora.
+Se levantó de la silla con esfuerzo visible —los movimientos más rígidos que un año atrás—, arrastrado por la necesidad repentina de moverse, de pasear, como si las paredes se le vinieran encima. Abría y cerraba las manos a los costados: manos de mercader, siempre lo pensé, hechas para medir paño y contar monedas, no para el duelo que fuera que estaba peleando ahora.
 
 —No la quiero —repitió, más alto—. ¿Qué sentido tiene ya?
 
@@ -46,13 +46,13 @@ Siguió andando, incapaz o poco dispuesto a detenerse, marcando en el suelo un s
 
 —Está muerto, Lisa. Muerto. Se acabó. ¿Y qué hago yo con la carta de un muerto? ¿La leo en voz alta, como una bendición final? ¿La cuelgo junto a todas las demás promesas que no cumplió?
 
-Se detuvo en la pared del fondo, una mano apoyada en ella. Después rió: amarga, hueca, nada que ver con el sonido que traía a casa cuando volvía del taller lleno de historias sobre máquinas de volar y estudios de anatomía e ideas brillantes e imposibles.
+Se detuvo en la pared del fondo, una mano apoyada en ella. Después soltó una risa amarga, hueca, que no se parecía en nada al sonido que traía a casa cuando volvía del taller lleno de historias sobre máquinas de volar y estudios de anatomía e ideas brillantes e imposibles.
 
-—O a lo mejor es una disculpa —le dijo a la pared. Soltó un ruido seco y mellado, el fantasma de una risa—. Qué gran cosa sería. Después de tantos años, una notita cortés desde Francia. «Lamento lo de tu retrato, Francesco.» Como si... —tragó saliva— como si unas palabras en un papel pudieran arreglar...
+—O a lo mejor es una disculpa —le dijo a la pared, con un ruido seco y quebrado, el fantasma de una risa—. Qué gran cosa sería. Después de tantos años, una notita cortés desde Francia. «Lamento lo de tu retrato, Francesco.» Como si... —tragó saliva— como si unas palabras en un papel pudieran arreglar...
 
 Lo dejó ahí.
 
-Lo miré pelear con palabras que no le salían. Había vuelto de Francia veinte años más viejo, y esta vez no era solo el camino. Algo se le había plegado hacia dentro, como una carta sellada demasiado apretada para volver a abrirse limpia.
+Lo miré pelear con palabras que no le salían. Había vuelto de Francia veinte años más viejo, y esta vez no era solo el camino. Algo se le había plegado hacia dentro, como una carta doblada con demasiada fuerza, de esas que ya no vuelven a abrirse lisas.
 
 Se volvió hacia la ventana cerrada —la luz de la mañana intentando colarse por los bordes, prometiendo un día hermoso que él no pensaba ver— y negó despacio con la cabeza.
 
@@ -66,7 +66,7 @@ Apoyó las dos palmas en el alféizar, y le vi hundirse los hombros bajo el peso
 
 —Y ahora es de un rey —dijo, casi escupiendo la palabra, y Francesco nunca escupía las palabras; era demasiado cuidadoso para eso, siempre lo fue—. El rey Francisco de Francia. Un rey. Está en algún palacio con otros cien cuadros, ¿y yo qué? ¿Escribo una carta muy cortés pidiendo que me lo devuelvan? ¿Me presento en la corte a explicar que en realidad ese lo pagué yo, y que si a Su Majestad no le importara demasiado, me gustaría recuperarlo?
 
-Soltó una risita hueca que dolía oír.
+Dejó escapar una risita seca que dolía oír.
 
 —Como si yo fuera a importunar a un rey por reclamar lo que es mío. —Miró los postigos sin verlos—. Como si fuera a importunar a un rey por un retrato de mi propia esposa...
 

@@ -32,6 +32,8 @@ De modo que cuando Francesco del Giocondo, mercader de seda, viudo de treinta a�
 
 Nunca me dio una explicación que cuadrara, y créeme que la busqué, porque me casé sin conocerlo y me pasé los primeros años tratando de averiguar dónde estaba la trampa. No la había. Era, sospecho, el único negocio de su vida en el que mi marido pagó de más a sabiendas y se fue contento. El hombre que regateaba una vara de tafetán como si le fuera el alma, con esto no regateó. A veces pienso que fue lo más noble que hizo, y desde luego lo más torpe, que en él venían a ser lo mismo.
 
+Con las palabras para estas cosas nunca se dio maña. Lo que sentía lo pagaba como paga las deudas un hombre honrado: en hechos, a tiempo y sin ruido, dando por sentado que una sabría leerlo.
+
 Con los años le tomé cariño, y después algo más terco que el cariño. Aprendí a leerlo como él leía las telas: a saber, sin mirar, si el día venía bueno o venía tramando algo. Le di hijos. Enterré a alguno. Vi encanecer al muchacho ambicioso hasta volverse un hombre ambicioso, que es la misma cosa con las rodillas peores. Y todo ese tiempo cargó con lo suyo, la única veta de mala calidad en un paño por lo demás honrado: quería importar. Importar de un modo que sobreviviera a los libros, a las balas de seda, a los contratos firmados y lacrados. Quería, Dios lo tenga en su gloria, que lo miraran.
 
 No sabía yo entonces hasta dónde iba a llevarnos ese querer. De haberlo sabido, quizá habría escondido cierta invitación antes de que la trajeran a casa.

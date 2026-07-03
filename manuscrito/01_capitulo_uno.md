@@ -118,7 +118,13 @@ Y vi asentarse algo dentro de él en ese momento, algo que daría forma al resto
 
 El resto de la cena pasó en una bruma de platos que apenas probé. Francesco estuvo cortés, atento cuando le hablaban, pero se le había apagado la luz. Había dejado de tender la mano.
 
-El camino a casa fue largo y callado. Florencia de noche se cerró en torno a nosotros, calles familiares que eran nuestras de un modo en que el Palazzo Strozzi no lo sería nunca. Nuestra ciudad. Nuestra casa. Y sin embargo, después de aquella cena, se sentía más pequeña.
+El camino a casa fue largo, y él no dijo palabra en todo el trayecto.
+
+Anduve a su lado tratando de leerlo, como quien tantea una tela en la penumbra buscando de qué está hecha, y por primera vez en muchos años no supe decirlo. No sabía si iba humillado, o dolido, o furioso; si aquel silencio era el de un hombre ofendido masticando el agravio, o el de uno melancólico, o simplemente el de uno que piensa. Con Francesco solía bastarme mirarle las manos, o el modo de pisar. Esa noche llevaba las manos quietas y el paso parejo, y esa quietud suya, tan poco propia de él, me apretó el pecho más que cualquier arrebato. A un hombre que grita se le consuela. A uno que calla no se sabe siquiera por dónde empezar.
+
+Y mientras lo miraba de reojo sin acertar, la ciudad fue diciendo por él lo que él no decía. Dejamos atrás el barrio de los Strozzi —calles anchas, palacios encendidos, la piedra labrada que hasta de noche parecía saberse importante— y fuimos entrando en el nuestro, hacia Via della Stufa, donde el mármol cede al ladrillo y a la cal, y el aire huele a tinte y a lana mojada y a los oficios de la gente que madruga. No había ni media milla entre una cosa y la otra. Eran dos mundos distintos, y los dos cabían dentro de las mismas murallas, y nosotros vivíamos, sin remedio, en el segundo. Creo que Francesco lo sintió en los pies antes que en la cabeza: cómo con cada calle la noche se volvía más suya y, por eso mismo, más estrecha.
+
+Nuestra ciudad. Nuestra casa. Y sin embargo, después de aquella cena, todo se sentía menguado, como una prenda que se lava y encoge y ya no vuelve a sentar igual.
 
 Estábamos casi en la puerta cuando Francesco habló por fin.
 

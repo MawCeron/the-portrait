@@ -61,17 +61,19 @@ Hilos: **[E]** espina (Francesco↔Leonardo) · **[C]** Camilla · **[M]** Marco
 
 ## PARTE 3 — Roma y los años quietos (1513-1518)
 
-### Cap 8 — Roma: el esquive del Papa
-- **Objetivo:** el set-piece cómico. Leonardo lo mete en la cámara papal (León X) para esquivar la conversación del retrato. Francesco "vencido" pero encantado.
-- **Nota:** Francesco lo llama "intento final" — Lisa **no lo cree** (el único final real será Francia).
+> **Reorden (2026-07-03):** Camilla se adelantó. El **compromiso + su ruptura** son ahora el **cap 8**; el **convento** abre el **cap 9** y **empuja a Francesco a Roma** (mismo capítulo). La conversación/negocio pasa a **cap 10**. Motivo: la cronología (compromiso ~1511, convento 1513) precede a Roma (1513), y la herida de la hija da raíz emocional al "voy decidido a Roma".
 
-### Cap 9 — La conversación / el negocio
+### Cap 8 — El compromiso *(Camilla)* ✍️ escrito
+- **Objetivo:** el arco de la hija-espejo, primera mitad. Francesco la **compromete** (~15; los Baroncelli, "más lustre que florines"). **La ironía:** él, humillado por ser tratado como mercancía social (cap 1), hace lo mismo con su hija. Camilla se apaga a propósito y, a los 17, **rompe el compromiso** en público → escándalo, el nombre Del Giocondo "promete lo que no entrega" (rima con Leonardo). Ruptura padre-hija; él ve rechazo, no aspiración.
+- **Lisa:** del lado equivocado de su hija (gender-rima: la misma jaula); su cobardía confesada. Cierra con Camilla ya resuelta ("yo sí sé qué va a ser de mí").
+
+### Cap 9 — El convento y el Papa ✍️ escrito
+- **Abre con el convento:** Camilla elige San Domenico di Cafaggio —**no por piedad, sino por ser la única jaula "con ventana"** (libros, horas, no ser esposa de nadie). Lisa lo entiende (la puerta que ella no cruzó). A Francesco casi lo alivia (respetable), y solo a medias entiende que crió a su hija para el hambre y solo supo ofrecerle un marido. Se despiden con un apretón de manos.
+- **Esa herida → Roma:** con la hija ida adonde no puede seguirla, Francesco decide "el último intento". → **El set-piece cómico:** Leonardo lo mete en la cámara papal (León X) para esquivar el retrato. "Vencido" pero encantado. Lisa **no cree** el "último intento" (el real será Francia). Camilla ya no está en la mesa: su ausencia sentida.
+
+### Cap 10 — La conversación / el negocio
 - **Objetivo:** vuelta a casa; Lisa intenta con suavidad que lo deje. **[M giro]**: los pedidos Medici aumentan — el reconocimiento que Francesco creía que traería el retrato lo trae el **negocio** (gestión de Lisa/Marco + conexiones del chase). Ganó sin darse cuenta.
 - **[D #3]** el aguijón, ahora irónico: el rival es Strozzi; Francesco recibe encargos Medici.
-
-### Cap 10 — Camilla
-- **Objetivo:** el arco de la hija-espejo. Francesco la **compromete** (buen partido, útil para él). Ella ve que ese futuro la apagaría; **rompe el compromiso** y entra al convento **por elección** — única puerta al saber para una mujer.
-- **Se muestra:** la **ironía**: Francesco, humillado por ser tratado como mercancía social, hace lo mismo con su hija. Ruptura entre ambos; nunca se hablan de verdad.
 
 ### Cap 11 — Los años quietos y la pérdida
 - **Objetivo:** Leonardo en Francia; Francesco **no va** (edad, miedo a romper el hechizo); se ablanda.
@@ -106,6 +108,6 @@ Hilos: **[E]** espina (Francesco↔Leonardo) · **[C]** Camilla · **[M]** Marco
 ---
 
 ## Presupuesto de subtramas (control)
-- **[C] Camilla:** 5 toques → caps 3 (semilla), 4 (escena-espejo), 10 (arco), 11 (muerte), 14/epílogo (eco). ✅
-- **[M] Marco/Lisa:** continuo → caps 1-2 (base), 4, 6 (aprieto), 9 (giro), 13-14 (reconocimiento), epílogo (pago). ✅
-- **[D] Doni:** 4 pinchazos → caps 4, 7, 9, epílogo. ✅
+- **[C] Camilla:** caps 3 (semilla), 4 (escena-espejo), 6 (mi ingeniera), **8 (compromiso+ruptura)**, **9 (convento)**, 11 (muerte), epílogo (eco). ✅
+- **[M] Marco/Lisa:** continuo → caps 1-2 (base), 4, 6 (aprieto), **10 (giro)**, 13-14 (reconocimiento), epílogo (pago). ✅
+- **[D] Doni:** 4 pinchazos → caps 4, 7, **10**, epílogo. ✅

@@ -2,17 +2,39 @@
 
 ## Florencia y Roma, 1513
 
-Lo que Camilla había decidido me lo dijo tres días después, una mañana, mientras me ayudaba a doblar sábanas, como si fuera una cosa más de la casa.
+Los días que siguieron a la ruptura fueron de un silencio raro en la casa. Camilla no andaba abatida —eso me habría inquietado menos—, sino serena, ocupada, como quien ya ha tomado una decisión y solo aguarda el momento de decirla. Yo la rondaba sin atreverme a preguntar, porque en el fondo sabía que la respuesta iba a llevármela de algún modo, y quería, egoísta, unos días más de no saber.
 
-—Voy a entrar en San Domenico —dijo—. En Cafaggio. Con las monjas.
+Me lo dijo una mañana, mientras me ayudaba a doblar sábanas, con la misma voz con que se habla del tiempo.
 
-Se me quedaron las manos quietas dentro de la sábana.
+—Voy a entrar en San Domenico. En Cafaggio. Con las monjas.
 
-—Camilla…
+Se me quedaron las manos quietas dentro de la sábana. De todo lo que había temido aquellas semanas, no había temido esto.
 
-—No es por Dios, madre, así que no pongas esa cara de entierro. —Siguió doblando, tranquila—. O no solo por Dios; Dios no se quejará de que le dedique lo que nadie más quiere. Es por lo otro. —Me miró—. En un convento hay libros. Hay horas. Nadie te pregunta de quién eres esposa, porque no eres esposa de nadie. Una mujer casada pertenece a un hombre; una monja, con suerte, se pertenece un poco a sí misma y el resto a Dios, que al menos no ronca ni exige la cena caliente. He hecho la cuenta. De todas las jaulas que me ofrece este mundo, esa es la única que por dentro tiene una ventana.
+—Camilla. —Solté la tela—. Eso no es romper un compromiso, hija. Eso no tiene vuelta. Los votos son para siempre.
 
-La había hecho, la cuenta, y la conocía porque era hija mía y en esta casa las cuentas se hacen hasta para renunciar al mundo. No supe rebatírsela, porque era cierta. Yo me había quedado del lado de fuera, en la jaula grande, la de las esposas; y desde ahí veía que la de ella, la de los muros altos, era en efecto la única con ventana. Mi hija había mirado el mismo mundo que yo y había encontrado la única puerta que yo no me atreví a cruzar: la que se abre hacia dentro.
+—Lo sé.
+
+—Estás hablando de renunciar a todo. A un marido, a hijos, a una casa tuya, al mundo entero. A los diecisiete años.
+
+—A los diecisiete ya me ibais a encerrar en una casa ajena para siempre —dijo, sin rencor, con esa calma suya que asustaba más que cualquier grito—. Y a eso nadie lo llamó renunciar a todo. Lo llamabais casarse bien.
+
+No tuve respuesta rápida, y ella lo sabía; siguió doblando, dándome tiempo.
+
+—Hay otras maneras —dije, buscando a tientas—. Podrías no casarte. Quedarte aquí, con nosotros.
+
+—¿De solterona? —Alzó una ceja, y por un instante volvió a ser la niña de las preguntas—. Quedarme hasta que le pese a padre, y después a Piero cuando herede; pasar de una mano a otra como un arcón que nadie sabe dónde poner. Sin nada mío, sin un rincón que no me presten. Eso no es una puerta, madre. Es el pasillo donde se espera a que se abra otra, y a mí ya se me acabó la paciencia de esperar en pasillos.
+
+—Y el convento sí es una puerta.
+
+—El convento es la única. —Dejó la sábana y se volvió hacia mí, y ya no hablaba deprisa: hablaba como quien enseña unas cuentas repasadas muchas noches—. Piénsalo bien. Ahí dentro hay libros. Hay horas enteras que no le debes a nadie. Hay mujeres que leen, que escriben, que enseñan, que llevan la hacienda de una casa grande sin pedirle permiso a ningún hombre. Nadie te pregunta de quién eres esposa, porque no eres esposa de nadie. Una casada pertenece a su marido; una monja, con suerte, se pertenece un poco a sí misma, y el resto a Dios, que al menos no ronca, ni exige la cena caliente, ni se ríe de lo que una piensa. He hecho la cuenta, madre. La he hecho mil veces. De todas las jaulas que este mundo me tiene guardadas, esa es la única que por dentro tiene una ventana.
+
+Lo dijo sin una gota de drama, y eso fue lo que me partió: no era la rabieta de una niña, sino la conclusión de alguien que ha mirado su vida entera desde todos los lados y ha escogido, entre lo malo, lo menos malo, con los ojos secos y abiertos.
+
+—¿Y no te da miedo? —le pregunté, muy bajo—. Encerrarte así, tan joven.
+
+—Me da más miedo lo otro. —No dudó—. Me da más miedo despertarme a los cuarenta convertida en la señora Baroncelli y no acordarme ya de que un día supe por qué sube el agua por un caño.
+
+Y me callé, porque en toda mi experiencia de mujer no hallé una sola razón honrada que oponerle. Yo me había quedado del lado de fuera, en la jaula grande, la de las esposas, sin atreverme nunca a buscarle la ventana. Mi hija, a los diecisiete, había mirado el mismo mundo que yo y había dado con la única puerta que a mí me dio miedo cruzar: la que se abre hacia dentro.
 
 A Francesco casi lo alivió, al principio. Una hija monja es respetable; una hija que rompe compromisos y avergüenza a los Baroncelli, no. El convento le devolvía una historia presentable: no era que su hija lo hubiera rechazado a él, era que Dios la había llamado a Él. Pagó la dote —porque también las monjas piden dote, y a Dios se entra pagando, como a todas partes— y la pagó casi con gusto, por taparle la boca a Florencia.
 
@@ -20,11 +42,9 @@ Solo más tarde entendió a medias lo que le había pasado: que la misma niña a
 
 El día que se fue a Cafaggio no hubo escena. Se despidió de cada uno con una calma de agua, me abrazó a mí un instante más largo que a los demás, y a su padre le tendió la mano —la mano, a su propio padre—, porque entre ellos ya no quedaba otra cosa que darse. La puerta se cerró, y la casa se quedó con una hija menos y un silencio más.
 
-Y fue con esa herida a cuestas —la de la hija que se le había ido adonde no podía seguirla, y que se le había ido, encima, dándole la razón a su manera— con la que Francesco decidió, tres semanas más tarde, que había llegado la hora del último intento.
+Y con esa herida a cuestas —la de la hija que se le había ido adonde no podía seguirla, y que se le había ido, encima, dándole la razón a su manera— Francesco hizo, unas semanas más tarde, lo que hacía siempre que algo le dolía y no sabía cómo nombrarlo: volvió los ojos a Leonardo.
 
----
-
-Llega un momento, en toda empresa larga y ridícula, en que uno se dice: «Este es el último intento. De verdad. Esta vez lo digo en serio».
+Porque llega un momento, en toda empresa larga y ridícula, en que uno se dice: «Este es el último intento. De verdad. Esta vez lo digo en serio».
 
 Francesco ya lo había dicho. Después del segundo Milán, después de Florencia una vez más, después de aquel desdichado rodeo por Bolonia donde se las arregló para no encontrar a Leonardo pese a informes fiables de que había estado allí la semana anterior. Cada vez lo declaraba su expedición final, el momento en que vencería o aceptaría la derrota con dignidad.
 

@@ -8,7 +8,9 @@ Lo anunció como anunciaba los buenos negocios: satisfecho consigo mismo, seguro
 
 —He hablado con los Baroncelli —dijo—. El hijo mayor. Buena casa, Lisa. Vieja. Más lustre que florines, pero eso es justo lo que a nosotros nos sobra y a ellos les falta. Un buen enlace para los dos lados.
 
-Más lustre que florines. Nombre viejo sin dinero casándose con dinero nuevo sin nombre. Miré a mi marido explicarme, radiante, el trato, y no supe si reír o llorar, porque era, palabra por palabra, la misma transacción que a él lo habían hecho sentir gusano en el Palazzo Strozzi hacía ya tantos años. Solo que ahora él era el que compraba, y la moneda era su hija.
+Más lustre que florines. Un nombre viejo sin dinero casándose con dinero nuevo sin nombre. Miré a mi marido explicarme el trato, radiante, y no supe si reír o llorar, porque aquello era, en el fondo, la misma cuenta que a él lo había dejado hecho un gusano en el Palazzo Strozzi tantos años atrás.
+
+Aquella noche Francesco había aprendido en carne propia que hay una pertenencia que el oro no compra: que un mercader, por rico que sea, sigue siendo un mercader, y que las familias viejas le sonríen a uno desde el otro extremo de la mesa sin dejarlo cruzar jamás. Lo que ninguno de los dos dijimos entonces fue que se juró, por dentro, encontrar la manera de comprar lo que no estaba en venta. Y esta era la manera. Él ya no podía comprarse un nombre antiguo —para eso había nacido tarde—, pero podía comprárselo a la sangre que venía detrás: entregar a su hija, con una buena dote, a una casa de apellido rancio, y que sus nietos, al menos, nacieran ya del lado bueno de la mesa. En esa cuenta, Camilla no era su hija. Era la moneda con que saldaba, por fin, la humillación de aquella cena. Lo más amargo es que lo hacía por amor, a su modo torcido: por dar a los suyos lo que a él le negaron. No veía que, para lograrlo, tenía que hacerle a Camilla exactamente lo que tanto le había dolido que le hicieran a él: tomar a una persona y tratarla como un medio; pesarla, tasarla y cambiarla por un asiento más arriba.
 
 —¿Y Camilla? —pregunté.
 
@@ -24,31 +26,27 @@ No dijo «ya lo agradecerá», que habría sido más honrado. Dijo «ya lo enten
 
 ---
 
-No hace falta que cuente que Camilla no lo entendió. Lo que quizá haya que contar es que fui yo quien tuvo que decírselo, porque Francesco, tan valiente para reclamarle un cuadro al Papa, se las arreglaba siempre para no estar en casa cuando había que darle a su hija una noticia que le doliera.
+Fui yo quien tuvo que decírselo. Francesco —que años después, ya lo contaré, sería capaz de plantarse ante el mismísimo Papa a reclamar su cuadro— se las arreglaba, en cambio, para no estar nunca en casa cuando había que darle a un hijo una noticia que pudiera doler.
 
 La encontré donde solía estar entonces: en el rincón que se había apañado junto a la ventana del piso de arriba, con sus papeles, sus cabos de carbón y aquella libreta que ya iba por la tercera, llena de máquinas que no volaban y de preguntas que nadie más en la casa se hacía. Tenía quince años y la costumbre, heredada de su padre y afilada por su cuenta, de mirarte como si te estuviera midiendo por dentro.
 
-Se lo dije con toda la suavidad que tuve. Le hablé de la buena casa, del muchacho, que no era mal muchacho —no lo era; esa es la parte que la gente olvida, que rara vez hay un villano, solo un orden de cosas que muele parejo—. Le dije que así eran las cosas, que a mí me habían casado a los quince y que no me había ido tan mal.
+Se lo dije con toda la suavidad que tuve. Y aquí está lo que no me esperaba, lo que todavía me da vueltas: Camilla no se rebeló. Dejó el carbón, escuchó y asintió como quien recibe una noticia razonable. Preguntó por el muchacho, por la casa, por la fecha, con una calma práctica que me desarmó. «Los Baroncelli son buena gente —dijo—. Podría haberme tocado mucho peor.» Y era verdad, y ella lo sabía, porque era lista y era hija de su tiempo, y a las muchachas de su tiempo las casaban; a las de suerte las casaban bien, y aquello era casarse bien. No conocía otro mundo en el que fuera lícito querer otra cosa. Yo tampoco se lo había enseñado. Nadie se lo había enseñado. Solo Leonardo, sin proponérselo, le había dejado entrever alguna vez que una cabeza como la suya podía servir para algo más que gobernar una casa; pero Leonardo se marchaba siempre, y las lecciones que no se quedan a vivir con uno acaban por no contar.
 
-Me escuchó hasta el final, muy quieta. Y cuando terminé, no lloró. Ojalá hubiera llorado; el llanto se consuela. Lo que hizo fue peor. Dejó el carbón sobre la libreta, con cuidado, como quien guarda una herramienta que no va a volver a usar, y dijo:
+Así que me dije, cobarde y aliviada: mejor. Mejor que lo tome bien. Y durante un tiempo creí, de veras, que habíamos tenido suerte.
 
-—Entonces esto se acaba.
-
-—Nada se acaba, hija. Una casada también puede…
-
-—No. —No lo dijo con rabia. Lo dijo como quien lee en voz alta un total que ya conocía—. No puede. Tú no puedes. La mujer de los Baroncelli no se sienta a mirar por qué el agua sube por un caño. Cose, reza y pare. Lo sabes, madre. Me lo estás diciendo con la cara mientras me dices lo contrario con la boca.
-
-No supe qué responder, porque tenía razón, y a los quince años ya sabía leerme la cara mejor que su padre en veinte.
+Me escuchó hasta el final. No lloró ni discutió: guardó el carbón y siguió con lo suyo, y durante un tiempo creí, tonta de mí, que aquello sería todo.
 
 ---
 
-Lo que vino después fueron meses malos, de esos que en una casa no dejan marca en las paredes pero sí en la gente. Camilla no gritó ni pataleó; eso lo habría entendido Francesco, y hasta lo habría perdonado como se perdona una rabieta. Hizo algo que él no supo cómo combatir: se apagó a propósito. Dejó de preguntar en la mesa. Guardó la libreta. Cuando venían los Baroncelli de visita, se sentaba con las manos quietas y contestaba lo justo, cortés y muerta, y miraba al muchacho —que, insisto, no era mal muchacho— con una calma que asustaba más que cualquier desplante.
+Lo que cambió las cosas no fue una rebeldía: fue el trato. En los dos años que duró el compromiso, Camilla fue conociendo al muchacho y a la vida que venía con él, y fue descubriendo —despacio, como quien se acostumbra a la penumbra hasta que un día advierte que ya no ve— la forma exacta de la jaula.
 
-Yo veía lo que estaba haciendo, porque yo también lo había hecho, solo que yo lo había hecho después de casada y ella tuvo la sangre de hacerlo antes. Se estaba enseñando a sí misma cómo iba a ser. Se lo estaba enseñando a su padre. Y se lo estaba enseñando a él, al prometido, que no era tonto y empezó a mirarla con el desconcierto del que ha comprado un caballo y sospecha que algo anda mal con la bestia.
+El prometido no era mal muchacho; esa es la parte que la gente olvida, que casi nunca hay un villano, solo un orden de cosas que muele parejo. Era cortés, ni feo ni cruel. Pero la primera vez que Camilla le enseñó una de sus máquinas de papel —porque al principio, confiada, se la enseñó—, él se rió con cariño, como se ríe uno de la ocurrencia de un niño, y le dijo que esos entretenimientos estaban muy bien para pasar la soltería, que ya se le irían cuando tuviera casa e hijos de que ocuparse. No lo dijo con maldad. Lo dijo para tranquilizarla. Y fue peor que cualquier maldad, porque le mostró a Camilla, en una sola frase amable, el tamaño entero de lo que la esperaba: una vida donde su cabeza sería, en el mejor de los casos, un pasatiempo de juventud que había que dejar atrás al casarse.
 
-Francesco lo llamaba «nervios de novia». Me pedía que hablara con ella. Hablé con ella. Hablé con ella tantas veces que se me acabaron las palabras honradas y empecé a repetir las de él, y un día me oí decir «es lo que hay, Camilla, es lo que le toca a una mujer», y me callé a mitad de frase porque me dio asco mi propia voz.
+La vi ir entendiéndolo a lo largo de aquellos meses. No de golpe. Volvía de cada visita un poco más callada. Guardó la libreta, y no por rabia, sino como se guarda algo que empieza a doler mirar. Dejó de preguntar en la mesa. Se sentaba con las manos quietas, cortés y cada vez más lejos, ensayando ya, sin decírselo a nadie, la mujer que le tocaría ser. Yo la miraba apagarse y reconocía cada paso, porque era el mismo camino que yo había andado; solo que a mí me tocó después de la boda, y ella tuvo la desgracia —o la suerte— de verlo venir antes.
 
-Esa noche entendí que estaba del lado equivocado de mi propia hija. Y no hice nada, que es la parte que todavía me cuesta escribir. No hice nada, porque no se me ocurría qué otra cosa podía ser una mujer en este mundo, y darle a mi hija esperanzas de otra cosa me parecía una crueldad peor que la de casarla. Preferí ser su carcelera antes que su cómplice en una fuga que yo no veía adónde llevaba. De todas mis cobardías, esa es la que confesaría primero si alguien me obligara a ponerlas en fila.
+Y yo no hice nada. Esa es la parte que todavía me cuesta escribir. Alguna vez fui a hablarle, y me oí repetir las palabras de su padre —«es lo que hay, hija, es lo que le toca a una mujer»— y me callé a mitad de frase, con asco de mi propia voz. Porque no se me ocurría qué otra cosa podía ser una mujer en este mundo, y darle esperanzas de otra me parecía una crueldad peor que casarla. Preferí ser su carcelera antes que su cómplice en una huida que yo no veía adónde llevaba. De todas mis cobardías, esa es la que confesaría primero si alguien me obligara a ponerlas en fila.
+
+Pero hay un límite para lo que una puede ensayar sin convertirse del todo en ello, y Camilla llegó al suyo. Yo, al mío, no llegué nunca.
 
 ---
 

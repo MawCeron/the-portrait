@@ -2,7 +2,7 @@
 
 ## Florencia, 1511–1513
 
-Camilla tenía quince años cuando su padre decidió casarla, y yo supe, en cuanto Francesco me lo dijo, que aquella cuenta que llevaba años sin saber pagar por fin me la iban a cobrar.
+Camilla tenía quince años cuando su padre decidió casarla.
 
 Lo anunció como anunciaba los buenos negocios: satisfecho consigo mismo, seguro de traer una alegría.
 
@@ -38,27 +38,29 @@ Me escuchó hasta el final. No lloró ni discutió: guardó el carbón y siguió
 
 ---
 
-Lo que cambió las cosas no fue una rebeldía: fue el trato. Un compromiso, en Florencia, no es una boda; son meses, a veces años, de visitas, de comidas, de dejar que las dos familias se acostumbren a mezclarse. Y en esos dos años Camilla fue conociendo al muchacho y a la vida que venía con él, y fue descubriendo —despacio, como quien se acostumbra a la penumbra hasta que un día advierte que ya no ve— la forma exacta de la jaula.
+Un compromiso, en Florencia, no es una boda; son meses, a veces años, de visitas, de comidas, de dejar que las dos familias se acostumbren a mezclarse. Y así, durante casi dos años, Camilla fue conociendo al muchacho con el que iba a casarse, y a la vida que venía con él.
 
-Aquí tengo que ser justa, porque sería más cómodo para todos que Alessandro Baroncelli hubiera sido un patán, y no lo fue. No he conocido pretendiente más aplicado. Venía puntual, con las manos limpias y siempre algún detalle pensado: no las flores caras que se le regalan a cualquiera, sino cosas escogidas para ella —una vez, un cuadernillo de papel bueno, del que a Camilla le costaba conseguir; otra, una de las primeras naranjas del año, porque le había oído decir que le gustaban—. Se acordaba de lo que ella decía. Le preguntaba por su día y esperaba de verdad la respuesta. Cuando Camilla hablaba, la miraba con una atención embobada y limpia, sin doblez, como se mira algo que a uno le parece un pequeño milagro que le haya tocado en suerte. La quería. Eso lo vi desde el principio, y no dejé de verlo ni el día de la ruptura: la quería de la manera sencilla y entera en que quieren los hombres que no se hacen demasiadas preguntas.
+Y el muchacho me ganó el afecto casi sin proponérmelo yo. No he conocido pretendiente más aplicado. Venía puntual, con las manos limpias y siempre algún detalle pensado: no las flores caras que se le regalan a cualquiera, sino cosas escogidas para ella —una vez, un cuadernillo de papel bueno, del que a Camilla le costaba conseguir; otra, una de las primeras naranjas del año, porque le había oído decir que le gustaban—. Se acordaba de lo que ella decía. Le preguntaba por su día y esperaba de verdad la respuesta. Cuando Camilla hablaba, la miraba con una atención embobada y limpia, sin doblez, como se mira algo que a uno le parece un pequeño milagro que le hubiera tocado en suerte. La quería, y se le notaba en cada gesto: la quería de la manera sencilla y entera en que quieren los hombres que no se hacen demasiadas preguntas.
 
 Y no era solo el nombre, que también conviene decirlo, porque yo le hice a Francesco la injusticia de creer, al principio, que compraba puro apellido rancio. Una tarde los oí hablar de negocios —el muchacho llevaba las tierras de su casa, unos olivares, un molino y unas rentas que su padre había dejado enredarse— y me quedé escuchando desde la puerta, sorprendida. Alessandro no era brillante; nunca lo fue, y esto importa. Pero era juicioso, trabajador, honrado con el florín; de esos que no deslumbran en una tarde y a los veinte años ya han enderezado lo que otros hunden en cuarenta. Francesco salió de aquella charla frotándose las manos, y por una vez no le faltaba razón: el muchacho prometía. Prometía justo la clase de cosas que mi marido sabía apreciar. En otro reparto del mundo, Alessandro Baroncelli habría hecho feliz a una mujer entera.
 
-El problema fue que le tocó Camilla.
+Con Camilla, en cambio, la cosa era más difícil de nombrar, y tardé yo misma en verla.
 
-Lo entendí del todo la tarde en que ella, todavía confiada, le enseñó una de sus máquinas de papel. Alessandro la tomó con cuidado, con interés verdadero —no fingía; no sabía fingir—, y le pidió que se la explicara. Y Camilla se la explicó, encendida como no la veía yo desde las visitas de Leonardo, hablándole del peso y del aire y de por qué esto y por qué lo otro. Él escuchó todo, asintiendo, esforzándose de veras. Y al final dijo, con una sonrisa cálida y sin pizca de malicia:
+La primera señal me la dio una tarde en que ella, todavía confiada, le enseñó una de sus máquinas de papel. Alessandro la tomó con cuidado, con interés verdadero —no fingía; no sabía fingir—, y le pidió que se la explicara. Camilla se la explicó, encendida como no la veía yo desde las visitas de Leonardo, hablándole del peso y del aire y de por qué esto y por qué lo otro. Él escuchó todo, asintiendo, esforzándose de veras. Y al final dijo, con una sonrisa cálida y sin pizca de malicia:
 
 —No he entendido ni la mitad. Pero es precioso verte hablar así.
 
-Y ahí, madre de Dios, ahí se le apagó a mi hija algo que ya no volví a verle encendido igual. Porque no fue un desaire. Fue lo contrario: fue amor, del bueno, del que no hace daño a propósito. Alessandro estaba encantado de tenerla y encantado de no entenderla, y las dos cosas le convivían dentro sin rozarse. Camilla comprendió en ese instante lo que le esperaba: una vida junto a un hombre bueno que la querría siempre y que jamás, ni una sola vez, podría seguirla adonde ella iba con la cabeza. Acompañada y sola a la vez, para el resto de sus días, y encima sin derecho a la queja, porque ¿de qué iba a quejarse? ¿De que la adoraban?
+Y lo curioso —me lo confesó ella mucho después— es que en aquel momento no se sintió herida. Se sintió halagada. Porque Alessandro la había mirado, la había mirado de veras, todo el rato, con los ojos puestos en ella como si fuera lo único que hubiera en la sala; y ser mirada así, descubrió Camilla, tiene su dulzura, y no es poca. Se acostó contenta aquella noche. Solo que no del todo. Quedaba una esquina de aquel gusto que no cerraba, un hueco pequeño que aún no sabía nombrar: la había mirado hablar, pero no había oído lo que decía. Quería mirarla, no escucharla. Y las dos cosas, tardó ella en aprenderlo, no son la misma.
 
-Hay soledades peores que la de estar sola. La peor es la de estar al lado de alguien que te quiere y no te alcanza.
+Ese hueco fue creciendo, como crecen los huecos, sin ruido. No hubo un día en que Camilla decidiera nada; fue el goteo de muchas tardes iguales. Ella encendiéndose con una idea, él mirándola encenderse con adoración y sin seguirla, y ella bajando poco a poco la llama para no gastarla en balde. Volvía de cada visita un punto más callada. Espació las veces que sacaba la libreta delante de él, y luego dejó de sacarla; no de golpe ni por despecho, sino como se deja de cantar en una casa donde nadie más canta, porque suena raro hacerlo sola. Hay soledades peores que la de estar sola: la peor es la de estar al lado de alguien que te quiere y no te alcanza. Camilla la fue conociendo de a poco, sin nombre todavía, mientras aprendía en silencio a ser la mujer que le tocaría ser.
 
-La vi apagarse a lo largo de los meses que siguieron. No de golpe. Volvía de cada visita un poco más callada. Guardó la libreta, y no por rabia, sino como se guarda algo que empieza a doler mirar. Se sentaba con las manos quietas, cortés y cada vez más lejos, ensayando ya, sin decírselo a nadie, la mujer que le tocaría ser. Yo reconocía cada paso, porque era el mismo camino que yo había andado; solo que a mí me tocó después de la boda, y ella tuvo la desgracia —o la suerte— de verlo venir antes.
+El golpe que le cerró la última rendija no vino de Alessandro. Vino de su madre.
 
-El golpe final, el que le cerró la última rendija, fue pequeño y amable como todo en Alessandro. Camilla, buscando quizá una grieta por donde respirar, le preguntó un día si, ya casados, la dejaría seguir con sus libros y sus dibujos. Y él, por tranquilizarla, con la mejor de las intenciones, le dijo que claro que sí, faltaría más; por ahora. Que ya luego, cuando llegaran los niños, no echaría de menos esas cosas, que estaría demasiado ocupada y demasiado contenta para acordarse de ellas.
+Fue una tarde en casa de los Baroncelli, entre mujeres, con la vieja signora enseñándole a Camilla el arcón del ajuar y las cosas que un día gobernaría. Camilla, por decir algo, o buscando quizá todavía una grieta por donde respirar, comentó que esperaba poder seguir con sus libros y sus dibujos ya casada. Y la signora, lejos de reñirla, se rió con ternura, le tomó la cara entre las manos y le dijo, con el orgullo de quien entrega una verdad valiosa:
 
-Por ahora. Hasta que lleguen los niños. En dos frases mansas le había dibujado la jaula entera: su cabeza no era suya, era un permiso provisional, algo que se le toleraba a la soltera y se le retiraría a la madre por su propio bien. Y lo peor es que Alessandro no mentía. Así eran las cosas. Así habían sido para mí.
+—Ay, hija. Yo era igual de muchacha, no te creas: con mis cosas, mis pájaros, mis bordados raros. Y mírame. No echo nada de menos. Ya verás cuando lleguen los niños; se te llena una tan por dentro que no vuelve a acordarse de esas naderías. Es lo mejor que va a pasarte. No lo cambiarías por todos los libros del mundo.
+
+Lo dijo con amor. Lo dijo hasta con una envidia buena, como se le desea a una hija el bien que una ya tuvo. Y por eso fue mil veces peor que cualquier crueldad. Porque no era un hombre torpe cerrándole una puerta: era una mujer que había pasado por donde Camilla iba a pasar, sonriendo y jurándole que del otro lado se estaba bien, que la jaula, vista por dentro, se parecía a un nido. Camilla salió de aquella casa habiendo visto su vida entera de una sentada: no la que temía, sino la que le prometían con cariño. Y comprendió que la trampa no era Alessandro, ni siquiera su padre. La trampa era mucho más grande, y estaba tan bien hecha que las propias presas la guardaban con orgullo.
 
 Y yo no hice nada. Esa es la parte que todavía me cuesta escribir. Alguna vez fui a hablarle, y me oí repetir las palabras de su padre —«es lo que hay, hija, es lo que le toca a una mujer»— y me callé a mitad de frase, con asco de mi propia voz. Porque no se me ocurría qué otra cosa podía ser una mujer en este mundo, y darle esperanzas de otra me parecía una crueldad peor que casarla. Preferí ser su carcelera antes que su cómplice en una huida que yo no veía adónde llevaba. De todas mis cobardías, esa es la que confesaría primero si alguien me obligara a ponerlas en fila.
 
@@ -74,23 +76,45 @@ No «no quiero». No «esperad». Dijo, mirando a su padre y no al prometido:
 
 —No voy a casarme. Ni con él ni con nadie. Podéis arrastrarme hasta el altar, pero el cura necesita un sí, y yo no lo voy a decir. Se lo ahorro a todos: no lo voy a decir aunque me tengáis un año de rodillas.
 
-El viejo Baroncelli se puso de pie despacio, con la dignidad ofendida de quien ha sido invitado a una humillación pública. El muchacho —esto lo recuerdo bien— la miró casi con alivio, el pobre, como quien se entera de que el barco al que iba a subir hacía agua. Se marcharon con las cortesías heladas del caso, y todos supimos que aquello no tenía arreglo: un compromiso roto así, delante de las dos familias, no se recompone. El nombre de los Baroncelli exigía retirada, y el de Del Giocondo se quedaba con la mancha de haber prometido lo que no supo entregar.
+El viejo Baroncelli se puso de pie despacio, con la dignidad ofendida de quien ha sido llevado a una humillación pública. Pero fue la cara de Alessandro la que no he logrado olvidar. No hubo en ella rabia ni alivio: solo un desconcierto herido, el de un hombre que lo ha hecho todo bien —cada visita, cada naranja, cada atención— y no acierta a entender con qué lo ha echado a perder. Miraba a Camilla como se mira algo que uno creía suyo y descubre, de golpe, que nunca lo tuvo.
+
+Y entonces Camilla hizo la única cosa de toda aquella tarde que no fue de hierro. Se volvió hacia él —solo hacia él, no hacia los padres— y se le quebró la voz por primera vez.
+
+—Tú no has hecho nada malo, Alessandro. Nada. Eres bueno, y me querías bien, y cualquier otra habría dado gracias al cielo. —Tragó saliva—. Perdóname. No es a ti a quien le digo que no. Es a esto. Y no sé decírselo a esto sin decírtelo también a ti. No sabes cuánto lo siento.
+
+Él no contestó; no supo. Se lo llevaron sus padres como se llevan a un herido que aún no siente la herida, y en la puerta se volvió a mirarla una última vez. Esa mirada le costó a Camilla, después, más lágrimas que toda la pelea con su padre. Porque a Francesco le rompía un plan; a Alessandro le rompía el corazón, y ella lo sabía, y aun así eligió. Esa es la parte que no le perdonaron del todo, ni ella se perdonó a sí misma: que supo exactamente lo que le hacía a un buen hombre, y lo hizo, porque lo que buscaba pesaba más. No es una santa, mi hija. Es algo más difícil de querer, y de olvidar: alguien que puso su propia hambre por encima de la dicha de quien no lo merecía. Los santos consuelan; los que eligen así, no.
+
+Se marcharon con las cortesías heladas del caso, y todos supimos que aquello no tenía arreglo: un compromiso roto así, delante de las dos familias, no se recompone. El nombre de los Baroncelli exigía retirada, y el de Del Giocondo se quedaba con la mancha de haber prometido lo que no supo entregar.
 
 Justo eso: prometer lo que no se entrega. Miré a Francesco y vi el golpe caerle encima, y por un instante, que Dios me perdone, sentí algo parecido a la risa amarga: llevaba diez años persiguiendo por media Italia a un hombre que prometía cuadros y no los entregaba, y ahora era su propia casa la que quedaba en boca de todos por lo mismo.
 
-Él no lo vio así, claro. Él no vio la ironía, ni vio la aspiración, ni vio a la mujer entera y feroz en que se le había convertido la niña de los molinillos de papel. Vio una sola cosa: rechazo. A su plan, a un buen partido, a él. Se levantó blanco, y por primera vez en su vida le habló a Camilla como no le había hablado nunca a nadie de los suyos.
+Él no lo vio así, claro. No vio la ironía, ni vio la aspiración, ni vio a la mujer entera y feroz en que se le había convertido la niña de los molinillos de papel. Vio una sola cosa: rechazo. A su plan, a un buen partido, a él. Se levantó blanco, y por primera vez en su vida le habló a Camilla como no le había hablado nunca a nadie de los suyos.
 
-—¿Tienes idea de lo que acabas de hacer? —Muy bajo, que en él era peor que a gritos—. Nos has puesto en la boca de toda Florencia. ¿Para qué? ¿Para qué, Camilla?
+—¿Tienes idea de lo que acabas de hacer? —Muy bajo, que en él era peor que a gritos—. Nos has puesto en la boca de toda Florencia. Un partido así no se encuentra dos veces. He dado mi palabra, una dote, años de trato… ¿y tú lo tiras por la ventana en una tarde? ¿Para qué? ¿Para qué, Camilla?
 
-Y ella —y aquí me rompió el corazón de las dos maneras posibles, de orgullo y de miedo a la vez— le sostuvo la mirada y contestó con la única moneda que él debería haber sabido reconocer, porque se la había enseñado él:
+—Para no desaparecer —dijo ella.
 
-—Tú cruzaste los Alpes por una cosa que querías y que todo el mundo te decía que no tenías derecho a querer. Nadie te llamó loco por eso. Te llamaron devoto. —Tragó saliva; le temblaba, pero no cedió—. Yo también quiero una cosa, padre. Y no me vais a casar para quitármela.
+—Nadie iba a hacerte desaparecer. Iban a hacerte señora de una buena casa.
+
+—Es lo mismo, padre. Tú no lo ves, pero es lo mismo.
+
+Y entonces, en lugar de callarse como llevaba dos años callándose, mi hija se puso de pie y le devolvió, uno a uno, todos los silencios. Se me rompió el corazón de las dos maneras posibles a la vez, de orgullo y de miedo.
+
+—¿Quieres saber una cosa? En dos años, ese muchacho al que acabo de romperle el corazón me miró a los ojos más veces que tú en diecisiete. No me entendía; ni la mitad, ya lo oíste. Pero cuando yo hablaba, sabía que había algo delante que valía la pena mirar. Tú ni eso. Tú me llevaste de niña a que un genio me tomara en serio la cabeza, y te pusiste tan orgulloso que casi reventabas… y no te preguntaste ni una sola vez qué iba a hacer yo con esta cabeza cuando creciera. Me la encendiste tú, padre. Y en cuanto ardió, me buscaste un sitio donde apagarla.
+
+Francesco encajó aquello como se encaja un golpe que uno no ve venir.
+
+—Todo lo que he hecho lo he hecho por esta familia —dijo, y le tembló la voz.
+
+—Lo sé. Por la familia. Por el nombre. Por unos nietos que todavía no existen. Por todos menos por mí, que era la que iba dentro del trato. —No lloraba, y eso fue lo que más me asustó—. Tú cruzaste los Alpes por una cosa que querías y que todo el mundo te decía que no tenías derecho a querer. Nadie te llamó loco. Te llamaron devoto. Yo también quiero una cosa, padre. Y no me vais a casar para quitármela.
 
 Francesco no tuvo respuesta. Abrió la boca, la cerró —igual que la cerraría años después, delante de mí, otra tarde—, y salió del cuarto sin decir palabra. No volvieron a hablarse de verdad, ni ese año ni casi ninguno de los que quedaban. Se cruzaban en la casa como dos personas educadas que comparten techo. Él nunca entendió qué le había pedido su hija. Ella nunca le explicó, porque a los diecisiete una ya sabe cuándo una explicación cae en saco roto.
 
+Y ya que lo he traído hasta aquí, cierro la suerte de Alessandro, por si al lector le pesa como me pesó a mí. Le fue bien. Un par de años más tarde se casó con una muchacha de buena casa, dulce y juiciosa, hecha a la medida de la vida que él ofrecía; tuvo hijos, enderezó sus tierras como prometía y fue feliz de esa manera ancha y sin sobresaltos que a mi hija le habría quedado estrecha. Tuvo, en fin, exactamente la vida que le tendió a Camilla, con alguien que la quería de vuelta. Me alegré por él, y no poco. No todos los que salen malparados de esta historia lo están por culpa de nadie.
+
 ---
 
-Aquella noche subí a verla. Estaba otra vez junto a la ventana, con la libreta abierta —la había desenterrado—, aunque no dibujaba: solo la tenía sobre las rodillas, como se tiene una mano conocida.
+Aquella noche subí a verla. Estaba otra vez junto a la ventana, con la libreta abierta sobre las rodillas —fuera por primera vez en muchos meses—, aunque no dibujaba: solo la tenía ahí, como se tiene una mano conocida.
 
 Me senté a su lado. No le dije que había hecho bien, porque no lo sabía, y sigo sin saberlo del todo. No le dije que había hecho mal, porque eso sí sabía que era mentira. Le dije lo único verdadero que tenía.
 

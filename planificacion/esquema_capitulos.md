@@ -71,9 +71,10 @@ Hilos: **[E]** espina (Francesco↔Leonardo) · **[C]** Camilla · **[M]** Marco
 - **Abre con el convento:** Camilla elige San Domenico di Cafaggio —**no por piedad, sino por ser la única jaula "con ventana"** (libros, horas, no ser esposa de nadie). Lisa lo entiende (la puerta que ella no cruzó). A Francesco casi lo alivia (respetable), y solo a medias entiende que crió a su hija para el hambre y solo supo ofrecerle un marido. Se despiden con un apretón de manos.
 - **Esa herida → Roma:** con la hija ida adonde no puede seguirla, Francesco decide "el último intento". → **El set-piece cómico:** Leonardo lo mete en la cámara papal (León X) para esquivar el retrato. "Vencido" pero encantado. Lisa **no cree** el "último intento" (el real será Francia). Camilla ya no está en la mesa: su ausencia sentida.
 
-### Cap 10 — La conversación / el negocio
-- **Objetivo:** vuelta a casa; Lisa intenta con suavidad que lo deje. **[M giro]**: los pedidos Medici aumentan — el reconocimiento que Francesco creía que traería el retrato lo trae el **negocio** (gestión de Lisa/Marco + conexiones del chase). Ganó sin darse cuenta.
-- **[D #3]** el aguijón, ahora irónico: el rival es Strozzi; Francesco recibe encargos Medici.
+### Cap 10 — La conversación / el negocio ✍️ escrito
+- **Objetivo:** vuelta a casa; Lisa intenta con suavidad que lo deje. **[M giro]**: los pedidos Medici aumentan — el reconocimiento que Francesco creía que traería el retrato lo trae **por dos vías**: (a) el **círculo de Leonardo** (la amistad no buscada: quienes lo ignoraban ahora lo buscan, y no solo por negocio — **empiezan a pedirle consejo**; sembrar aquí, desarrollar en cap 11) y (b) el **negocio** (gestión invisible de Lisa/Marco). Ganó sin darse cuenta. **Prioridad temática: la amistad** (corazón de la novela).
+- **[D #3]** el aguijón, ahora irónico: los Strozzi que lo despreciaron; Doni con su Raphael colgado vs. Francesco con encargo del Papa.
+- **Voz:** Lisa **testigo divertido**, puyante — NO mártir (ver `voz.md`).
 
 ### Cap 11 — Los años quietos y la pérdida
 - **Objetivo:** Leonardo en Francia; Francesco **no va** (edad, miedo a romper el hechizo); se ablanda.

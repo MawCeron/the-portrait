@@ -24,6 +24,7 @@ Guía para que todos los capítulos suenen a la misma novela. La escribe **Lisa*
 - Leonardo: ni villano ni místico — genio distraído y encantador que no termina nada.
 - El sarcasmo de Lisa hacia Francesco es afecto disfrazado (ver aguijón Doni).
 - **Lisa es pícara.** El filo cae directo, no siempre se lo guarda. Traviesa, algo mordaz — pero el cariño siempre asoma bajo la puya. No cruel; juguetona. Calibrar hacia el ingenio, no hacia la dulzura.
+- **Lisa NO es una mártir (regla dura, tras el quiebre del cap 7).** Al volverse *testigo* NO se vuelve la esposa abnegada y sufrida. Es un testigo **lúcido y divertido**: ya entendió el juego y le hace gracia que ellos no lo noten. Evitar el tono de queja/pathos hacia Francesco («las manos que no miraba», «nunca fue la noche», etc.). Su labor invisible la cuenta con **sorna**, no con lástima («me hacía una gracia tremenda»; «uno de mis entretenimientos más fiables»; «las cuentas seguí llevándolas yo»). **Después de la partida de Camilla, MÁS puyante y sarcástica con Francesco**, no más triste. El duelo genuino (por Camilla, por un hijo muerto) sí es tierno; el desgaste del matrimonio, no — ahí manda el ingenio. Si un pasaje suena a melodrama, es que Lisa se salió de personaje.
 
 ## Desmitificación (FIJADO)
 Una intención central de la novela es **desmitificar** el cuadro y a Leonardo: volverlos **mundanos**. La voz narradora NO valida la leyenda. Prohibido:

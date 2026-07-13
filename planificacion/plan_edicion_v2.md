@@ -17,7 +17,7 @@
 
 **Regla de oro:** cada cambio se justifica narrativamente. No expandir por conteo. La brevedad que funciona se protege.
 
-**Workflow sugerido:** editar sobre una rama nueva (p. ej. `edicion-v2`) partiendo de `draft`; mantener `draft` como primer borrador congelado y `revisions` como la auditoría. *(A confirmar con el autor.)*
+**Workflow (DECIDIDO):** editar en la rama **`edicion-v2`** partiendo de **`revisions`** (así arrastra tanto el manuscrito como las notas de `revisions/v1/`). `draft` queda como primer borrador congelado; `revisions` como la auditoría.
 
 ---
 
@@ -44,7 +44,7 @@
 
 **A2 — Años de matrimonio (ALTA).** Boda 1495. Fijar coherencia: 1519 ≈ **24–25 años**; 1538 ≈ 43. Corregir cap 13 (l.67) "treinta años" → alinear con cap 12 (l.7) "casi veinticinco". Revisar epílogo (l.17) "cuarenta años".
 
-**A3 — El "primer hijo" muerto vs. Piero vivo (MEDIA).** Piero (primer hijo con Lisa, n. 1496) sobrevive a la caída (cap 6) y aparece adulto. Decisión a tomar: el hijo enterrado no puede ser el primogénito vivo. Ubicaciones a revisar: prólogo (l.43), cap 5 (l.109), cap 6. *(Decisión del autor: a qué hijo se refiere el duelo y cómo nombrarlo sin "primer".)*
+**A3 — El "primer hijo" muerto vs. Piero vivo (RESUELTO).** No hay contradicción: el **primogénito murió de bebé** (fijado en `canon.md`); **Piero es el mayor *superviviente*, no el primero en nacer**. "Nuestro primer hijo" (muerto) es coherente. Acción v2 (opcional): añadir una aclaración ligera en el prólogo (l.43) del tipo "al que ni siquiera alcanzamos a nombrar" para que quede nítido. Cap 5 (l.109, nacimiento del primer hijo) y cap 6 quedan coherentes.
 
 **A4 — Ciudades de la caza (BAJA).** Set actual: Milán, Pavía (cap 6), Bolonia (caps 9–10, como rodeo fallido), Roma, Florencia. No hay contradicción; verificar coherencia de referencias. Roma se reserva al Papa (ya fijado).
 

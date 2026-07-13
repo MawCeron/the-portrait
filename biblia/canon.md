@@ -11,6 +11,7 @@
 | *(Camilla Rucellai)* | **1ª esposa** de Francesco | –1494 | Hija de Mariotto Rucellai. Mismo nombre que la hija: coincidencia **omitida** (sin uso narrativo). No aparece en la narrativa. |
 | Bartolomeo | Hijo de la 1ª esposa (hijastro de Lisa) | 1493–1561 | Se queda con el negocio. |
 | Piero | Hijo (con Lisa) | 1496–1569 | Entra al negocio; cuida a Lisa viuda. **Se casa ~1516** (evento doméstico de los años quietos; hereda la boda que el borrador daba a "Maria"). |
+| *(primer hijo, sin nombre)* | **Primogénito** (con Lisa) | ~1495–96, †de bebé | El hijo que "enterramos" (prólogo, cap 5, cap 6). **Murió recién nacido / de muy pequeño**, sin llegar a nombrarlo (mortandad infantil de época). **Piero es el mayor *superviviente*, no el primero en nacer** — así "nuestro primer hijo" (muerto) NO contradice a Piero vivo. Aclaración opcional en prosa v2: "al que ni siquiera alcanzamos a nombrar". |
 | Piera | Hija (con Lisa) | —, †a los ~2 años | Muere niña. |
 | **Camilla** (Suor Beatrice) | Hija, **espejo de Francesco** | **FICCIÓN: ~1496–1518 (~22)** · *historia: 1499–1518, 19* | Monja (San Domenico di Cafaggio). **Rompe un compromiso** y entra al convento por elección ~1513 (17). Nunca se casa. Votos históricos a los 12 → ficcionalizado para su arco. Ver subtrama. |
 | Marietta | Hija (con Lisa) | 1500–1579 | Monja en Sant'Orsola en 1521 (Suor Ludovica). **Sin peso narrativo** — su historia no aporta; mención mínima o ausente. |

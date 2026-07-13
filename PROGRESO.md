@@ -1,33 +1,39 @@
 # PROGRESO
 
 ## Fase actual
-**Planificación cerrada.** Listo para escribir prosa en español (`manuscrito/`).
-Falta solo validar la voz (`biblia/voz.md`: 3 micro-decisiones de taller) antes de arrancar el prólogo.
+**PRIMER BORRADOR COMPLETO** (en español, `manuscrito/`). Prólogo → 14 capítulos → epílogo, todos escritos y commiteados en la rama `draft`.
+Siguiente fase: **revisión de conjunto** (continuidad, ritmo, voz) sobre el manuscrito completo.
 
-## Hecho
-- [x] Lectura y comprensión completa del borrador original (inglés).
-- [x] Diagnóstico estructural (repetición temática, saltos de tiempo, capítulos redundantes, pacing).
-- [x] Estructura nueva propuesta y aprobada (esqueleto ~14-15 capítulos, 4 partes).
-- [x] Subtrama de Camilla definida (espejo de Francesco).
-- [x] Subtrama discreta definida: Marco y el negocio / la Lisa invisible (+ hilo menor: patrón rival Doni).
-- [x] Reorganización del repositorio: borrador viejo → `Archivo/`; estructura nueva creada.
+## Manuscrito (rama `draft`)
+- [x] `00_prologo` — La carta (1519), frame; frase-ancla amarga.
+- [x] `01` La ambición de un mercader — establecer a Francesco/Lisa + Palazzo Strozzi.
+- [x] `02` El Maestro — el trato, pago por adelantado, primera sesión (tabla de álamo).
+- [x] `03` El pintor de la República — Leonardo es más que pintor; semilla de Camilla.
+- [x] `04` La partida — escena-espejo de Camilla; Milán con el retrato; arranca el chase.
+- [x] `05` Milán — la osteria (amigo); registro vos↔tú asimétrico; deflación en casa.
+- [x] `06` Los años de la caza — montaje; mal embarque [M]; caída de Piero; Camilla "mi ingeniera".
+- [x] `07` La cuenta de Lisa — el quiebre (único) → tesis → aceptación/testigo; [D#2].
+- [x] `08` El compromiso — Camilla: compromiso (Baroncelli) + ruptura pública.
+- [x] `09` El convento y el Papa — Camilla elige el claustro → Roma, el esquive del Papa.
+- [x] `10` La conversación — giro [M] del negocio/círculo (mostrado); Lisa testigo divertido; [D#3].
+- [x] `11` Los años quietos — Leonardo a Francia; muerte de Camilla (1518), llega tarde; detonante.
+- [x] `12` El último viaje — Francia, demasiado tarde; deja el retrato con Melzi.
+- [x] `13` El regreso — deshecho, "desperdicié mi vida", paralelo Camilla; converge con el prólogo; carta rechazada.
+- [x] `14` La carta — Lisa la lee sola; Francesco → paz; frase-ancla en calma; convergencia [C][M][Lisa-semilla].
+- [x] `15` El retrato (epílogo) — Francesco sereno 19 años; sucesión [M]; [D#4]; conclusión exclusiva de Lisa (testamento + "sé de qué sonreía").
 
-## En curso
-- Fijar canon en `biblia/` — conflictos heredados:
-  - [x] Roster de hijos: "Maria" eliminada; boda → Piero; Marietta sin peso. Arco Camilla ficcionalizado (Opción A).
-  - [x] Años que vive Francesco tras la carta: **19** (histórico, †1538). Corregir epílogo.
-  - [x] Tres Camillas: omitir como recurso.
-  - [x] Persona narrativa: **primera** persona (Lisa). Fijado en `canon.md`.
-  - [x] Causa de muerte de Camilla: enfermedad prolongada; Francesco llega tarde (rima con Leonardo).
-  - [ ] Edades sueltas del borrador (Lisa "31" en 1507 → ~28; Francesco en prólogo/cap.11) — corregir al reescribir.
-- [x] Esquema capítulo por capítulo (v1) en `planificacion/esquema_capitulos.md` — 14 caps, subtramas repartidas.
-- [x] Camilla sembrada en la línea (caps 3, 4, 10, 11, 14).
-- [x] Guía de voz y estilo (`biblia/voz.md`) — con muestra para validar.
-- [x] Barrido de consistencia: sin decisiones abiertas ni datos viejos en los archivos nuevos.
+## Decisiones de escritura fijadas (ver `planificacion/decisiones.md` y `biblia/`)
+- Reorden Parte 3: Camilla (compromiso/convento) **antes** de Roma; conversación/negocio después.
+- Quiebre de Lisa: **único**, en el cap 7 (quiebre → realización → testigo). No hay segundo.
+- Arco de Lisa: **conclusión exclusiva** (`arco_lisa.md`), decoupled de Marco. Sembrado desde cap 1 (amor mudo).
+- Voz: Lisa **testigo divertido** tras el quiebre (no mártir); registro tú/vos mostrado, nunca nombrado.
+- Desmitificación: el cuadro y Leonardo, mundanos; la voz se ríe de la mitomanía del "misterio".
+- Roma reservada al Papa (cap 9); en el montaje se usa Pavía.
+- Proceso real del cuadro (`proceso_pintura.md`) para continuidad visual.
 
-## Pendiente
-- [ ] Escribir capítulos nuevos en español (`manuscrito/`).
-- [ ] Reubicar escena osteria de Milán (núcleo emocional, hoy enterrada como coda).
-- [ ] Comprimir bloque final (caps.16-19 → 2 capítulos).
-- [ ] Fusionar caps.3+4 (descubrir que Leonardo es más que pintor).
-- [ ] Revisión de consistencia contra `biblia/`.
+## Pendiente (revisión)
+- [ ] Revisión de conjunto: continuidad de nombres/edades, ritmo entre capítulos, repeticiones.
+- [ ] Verificar que la frase-ancla ("como si fuera a importunar a un rey") cae exacta: prólogo/cap13 (amarga) → cap14 (en calma).
+- [ ] Barrido de voz: que no reaparezca el tono mártir; que el filo pícaro sea constante.
+- [ ] Cotejar continuidad de la subtrama Marco/Lisa a lo largo del arco.
+- [ ] Considerar longitud/equilibrio de capítulos (p. ej. cap 8 es largo a propósito).

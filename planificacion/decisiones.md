@@ -53,6 +53,12 @@
 ## Quiebre de Lisa (2026-07-03)
 - **Definido en el cap 7 (único de la novela).** Lisa **se quiebra ante y contra Francesco** por todo lo aguantado; **de ahí** nace la realización (tesis: es Leonardo, no el retrato) y luego la aceptación. Orden fijo: **quiebre → realización → aceptación**. Es la **bisagra adversaria → testigo** del arco original ("stops fighting, becomes witness not opponent"). **No hay segundo quiebre**: la muerte de Camilla (cap 11) y lo demás se viven en modo testigo. Las siembras del cap 5 ("hasta dónde iba a crecer") y del cierre del cap 7 ("bastar/bastarme") pagan aquí. Ver `esquema_capitulos.md` cap 7 y `subtramas/marco_y_lisa.md`.
 
+## POV en escenas foráneas (2026-07-13) — a raíz de la revisión v1
+- **Decisión: Opción A — POV único de Lisa con MEDIACIÓN DOSIFICADA.** La revisión v1 detectó como riesgo estructural mayor que los picos (osteria, Roma, Francia) llegan de segunda mano y pierden inmediatez. Se descarta añadir POV de Francesco (B), híbrido de fuentes (D) y tercera persona (C), para no sacrificar la voz-"yo" ni el tema (ser vista/invisible).
+- **Cómo:** en los **picos**, el relato de Francesco se **dramatiza como escena inmersiva** (Lisa solo en la entrada/salida); en **tránsitos**, se mantiene el "me contó". La distancia se vuelve elección temática, no impuesto uniforme.
+- **Justificación in-mundo (canon nuevo):** Francesco, devoto, narra a Lisa con **detalle obsesivo** todo lo que le importa ("hasta la mota de polvo movida por el viento"). Sembrar ese rasgo para blindar el recurso. Ver `biblia/voz.md` › Mediación dosificada.
+- **Alcance:** afecta a la fase de edición (v2), no al primer borrador ya cerrado. Escenas objetivo: caps 3, 5, 9, 12.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 

@@ -19,6 +19,15 @@ Guía para que todos los capítulos suenen a la misma novela. La escribe **Lisa*
 - Lisa solo sabe lo que **presenció** o lo que **le contaron**.
 - Las escenas fuera de Florencia (Milán, Roma, Francia) se narran como **"lo que Francesco me contó después"**. Mantener ese marco — no saltar a una omnisciencia que ella no tiene. Es también un recurso emocional (ella filtra, matiza, sospecha).
 
+### Mediación dosificada en las escenas foráneas (DECIDIDO 2026-07-13, Opción A)
+- **Se conserva el POV único de Lisa (primera persona).** No se añade POV de Francesco ni tercera persona.
+- **La mediación deja de ser uniforme.** Hasta ahora "lo que Francesco me contó" pesa igual en un tránsito menor que en el corazón del libro, y en los **picos** eso resta inmediatez.
+- **En los picos**, el relato de Francesco puede **volverse escena inmersiva**: se suelta el "me dijo que…" y la escena corre en presente narrativo, con Lisa solo en la **entrada y la salida** (marco). En los **tránsitos menores**, se mantiene la mediación explícita.
+- **Justificación in-mundo (canon):** Francesco, en su devoción, le narraba a Lisa **con detalle obsesivo** todo lo que le importaba —"hasta la mota de polvo recién movida por el viento"—. Por eso es verosímil que Lisa reconstruya esos momentos como escena. Se puede **sembrar** ese rasgo (Francesco narrador exhaustivo) para blindar el recurso.
+- **La distancia se vuelve elección temática:** leve/nula en el corazón (para que el lector *sienta*), marcada donde la mediación sirve al tema (ser vista/invisible; ella "nunca estuvo").
+- **Escenas-pico objetivo** (candidatas a inmersión, fase de edición): la **osteria de Milán** (cap 5), el **"ala de mercader"** (cap 3), el **esquive del Papa** (cap 9), y **Amboise: la muerte de Leonardo, el taller y el retrato/la renuncia** (cap 12). Tránsitos y desfiles (búsqueda en Milán, viaje de ida) siguen mediados.
+- **Guardarraíl:** aunque la escena se dramatice, sigue siendo *reconstrucción de Lisa*; no introducir datos que Francesco no pudo transmitirle ni interioridad de otros personajes que él no pudiera conocer.
+
 ## Tono
 - Comedia cálida en el chase; melancolía creciente hacia el final. Agridulce, nunca melodrama.
 - Leonardo: ni villano ni místico — genio distraído y encantador que no termina nada.

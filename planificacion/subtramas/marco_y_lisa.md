@@ -22,6 +22,28 @@ Mientras Francesco persigue a Leonardo, **Lisa se vuelve la verdadera cabeza** d
 | promesas ("soon") | resultados |
 | deslumbra | sostiene |
 
+## Caracterización y arco de Marco (DECIDIDO 2026-07-13) — a raíz de la revisión v1
+> La revisión detectó a Marco desaprovechado (funcional, sin personalidad ni arco). Decisión: **convertir sus menciones en escenas y darle motor propio.**
+
+- **El espejo recursivo: Marco → Francesco → Leonardo.** Marco es a Francesco lo que Francesco es a Leonardo: un **devoto**. Subió de mozo bajo su ala; para él, Francesco es el "genio" de verdad —el hombre hecho a sí mismo, Cónsul del Gremio a los 24, que construyó algo real y **entrega**—. Tercer eslabón de la cadena de admiración.
+- **La decepción es su motor.** Ver a su modelo degradarse en poco más que un seguidor de otro hombre lo decepciona. De ahí su **aversión a Leonardo**: no envidia al genio; le reprocha haberle **robado a SU genio**. Ironía rectora: *Leonardo le está quitando la atención de su propio "genio", Francesco.*
+- **Tesis [M] humanizada:** Marco cree en el hombre que ENTREGA y ve a ese hombre abandonar el entregar para perseguir a uno que nunca entrega. Encarna en carne y hueso "lo fiel y presente vale más que lo perseguido".
+- **Cómo mostrarlo (vía Lisa, POV):** Lisa observa la admiración y la decepción de Marco; él se lo deja ver a ella (socios de la tienda). Su interioridad se **infiere** de actos y de alguna línea seca; nunca omnisciencia.
+  - Se apaga/calla cuando Francesco se deshace en elogios a Leonardo.
+  - Se vuelca en el trabajo (entregar) como **reproche mudo**.
+  - Rara puya **digna** a Lisa (no lloriqueo, no villanía, no comic relief).
+
+### Guardarraíles (duros)
+- **NADA de romance ni rivalidad Lisa–Marco.** Su aversión es a Leonardo, no a Lisa.
+- Aversión **digna y contenida**; no rencor mezquino.
+- Marco **NO protagonista**: presencia constante, arco de fondo.
+- Vía Lisa siempre; nada que Marco no pudiera dejar ver.
+
+### Siembra → pago (mapa para la edición v2)
+- **Siembra (caps 1–2):** establecer que Marco admira a Francesco (el que lo hizo, el modelo que entrega).
+- **Desarrollo (caps 5–6, 10):** convertir en escenas con la decepción de Marco visible: "decide tú, Marco" (cap 5), el descubrimiento del mal embarque (cap 6), la escena del factor (cap 10). Aflora su aversión a Leonardo.
+- **Pago (cap 14 / epílogo):** el reconocimiento tardío de Francesco a Marco gana peso (ignoró al que lo admiraba mientras admiraba a otro). En el epílogo, Marco (con Lisa) sostiene el **legado real** —el negocio que entrega— frente al imaginado (el retrato en Francia).
+
 ## El quiebre de Lisa (cap 7) — bisagra del arco
 - **Único quiebre de toda la novela.** En la escena de Raphael (cap 7), tras años de aguante, Lisa **estalla contra Francesco** y le echa en cara todo (ausencias, soledad, la sangre de Piero, sostener casa/negocio en la sombra, salvar el mal embarque sin que él se entere).
 - **Orden:** quiebre → **realización** (no es el retrato, es Leonardo) → **aceptación**.

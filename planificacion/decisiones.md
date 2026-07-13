@@ -59,6 +59,9 @@
 - **Justificación in-mundo (canon nuevo):** Francesco, devoto, narra a Lisa con **detalle obsesivo** todo lo que le importa ("hasta la mota de polvo movida por el viento"). Sembrar ese rasgo para blindar el recurso. Ver `biblia/voz.md` › Mediación dosificada.
 - **Alcance:** afecta a la fase de edición (v2), no al primer borrador ya cerrado. Escenas objetivo: caps 3, 5, 9, 12.
 
+## Marco: personaje y arco (2026-07-13) — a raíz de la revisión v1
+- **Decisión: desarrollar a Marco (menciones → escenas).** La revisión lo detectó desaprovechado. **Espejo recursivo Marco→Francesco→Leonardo:** Marco admira a Francesco (su "genio": el mercader hecho a sí mismo que entrega) y se decepciona al verlo vuelto seguidor de otro → de ahí su aversión a Leonardo ("le robó a su genio"). Humaniza la tesis del hilo [M]. Guardarraíles: sin romance Lisa–Marco, aversión digna y contenida, de fondo, vía POV de Lisa. Siembra caps 1–2; desarrollo caps 5–6, 10; pago cap 14/epílogo. Ver `subtramas/marco_y_lisa.md` › Caracterización y arco de Marco. Afecta a la edición v2.
+
 ## Conflictos abiertos (decidir)
 - *(Ninguno — todos resueltos.)*
 
